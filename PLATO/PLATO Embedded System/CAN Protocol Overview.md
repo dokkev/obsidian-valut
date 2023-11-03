@@ -23,4 +23,4 @@ Every node can _try_ to transmit onto the bus, but they only will be able to whe
 
 ![[Pasted image 20231102141730.png]]
 
-In the physical layer, CAN is consisted of two wires: CAN-High and CAN-Low. The voltage difference between the determines the bit (0 or 1). 
+In the physical layer, CAN is consisted of two wires: CAN-High and CAN-Low. The voltage difference between the determines the bit. If there is a voltage difference of 2V between CAN
