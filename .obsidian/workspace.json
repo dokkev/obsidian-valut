@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded System/CAN Protocol Overview.md",
+                "file": "PLATO/PLATO Hand.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded System/CAN Protocol Overview.md",
+                "file": "PLATO/PLATO Hand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded System/CAN Protocol Overview.md",
+                "file": "PLATO/PLATO Hand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded System/CAN Protocol Overview.md"
+                "file": "PLATO/PLATO Hand.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "02e0a7ae9f305e14",
+  "active": "5444ba93733c14bf",
   "lastOpenFiles": [
-    "Untitled.md",
+    "PLATO",
     "Embedded System/CAN Protocol Overview.md",
+    "PLATO/PLATO Hand.md",
     "copilot-conversations/Chat-2023_11_03-11_17_55.md",
     "copilot-conversations",
     "Untitled.canvas",
