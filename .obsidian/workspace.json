@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "32b1877f91b11fda",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e217b47a09de85f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02e0a7ae9f305e14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embedded System/CAN Protocol Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1895aa3df5a7983d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fbe81409de9f0f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5444ba93733c14bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6775a3428dc30dd5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee8fd430f9440243",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c15f7e551bb8ae20",
+    "type": "split",
+    "children": [
+      {
+        "id": "73414c9191d2983f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a174db291c356062",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Embedded System/CAN Protocol Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7925bffdc15d0791",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Embedded System/CAN Protocol Overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5011f18258be2f79",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7e86e1299016f3ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Embedded System/CAN Protocol Overview.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "02e0a7ae9f305e14",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Embedded System/CAN Protocol Overview.md",
+    "copilot-conversations/Chat-2023_11_03-11_17_55.md",
+    "copilot-conversations",
+    "Untitled.canvas",
+    "2023-11-03.md",
+    "Embedded System/img_source/Pasted image 20231103103527.png",
+    "Embedded System/img_source/Pasted image 20231102141730.png",
+    "Embedded System/img_source",
+    "Embedded System/img_source/Pasted image 20231102142333.png",
+    "Embedded System"
+  ]
+}
