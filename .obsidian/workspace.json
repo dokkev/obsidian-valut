@@ -15,8 +15,8 @@
               "state": {
                 "file": "Untitled.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": -120,
+                  "y": -140,
                   "zoom": 0
                 }
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PLATO/PLATO Embedded System/CAN Protocol Overview.md"
+                "file": "Untitled.canvas"
               }
             }
           }
