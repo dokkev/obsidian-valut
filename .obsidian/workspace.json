@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector Setup.md",
+                "file": "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector and Can Utils.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector Setup.md",
+                "file": "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector and Can Utils.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector Setup.md",
+                "file": "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector and Can Utils.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector Setup.md"
+                "file": "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector and Can Utils.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "02e0a7ae9f305e14",
   "lastOpenFiles": [
     "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
-    "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector Setup.md",
+    "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector and Can Utils.md",
     "PLATO/Canvas.canvas",
     "PLATO/img_source/Pasted image 20231102141730.png",
     "PLATO/PLATO Hand",
