@@ -11,11 +11,14 @@
             "id": "02e0a7ae9f305e14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -148,14 +151,14 @@
   },
   "active": "02e0a7ae9f305e14",
   "lastOpenFiles": [
+    "2023-11-03.md",
+    "Untitled.canvas",
     "PLATO/PLATO Hand.md",
+    "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
     "PLATO/Optimo Arm",
     "PLATO",
-    "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
     "copilot-conversations/Chat-2023_11_03-11_17_55.md",
     "copilot-conversations",
-    "Untitled.canvas",
-    "2023-11-03.md",
     "PLATO/img_source/Pasted image 20231103103527.png",
     "PLATO/img_source/Pasted image 20231102141730.png",
     "PLATO/img_source",
