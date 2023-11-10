@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"2898d59ddd9e4f3e","x":-220,"y":-200,"width":200,"height":120,"type":"file","file":"PLATO/PLATO Embedded System/CAN Protocol Overview.md"}
+		{"id":"2898d59ddd9e4f3e","type":"file","file":"PLATO/PLATO Embedded System/CAN Protocol Overview.md","x":-220,"y":-200,"width":200,"height":120}
 	],
 	"edges":[]
 }
