@@ -1,1 +1,0 @@
-Traditional RL conducts numerous simulation and saves to RAM prior to uploading to GPU to train policy DNN. Using data uploaded to GPU, the policy network is updated to conduct simulations. This method causes inefficient data transfer

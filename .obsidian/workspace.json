@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NVIDIA Isaac Gym/Quick Overview.md",
+                "file": "NVIDIA Isaac Gym/Issac Gym Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NVIDIA Isaac Gym/Quick Overview.md",
+                "file": "NVIDIA Isaac Gym/Issac Gym Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NVIDIA Isaac Gym/Quick Overview.md",
+                "file": "NVIDIA Isaac Gym/Issac Gym Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NVIDIA Isaac Gym/Quick Overview.md"
+                "file": "NVIDIA Isaac Gym/Issac Gym Overview.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "02e0a7ae9f305e14",
   "lastOpenFiles": [
     "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
-    "NVIDIA Isaac Gym/Quick Overview.md",
+    "NVIDIA Isaac Gym/Issac Gym Overview.md",
     "NVIDIA Isaac Gym",
     "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector and Can Utils.md",
     "PLATO/Canvas.canvas",
