@@ -1,1 +1,1 @@
-Conventional CPU based RL conductes
+Conventional CPU based RL conducts numerous simulation and saves to RAM prior to 
