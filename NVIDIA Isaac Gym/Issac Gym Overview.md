@@ -4,4 +4,4 @@ Traditional RL conducts numerous simulation and saves to RAM prior to uploading 
 
 ## Memory Management
 
-Let's assume simulation environments with robotic manipulators with target objects for robot manipulation learning. In every time step, Issac Gym saves each environment's state such as the robot state (joints, end-effector, actions) and the object state as tensors which become a flat serialized vector. GPU reads the serialized vector 
+Let's assume simulation environments with robotic manipulators with target objects for robot manipulation learning. In every time step, Issac Gym saves each environment's state such as the robot state (joints, end-effector, actions) and the object state as tensors which become a flat serialized vector. GPU can read the serialized vector 
