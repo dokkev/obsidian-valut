@@ -4,4 +4,4 @@ Traditional RL conducts numerous simulation and saves to RAM prior to uploading 
 
 ## Memory Management
 
-Let's assume a simulation enviroment with 
+Let's assume a simulation environment with a robotic manipulator with a target object. In every time step, Issa
