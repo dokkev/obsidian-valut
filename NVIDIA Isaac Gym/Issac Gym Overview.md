@@ -4,4 +4,4 @@ Traditional RL conducts numerous simulation and saves to RAM prior to uploading 
 
 ## Memory Management
 
-Let's assume simulation environments with robotic manipulators with target objects for robot manipulation learning. In every time step, Issac Gym saves each enviroment's 
+Let's assume simulation environments with robotic manipulators with target objects for robot manipulation learning. In every time step, Issac Gym saves each environment's state as tensors which become a flatten
