@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7521fcc3d1d9978f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PLATO/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NVIDIA Isaac Gym/Issac Gym Overview.md",
+                "file": "PLATO/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NVIDIA Isaac Gym/Issac Gym Overview.md",
+                "file": "PLATO/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NVIDIA Isaac Gym/Issac Gym Overview.md"
+                "file": "PLATO/Untitled.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "02e0a7ae9f305e14",
+  "active": "5444ba93733c14bf",
   "lastOpenFiles": [
-    "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
     "NVIDIA Isaac Gym/Issac Gym Overview.md",
+    "PLATO/Untitled.md",
+    "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
     "NVIDIA Isaac Gym",
     "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector and Can Utils.md",
     "PLATO/Canvas.canvas",
