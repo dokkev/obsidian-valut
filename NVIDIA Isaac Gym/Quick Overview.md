@@ -1,1 +1,1 @@
-Conventional CPU based RL conducts numerous simulation and saves to RAM prior to uploading to GPU to train policy DNN. 
+Traditional RL conducts numerous simulation and saves to RAM prior to uploading to GPU to train policy DNN. 
