@@ -1,0 +1,1 @@
+Karnopp friction model is a discontinuous model which distinguishes static and dynamic friction. Karnopp friction compensation 

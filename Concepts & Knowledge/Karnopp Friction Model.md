@@ -1,1 +1,0 @@
-Karnopp is a discontinuous model which distinguishes static and dynamic friction
