@@ -6,7 +6,7 @@ Orbit Install
 https://isaac-orbit.github.io/orbit/source/setup/installation.html#installing-isaac-sim
 
 
-Orbit Install Debugging:
+Orbit Install Debugging in Building extensions:
 1)  Typo in `source/extensions/omni.isaac.orbit_envs/setup.py`
 https://github.com/NVIDIA-Omniverse/Orbit/commit/e99c2dec2cb872cef91747dfaf28396af1d3baf3
 ```
