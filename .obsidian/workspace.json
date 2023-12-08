@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NVIDIA Isaac Sim/Installation.md",
+                "file": "NVIDIA Isaac Sim/Installation & Install Error Debugging.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NVIDIA Isaac Sim/Installation.md",
+                "file": "NVIDIA Isaac Sim/Installation & Install Error Debugging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NVIDIA Isaac Sim/Installation.md",
+                "file": "NVIDIA Isaac Sim/Installation & Install Error Debugging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NVIDIA Isaac Sim/Installation.md"
+                "file": "NVIDIA Isaac Sim/Installation & Install Error Debugging.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "7521fcc3d1d9978f",
   "lastOpenFiles": [
     "NVIDIA Isaac Sim/Untitled.md",
-    "NVIDIA Isaac Sim/Installation.md",
+    "NVIDIA Isaac Sim/Installation & Install Error Debugging.md",
     "NVIDIA Isaac Sim/Issac Gym Overview.md",
     "Concepts & Knowledge/Finite State Machine.md",
     "Untitled.md",
