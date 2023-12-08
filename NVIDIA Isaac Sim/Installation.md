@@ -7,8 +7,9 @@ https://isaac-orbit.github.io/orbit/source/setup/installation.html#installing-is
 
 
 Orbit Install Debugging:
+1) 
 
-1) Gym Install with O
+1) Gym Install error with opencv-python 
 https://github.com/openai/gym/issues/3202#issuecomment-1511268727
 ```
           opencv-python>=3.
