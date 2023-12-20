@@ -11,7 +11,7 @@ Opinion:
 - Performance evaluation is challenging as well because it requires setting up different simulation environment. If commercial, the company may provide controllers (integrated into the robot)
 
 
-Reinforcement Learning Ba
+## Reinforcement Learning Basics
 
 ![[rl_framework.png|500]]
 
@@ -44,3 +44,5 @@ PPO
 - Actor update
 - critic update
 - repeat
+
+## RL in Humanoid
