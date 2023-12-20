@@ -48,4 +48,6 @@ PPO
 ## RL in Humanoid
 ![[Pasted image 20231220173910.png]]
 
-In a humanoid case, it's hard define accurate reward for "good" gait. Thus, 
+In a humanoid case, it's hard define accurate reward for "good" gait. Thus, regulation lacks due to high DOF results in jerky and "unnatural" behavior/motion.
+
+### Va
