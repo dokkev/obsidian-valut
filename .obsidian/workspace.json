@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NVIDIA Isaac Sim/Installation & Install Error Debugging.md",
+                "file": "PLATO/PLATO Hand/Robotic Fingernail.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NVIDIA Isaac Sim/Installation & Install Error Debugging.md",
+                "file": "PLATO/PLATO Hand/Robotic Fingernail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NVIDIA Isaac Sim/Installation & Install Error Debugging.md",
+                "file": "PLATO/PLATO Hand/Robotic Fingernail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NVIDIA Isaac Sim/Installation & Install Error Debugging.md"
+                "file": "PLATO/PLATO Hand/Robotic Fingernail.md"
               }
             }
           }
@@ -146,19 +146,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7521fcc3d1d9978f",
+  "active": "5444ba93733c14bf",
   "lastOpenFiles": [
-    "NVIDIA Isaac Sim/Untitled.md",
+    "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
+    "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector and Can Utils.md",
     "NVIDIA Isaac Sim/Installation & Install Error Debugging.md",
+    "NVIDIA Isaac Sim/Untitled.md",
     "NVIDIA Isaac Sim/Issac Gym Overview.md",
     "Concepts & Knowledge/Finite State Machine.md",
     "Untitled.md",
     "Concepts & Knowledge/Karnopp Friction Compensation.md",
     "Concepts & Knowledge",
     "PLATO/Canvas.canvas",
-    "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
     "NVIDIA Isaac Sim",
-    "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector and Can Utils.md",
     "PLATO/PLATO Hand/Robotic Fingernail.md",
     "PLATO/PLATO Hand/Untitled 1.md",
     "PLATO/img_source/Pasted image 20231102141730.png",
