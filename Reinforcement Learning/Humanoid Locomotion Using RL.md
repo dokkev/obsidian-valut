@@ -16,5 +16,6 @@ Opinion:
 
 RL environment involves an Agent and Environment. The Agent takes action based on the State, and the Environment provides next State and Reward to the Agent.
 
-
 ![[reward_eq.png]]
+
+The goal is to maximize the accumulative reward over 
