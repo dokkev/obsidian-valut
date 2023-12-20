@@ -18,4 +18,5 @@ RL environment involves an Agent and Environment. The Agent takes action based o
 
 ![[reward_eq.png]]
 
-The goal is to maximize the accumulative reward over instantaneous reward.
+The goal is to maximize the accumulative reward over instantaneous reward. Gamma is a discount factor which reflect the value of the reward signal time. 
+
