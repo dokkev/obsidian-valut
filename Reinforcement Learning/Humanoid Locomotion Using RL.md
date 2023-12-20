@@ -34,3 +34,5 @@ These theorem applies same to the Optimal Control Theory. RL is different from O
 ![[Pasted image 20231220173211.png]]
 
 The question is how we are going to measure the gradient.
+
+Critic is used to lower the variance
