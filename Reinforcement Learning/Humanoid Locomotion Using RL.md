@@ -46,3 +46,6 @@ PPO
 - repeat
 
 ## RL in Humanoid
+![[Pasted image 20231220173910.png]]
+
+In a humanoid case, it's hard define accurate reward for "good" gait. Thus, 
