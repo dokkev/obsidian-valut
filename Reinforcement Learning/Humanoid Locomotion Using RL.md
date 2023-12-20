@@ -11,7 +11,7 @@ Opinion:
 - Performance evaluation is challenging as well because it requires setting up different simulation environment. If commercial, the company may provide controllers (integrated into the robot)
 
 
-![[]]}]
+![[rl_framework.png|500]]
 
 
 RL environment involves an Agent and Environment. The Agent takes action based on the State, and the Environment provides next State and Reward to the Agent.
