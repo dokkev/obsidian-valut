@@ -65,3 +65,5 @@ SLIP model (inverted pendulum) to give foot pose and velocity reference.
 ### Variation 2: Task Space Action
 
 ![[Pasted image 20231220175325.png]]
+
+Poli

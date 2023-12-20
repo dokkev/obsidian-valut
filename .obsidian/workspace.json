@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NVIDIA Isaac Sim/Issac Gym Overview.md",
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NVIDIA Isaac Sim/Issac Gym Overview.md",
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NVIDIA Isaac Sim/Issac Gym Overview.md",
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NVIDIA Isaac Sim/Issac Gym Overview.md"
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "7521fcc3d1d9978f",
   "lastOpenFiles": [
-    "NVIDIA Isaac Sim/Installation & Install Error Debugging.md",
     "NVIDIA Isaac Sim/Issac Gym Overview.md",
+    "NVIDIA Isaac Sim/Installation & Install Error Debugging.md",
     "NVIDIA Isaac Sim/Untitled.md",
     "Reinforcement Learning/Humanoid Locomotion Using RL.md",
     "Pasted image 20231220175325.png",
