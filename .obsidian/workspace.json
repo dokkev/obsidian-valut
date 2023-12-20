@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md"
               }
             }
           }
@@ -144,11 +146,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5444ba93733c14bf",
+  "active": "7521fcc3d1d9978f",
   "lastOpenFiles": [
-    "Untitled",
-    "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
     "Untitled.md",
+    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
+    "Reinforcement Learning",
+    "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
     "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector and Can Utils.md",
     "PLATO/PLATO Hand/Robotic Fingernail.md",
     "NVIDIA Isaac Sim/Installation & Install Error Debugging.md",
