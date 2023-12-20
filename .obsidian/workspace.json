@@ -146,11 +146,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5444ba93733c14bf",
+  "active": "7521fcc3d1d9978f",
   "lastOpenFiles": [
+    "Reinforcement Learning/img_source/rl_framework.png",
+    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
     "Reinforcement Learning/img_source",
     "Untitled.md",
-    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
     "Reinforcement Learning",
     "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
     "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector and Can Utils.md",
