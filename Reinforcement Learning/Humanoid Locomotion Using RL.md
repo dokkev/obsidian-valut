@@ -8,5 +8,5 @@
 
 Opinion:
 - Measuring robustness can be challenging. 
-- Performance evaluation is challenging as well bec
+- Performance evaluation is challenging as well because it requires setting up different simulation environment. If commercial, the company may provide controllers (integrea)
 
