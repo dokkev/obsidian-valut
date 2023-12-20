@@ -28,4 +28,4 @@ The goal is to maximize the accumulative reward over instantaneous reward. Gamma
 
 초기 state 에서 pi 라는  policy 에 따라서 action 을 했을 때 현재 state 랑 action 에 따라서 그 다음 state 가 어떻게 될 지 확률적인 모델.
 
-These theo
+These theorem applies same to the Optimal Control Theory. RL is different from Optimal Control that it
