@@ -53,10 +53,12 @@ In a humanoid case, it's hard define accurate reward for "good" gait. Thus, regu
 ### Variation 1-1: Regulation through Reference Motion
 ![[Pasted image 20231220174146.png]]
 
-This method was used in 2018 by DeepMimic which aims to produce target joint angles to mimic mocap data. The reward is motion limitation, but it is trained to maximize the value function (long term reward) rather than 무조건 따라하기.
+This method was used in 2018 by DeepMimic which aims to produce target joint angles to mimic mocap data. The reward is motion limitation, but it is trained to maximize the value function (long term reward) over directly matching the mocap data.
 
 State is each link's position/rotation and linear/angular velocity, and Action is qd (30Hz) while using PD controller in 1kHz.
 
 ### Variation 1-2: Simplified Model based Reference
 
 ![[Pasted image 20231220175105.png]]
+
+SLIP model (inverted pendulum)
