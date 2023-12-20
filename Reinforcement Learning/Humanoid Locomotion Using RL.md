@@ -30,3 +30,7 @@ The goal is to maximize the accumulative reward over instantaneous reward. Gamma
 ![[Pasted image 20231220172914.png]]
 
 These theorem applies same to the Optimal Control Theory. RL is different from Optimal Control that it uses parameterized neural network based controller. Pi_theta which is called Actor tries the maximize the value function by gradient ascent.
+
+![[Pasted image 20231220173211.png]]
+
+The question is how we are going to measure the gradient.
