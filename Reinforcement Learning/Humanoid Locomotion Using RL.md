@@ -61,4 +61,7 @@ State is each link's position/rotation and linear/angular velocity, and Action i
 
 ![[Pasted image 20231220175105.png]]
 
-SLIP model (inverted pendulum) to give foot pose and velocity
+SLIP model (inverted pendulum) to give foot pose and velocity reference.
+### Variation 2: Task Space Action
+
+![[Pasted image 20231220175325.png]]
