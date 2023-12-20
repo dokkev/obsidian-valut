@@ -66,4 +66,4 @@ SLIP model (inverted pendulum) to give foot pose and velocity reference.
 
 ![[Pasted image 20231220175325.png]]
 
-Poli
+Policy, pi outputs task space action xd which is feeded into the OSC
