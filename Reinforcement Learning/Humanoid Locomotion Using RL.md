@@ -11,6 +11,8 @@ Opinion:
 - Performance evaluation is challenging as well because it requires setting up different simulation environment. If commercial, the company may provide controllers (integrated into the robot)
 
 
+Reinforcement Learning Ba
+
 ![[rl_framework.png|500]]
 
 
@@ -38,3 +40,7 @@ The question is how we are going to measure the gradient.
 Critic is used to lower the variance. Actor asks the critic about its action to other action
 
 PPO
+- Data collection: actor acts and critic evaluates
+- Actor update
+- critic update
+- repeat
