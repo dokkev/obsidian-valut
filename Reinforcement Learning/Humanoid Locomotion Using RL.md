@@ -18,4 +18,4 @@ RL environment involves an Agent and Environment. The Agent takes action based o
 
 ![[reward_eq.png]]
 
-The goal is to maximize the accumulative reward over 
+The goal is to maximize the accumulative reward over instantaneous reward.
