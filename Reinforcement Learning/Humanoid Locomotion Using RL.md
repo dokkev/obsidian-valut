@@ -6,5 +6,7 @@
 	- velocity tracking
 	- faster motion
 
-Measuring robustness can be challenging. Performance evaluation is challengin
+Opinion:
+- Measuring robustness can be challenging. 
+- Performance evaluation is challenging as well bec
 
