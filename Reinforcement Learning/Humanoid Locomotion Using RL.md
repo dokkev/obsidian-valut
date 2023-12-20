@@ -50,4 +50,5 @@ PPO
 
 In a humanoid case, it's hard define accurate reward for "good" gait. Thus, regulation lacks due to high DOF results in jerky and "unnatural" behavior/motion.
 
-### Va
+### Variation 1: Regulation through Reference Motion
+![[Pasted image 20231220174146.png]]
