@@ -23,3 +23,7 @@ The goal is to maximize the accumulative reward over instantaneous reward. Gamma
 ![[Pasted image 20231220172113.png]]
 
 최종적으론  누적 Reward Expectation 값을 최대화 시키는 것을 목표.  J(pi) 이 value function. P(tau|pi) 는 pi 라는 제어기/policy 를 따라서 행동했을 때 어떤 궤적이 나오는지 확인.
+
+![[Pasted image 20231220172517.png]]
+
+초기 state 에서 pi 라는  policy 에 따라서 action 을 했을 때
