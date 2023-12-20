@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PLATO/PLATO Embedded System/CAN Protocol Overview.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -146,16 +144,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7521fcc3d1d9978f",
+  "active": "5444ba93733c14bf",
   "lastOpenFiles": [
+    "Untitled",
+    "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
+    "Untitled.md",
     "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector and Can Utils.md",
     "PLATO/PLATO Hand/Robotic Fingernail.md",
-    "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
     "NVIDIA Isaac Sim/Installation & Install Error Debugging.md",
     "NVIDIA Isaac Sim/Untitled.md",
     "NVIDIA Isaac Sim/Issac Gym Overview.md",
     "Concepts & Knowledge/Finite State Machine.md",
-    "Untitled.md",
     "Concepts & Knowledge/Karnopp Friction Compensation.md",
     "Concepts & Knowledge",
     "PLATO/Canvas.canvas",
