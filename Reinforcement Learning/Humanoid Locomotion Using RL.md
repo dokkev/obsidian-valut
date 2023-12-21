@@ -86,4 +86,9 @@ Due to simulation and reality gap, learned controlled may not perform well in th
 	- State: Jpos/vel, Body orientation
 	- Command torque of 33 joints
 	- Reward: Body pose6d, Joint pose6d
-- Task 
+- Task 2: Squat
+	- State
+		- Orientation (roll, pitch)
+		- Joint Positon
+		- Joint Velocity
+		- Phase
