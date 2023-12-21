@@ -71,4 +71,7 @@ Policy, pi outputs task space action xd which is fed into the OSC. OSC needs to 
 RL is beneficial in robustness that action is affected by noise which results in both bad and good action which results in compliant controller in case of disturbance
 ### Variation 2-2
 
-Vision included hierarchical structure
+- Vision included hierarchical structure
+- RL based low level controller
+### Sim-to-Real
+Due to simulation and reality gap, 
