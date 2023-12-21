@@ -79,4 +79,4 @@ Due to simulation and reality gap, learned controlled may not perform well in th
 - Dynamics/Domain randomization but this method decreases optimal performance
 - Sensor noise
 - Curriculum learning: start with easier task such as lower speed
-- Domain Adaptation  (Online system identification): Estimate rad
+- Domain Adaptation  (Online system identification): Estimate randomized parameters in real robot deployment.
