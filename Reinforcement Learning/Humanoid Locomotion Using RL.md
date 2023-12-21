@@ -73,10 +73,14 @@ RL is beneficial in robustness that action is affected by noise which results in
 
 - Vision included hierarchical structure
 - RL based low level controller
-### Sim-to-Real
+### Sim-to-Real Issue
 Due to simulation and reality gap, learned controlled may not perform well in the real robot. To mitigate these issues:
 - Accurate system identification (link, mass, actuator performance)
 - Dynamics/Domain randomization but this method decreases optimal performance
 - Sensor noise
 - Curriculum learning: start with easier task such as lower speed
 - Domain Adaptation  (Online system identification): Estimate randomized parameters in real robot deployment.
+
+### Real Robot Experiment
+- Task 1: stand-still task with torque command
+	- State: 
