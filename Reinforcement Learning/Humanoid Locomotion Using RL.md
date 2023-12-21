@@ -78,3 +78,5 @@ Due to simulation and reality gap, learned controlled may not perform well in th
 - Accurate system identification (link, mass, actuator performance)
 - Dynamics/Domain randomization but this method decreases optimal performance
 - Sensor noise
+- Curriculum learning: start with easier task such as lower speed
+- 
