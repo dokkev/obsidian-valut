@@ -68,5 +68,5 @@ SLIP model (inverted pendulum) to give foot pose and velocity reference.
 ![[Pasted image 20231220175917.png]]
 Policy, pi outputs task space action xd which is fed into the OSC. OSC needs to ran along with the learning. 
 
-RL is bene
+RL is beneficial in robustness that action is affected by noise which results in both bad and good action which 
 ### Variation 2-2
