@@ -91,4 +91,6 @@ Due to simulation and reality gap, learned controlled may not perform well in th
 		- Orientation (roll, pitch)
 		- Joint Positon
 		- Joint Velocity
-		- Phase
+		- Phase : 전체 모션중 현재의 시간을 표현
+	- Action
+		- Torque of 33 joints
