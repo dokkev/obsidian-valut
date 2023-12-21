@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning/Untitled.md",
+                "file": "Reinforcement Learning/Mujoco vs Issac Gym.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning/Untitled.md",
+                "file": "Reinforcement Learning/Mujoco vs Issac Gym.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning/Untitled.md",
+                "file": "Reinforcement Learning/Mujoco vs Issac Gym.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning/Untitled.md"
+                "file": "Reinforcement Learning/Mujoco vs Issac Gym.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "7521fcc3d1d9978f",
   "lastOpenFiles": [
     "Reinforcement Learning/Humanoid Locomotion Using RL.md",
-    "Reinforcement Learning/Untitled.md",
+    "Reinforcement Learning/Mujoco vs Issac Gym.md",
     "Reinforcement Learning/img_source/Pasted image 20231220175917.png",
     "NVIDIA Isaac Sim/Issac Gym Overview.md",
     "NVIDIA Isaac Sim/Installation & Install Error Debugging.md",
