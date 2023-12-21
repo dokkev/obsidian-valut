@@ -99,3 +99,5 @@ Due to simulation and reality gap, learned controlled may not perform well in th
 		- Joint Position mimic
 		- Joint Velocity mimic
 	- Since the policy affects the whole body, the upper body error affects lower body and vice-versa.
+- End-to-end method is more sensitive to the model difference.
+- position control 
