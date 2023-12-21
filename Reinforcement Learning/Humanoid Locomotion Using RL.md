@@ -74,4 +74,5 @@ RL is beneficial in robustness that action is affected by noise which results in
 - Vision included hierarchical structure
 - RL based low level controller
 ### Sim-to-Real
-Due to simulation and reality gap, 
+Due to simulation and reality gap, learned controlled may not perform well in the real robot. To mitigate these issues:
+- System identification
