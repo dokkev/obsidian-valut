@@ -65,5 +65,6 @@ SLIP model (inverted pendulum) to give foot pose and velocity reference.
 ### Variation 2: Task Space Action
 
 ![[Pasted image 20231220175325.png]]
+![[Pasted image 20231220175917.png]]
+Policy, pi outputs task space action xd which is fed into the OSC. OSC needs to ran along with the learning. 
 
-Policy, pi outputs task space action xd which is feeded into the OSC.
