@@ -98,4 +98,4 @@ Due to simulation and reality gap, learned controlled may not perform well in th
 		- Body Orientation Stability
 		- Joint Position mimic
 		- Joint Velocity mimic
-	- Since the policy affects the whole body, 
+	- Since the policy affects the whole body, the upper body error affects lower body and vice-versa.
