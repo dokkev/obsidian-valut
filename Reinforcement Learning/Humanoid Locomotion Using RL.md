@@ -101,4 +101,4 @@ Due to simulation and reality gap, learned controlled may not perform well in th
 	- Since the policy affects the whole body, the upper body error affects lower body and vice-versa.
 - End-to-end method is more sensitive to the model difference.
 - Position control with PD controller compensate for error such as friction resulting similar state transition between the simulation and the real robot.
-- On the other hand, torque output
+- On the other hand, torque output creates a large gap in state transition.
