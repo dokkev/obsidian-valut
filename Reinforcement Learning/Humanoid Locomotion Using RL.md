@@ -76,4 +76,5 @@ RL is beneficial in robustness that action is affected by noise which results in
 ### Sim-to-Real
 Due to simulation and reality gap, learned controlled may not perform well in the real robot. To mitigate these issues:
 - Accurate system identification (link, mass, actuator performance)
-- Dynamics r
+- Dynamics/Domain randomization
+- Sensor noise
