@@ -62,11 +62,11 @@ State is each link's position/rotation and linear/angular velocity, and Action i
 ![[Pasted image 20231220175105.png]]
 
 SLIP model (inverted pendulum) to give foot pose and velocity reference.
-### Variation 2: Task Space Action
+### Variation 2-1: Task Space Action
 
 ![[Pasted image 20231220175325.png]]
 ![[Pasted image 20231220175917.png]]
 Policy, pi outputs task space action xd which is fed into the OSC. OSC needs to ran along with the learning. 
 
-### Variation 2-1:
+RL is bene
 ### Variation 2-2
