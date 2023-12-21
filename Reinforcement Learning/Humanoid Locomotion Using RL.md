@@ -83,4 +83,6 @@ Due to simulation and reality gap, learned controlled may not perform well in th
 
 ### Real Robot Experiment
 - Task 1: stand-still task with torque command
-	- State: 
+	- State: Jpos/vel, Body orientation
+	- Command torque of 33 joints
+	- Reward: Body pose6d, Joint pose6d
