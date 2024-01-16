@@ -12,3 +12,7 @@ Topics in Robot Manipulation
 9. Language in Robot Manipulation
 10. Robotic Manipulation Systems in the Real World
 
+Learning Objectives
+- classical techniques
+- recent learning techniques
+- Evaluate  papers
