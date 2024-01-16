@@ -20,5 +20,7 @@
 ## Grading
 - Student presentation (30%)
 - Paper summaries / abstract and Quizzes (15%)
+	- description of the problem
+	- why state-of-the-art
 - Course Project (40%)
 - Participation (15%)
