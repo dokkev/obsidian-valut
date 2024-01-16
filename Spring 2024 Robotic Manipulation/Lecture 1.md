@@ -28,4 +28,4 @@
 
 
 ## Homeworks (This Thursday 1/18 )
-P
+Paper summary
