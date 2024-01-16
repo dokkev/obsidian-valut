@@ -1,12 +1,13 @@
 Topics in Robot Manipulation
 1. Grasping
 2. Control
-3. Motion Plannng
+3. Motion Planning
 4. Task and Motion Planning
 5. Imitation Learning
-6. RL
+6. Reinforcement Learning
 	1. Model free
 	2. Model based
 7. Simulators
-8. Benchmarking
-9. Launguae in Robot Mani
+8. Bench marking
+9. Language in Robot Manipulation
+10. Robotic Manipulation Systems in the Real World
