@@ -12,11 +12,13 @@
 9. Language in Robot Manipulation
 10. Robotic Manipulation Systems in the Real World
 
-Learning Objectives
+#### Learning Objectives
 - classical techniques
 - recent learning techniques
 - Evaluate and apply papers
 
 ## Grading
-Student presentation (30%)
-Paper summaries / abstract
+- Student presentation (30%)
+- Paper summaries / abstract and Quizzes (15%)
+- Course Project (40%)
+- Participation (15%)
