@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md"
+                "file": "Spring 2024 Robotic Manipulation/Lecture 1.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "7521fcc3d1d9978f",
   "lastOpenFiles": [
-    "Reinforcement Learning/Mujoco vs Issac Gym.md",
     "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
+    "Spring 2024 Robotic Manipulation/Lecture 1.md",
+    "Spring 2024 Robotic Manipulation",
+    "Reinforcement Learning/Mujoco vs Issac Gym.md",
     "Tedrake Robotic Manipulation",
     "Reinforcement Learning/Humanoid Locomotion Using RL.md",
     "Reinforcement Learning/img_source/Pasted image 20231220175917.png",
@@ -183,7 +185,6 @@
     "PLATO/Optimo Arm",
     "PLATO",
     "copilot-conversations/Chat-2023_11_03-11_17_55.md",
-    "copilot-conversations",
-    "PLATO/img_source"
+    "copilot-conversations"
   ]
 }
