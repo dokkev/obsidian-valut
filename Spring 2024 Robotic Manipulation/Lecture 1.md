@@ -20,8 +20,8 @@
 ## Grading
 - Student presentation (30%)
 - Paper summaries / abstract and Quizzes (15%)
-	- description of the problem
 - Course Project (40%)
 	- 3 person team
 - Participation (15%)
+	- Attendance (3 times)
 	- Debate
