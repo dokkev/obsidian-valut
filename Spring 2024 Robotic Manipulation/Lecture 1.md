@@ -11,3 +11,4 @@ Topics in Robot Manipulation
 8. Bench marking
 9. Language in Robot Manipulation
 10. Robotic Manipulation Systems in the Real World
+
