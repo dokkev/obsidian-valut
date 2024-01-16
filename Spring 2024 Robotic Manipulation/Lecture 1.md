@@ -28,4 +28,5 @@
 
 
 ## Homework (This Thursday 1/18 )
-Paper summary
+- Pick 3 topics to present
+- Project h
