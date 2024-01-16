@@ -27,5 +27,5 @@
 	- Debate
 
 
-## Homeworks (This Thursday 1/18 )
+## Homework (This Thursday 1/18 )
 Paper summary
