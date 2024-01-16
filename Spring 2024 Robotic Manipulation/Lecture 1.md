@@ -23,5 +23,8 @@
 - Course Project (40%)
 	- 3 person team
 - Participation (15%)
-	- Attendance (3 times)
+	- Attendance (3 times missing)
 	- Debate
+
+
+## Homeworks
