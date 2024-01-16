@@ -1,4 +1,4 @@
-Topics in Robot Manipulation
+## Topics in Robot Manipulation
 1. Grasping
 2. Control
 3. Motion Planning
@@ -15,4 +15,8 @@ Topics in Robot Manipulation
 Learning Objectives
 - classical techniques
 - recent learning techniques
-- Evaluate  papers
+- Evaluate and apply papers
+
+## Grading
+Student presentation (30%)
+Paper summaries / abstract
