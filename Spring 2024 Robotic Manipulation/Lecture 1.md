@@ -29,4 +29,6 @@
 
 ## Homework (This Thursday 1/18 )
 - Pick 3 topics to present
-- Project h
+- Project group and sent it to Arpit by the end of the week
+- Read 3 Papers with "challenges, limitations, capabilities and assumptions", and debate pro/con arguments
+- 
