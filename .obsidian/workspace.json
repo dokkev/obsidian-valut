@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03e75fdedda051a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Spring 2024 Robotic Manipulation/Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,12 +159,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7521fcc3d1d9978f",
+  "active": "03e75fdedda051a8",
   "lastOpenFiles": [
-    "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
     "Spring 2024 Robotic Manipulation/Lecture 1.md",
     "Spring 2024 Robotic Manipulation",
     "Reinforcement Learning/Mujoco vs Issac Gym.md",
+    "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
     "Tedrake Robotic Manipulation",
     "Reinforcement Learning/Humanoid Locomotion Using RL.md",
     "Reinforcement Learning/img_source/Pasted image 20231220175917.png",
