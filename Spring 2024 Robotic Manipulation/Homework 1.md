@@ -22,7 +22,7 @@ one slide for “Is learning necessary to solve robot manipulation? How? Why?”
 
 #### Solved Problems
 - Kinemaic/Dynamic model based manipulation in controlled enviromentsn 
-- Jacobian can calculate re
+- Grasp Jacobian calculates the required fingertip forces fro
 #### Assumptions
 Future dexterous robotic manipulation will include tasks which are iunfeeasbile or dangerous for a human.
 
