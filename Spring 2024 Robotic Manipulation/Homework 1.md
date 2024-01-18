@@ -17,6 +17,7 @@ one slide for “Is learning necessary to solve robot manipulation? How? Why?”
 
 #### challenges
 - Dexterous Manipulation (DM) requires precise control of forces and motions with robotic hands with fingers.
+- Fingertip contact sensors
 #### Limitations
 - Lack of adequate tactile sensing.
 
@@ -25,7 +26,7 @@ one slide for “Is learning necessary to solve robot manipulation? How? Why?”
 - Grasp Jacobian calculates the required fingertip forces from the desired wrench term to the object, while Hand Jacobian maps the relationship between the contact force of the fingertip and joint torques. Moreover, Jacobian can provide kinematic relationship regarding joint velocities, fingertip Cartesian velocity, and object Cartesian velocity.
 
 #### Assumptions
-- The rolling absliding problems are assumed to be pure rolling in the contact plane.
+- The rolling and sliding problems are assumed to be pure rolling in the contact plane.
 
 
 - Solved problems
