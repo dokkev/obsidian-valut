@@ -25,7 +25,7 @@ one slide for “Is learning necessary to solve robot manipulation? How? Why?”
 - Grasp Jacobian calculates the required fingertip forces from the desired wrench term to the object, while Hand Jacobian maps the relationship between the contact force of the fingertip and joint torques. Moreover, Jacobian can provide kinematic relationship regarding joint velocities, fingertip Cartesian velocity, and object Cartesian velocity.
 
 #### Assumptions
-Future dexterous robotic manipulation will include tasks which are infeasible or dangerous for a human 
+- Tge rikkubg abd sliding problems are assum
 
 
 - Solved problems
