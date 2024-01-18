@@ -99,6 +99,10 @@
 #### Section 4: Learning Object and Environment Representations
 The robot must discover the state features and degrees of freedom attached to each object in its environment.
 
+- **Modular Representation**: The world is divided into objects, each described by features or properties. This includes movable objects like mugs, tables, doors, and stationary objects like counters and walls. Robots create a modular representation by segmenting the environment into objects and estimating their properties.
+- **State and Context Spaces**: Object representations capture variations within tasks (state space) and across tasks (context space). For example, in a block stacking task, the shapes and sizes of the blocks (context) are fixed for a given task but vary across different tasks.
+- **Hierarchical Representations**: Object models are represented hierarchically, with layers corresponding to point-, part-, and object-level representations, each decreasing in detail but increasing in abstraction. This structure mirrors the geometric structure of objects and their parts.
+
 #### Section 5: learning a transition model of the environment (Sec. 5)
 The robot must learn a model of how its actions aﬀect the task state, and the resulting background cost, for use in planning.
 
