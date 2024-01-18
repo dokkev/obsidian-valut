@@ -44,7 +44,8 @@
 
 #### Limitations
 #### Solved Problems
-#### Assu
+#### Assumptions
+
 
 An overview of dexterous manipulation, Okamura and Cutkosky, ICRA 2000: 
 Section 1, Section 2 until 2.1, Section 3 until 3.1, Section 4 until 4.1, Section 5
