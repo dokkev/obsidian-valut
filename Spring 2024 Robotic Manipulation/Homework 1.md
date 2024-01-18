@@ -118,6 +118,28 @@ The robot must discover the state features and degrees of freedom attached to ea
 #### Section 5: learning a transition model of the environment (Sec. 5)
 The robot must learn a model of how its actions aﬀect the task state, and the resulting background cost, for use in planning.
 
+##### 5.1 Continuous Models
+
+- **Concept**: Discusses continuous models where the transition function is represented as a continuous function, often a neural network.
+- **Challenges**: The challenges in using continuous models include handling the high dimensionality of the input space and the need for large amounts of training data.
+
+##### 5.2 Discrete Models
+
+- **Overview**: This subsection talks about discrete models, which are particularly useful in symbolic or highly structured environments.
+- **Approach**: These models often employ propositional logic to define states and transitions, allowing for compact and understandable representations of the environment.
+
+##### 5.3 Hybrid Models
+
+- **Combination of Continuous and Discrete**: Hybrid models combine elements of both continuous and discrete models. They are often used in scenarios where manipulation tasks have both discrete and continuous aspects.
+- **Application**: These models are crucial in handling tasks that involve both high-level decision-making and fine-grained control.
+
+##### 5.4 Learning Transition Models
+
+- **Learning Process**: This part discusses the process of learning transition models from data. It covers the different strategies robots can use to understand how their actions change the environment.
+- **Data Collection**: Emphasizes the importance of data collection strategies in learning accurate and generalizable models.
+
+Overall, Section 5 provides a comprehensive overview of how robots can model and learn the dynamics of their actions in the environment, using continuous, discrete, and hybrid models. It highlights the importance of these models in enabling robots to plan and execute tasks effectively in a variety of settings.
+
 #### Section 6: Learning motor skills
 the robot attempts to learn a motor control policy that directly achieves some goal, typically via reinforcement learning
 
