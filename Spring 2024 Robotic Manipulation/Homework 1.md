@@ -10,3 +10,11 @@ Trends and challenges in robot manipulation, Billard and Kragic, Science 2019: y
 
 
 one slide for “Is learning necessary to solve robot manipulation? How? Why?” also with pro/con arguments.
+
+
+## An overview of dexterous manipulation, Okamura and Cutkosky, 
+
+- challenges
+- limitations
+- solved problems
+- 
