@@ -21,6 +21,7 @@ Dexterous Manipulation (DM) requires precise control of forces and motions with 
 
 
 #### Solved Problems
+Kinemaic/Dynamic model based manipulation in controlled enviroments. 
 #### Assumptions
 
 
