@@ -17,7 +17,7 @@ one slide for “Is learning necessary to solve robot manipulation? How? Why?”
 
 #### challenges
 - Dexterous Manipulation (DM) requires precise control of forces and motions with robotic hands with fingers.
-- Fingertip contact sensors
+- Difficulty to locating contact in case of slip with fingertip contact sensors
 #### Limitations
 - Lack of adequate tactile sensing.
 
