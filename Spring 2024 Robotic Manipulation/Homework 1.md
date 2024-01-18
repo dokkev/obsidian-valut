@@ -40,11 +40,21 @@
 ## Trends and challenges in robot manipulation, Billard and Kragic, Science 2019
 
 
-#### Challenges
-
-#### Limitations
-#### Solved Problems
-#### Assumptions
+1. **Ongoing Challenge in Dexterous Manipulation**: Despite advancements in software and hardware, achieving dexterous manipulation in robots - the ability to handle objects with precision and variety similar to human hands - remains an unsolved and complex issue. This challenge is intriguing as it requires a deeper understanding of human grasping and manipulation techniques.
+    
+2. **Purpose of Building Robots**: Robots are developed not only to automate tasks but also to assist humans in performing repetitive or dangerous tasks safely. This reflects the dual role of robots in both replacing and augmenting human efforts.
+    
+3. **Robust and Flexible Human-Robot Collaboration**: The future of robotics aims at seamless collaboration between humans and robots. This involves removing physical barriers ("fences") that currently exist for safety reasons and enabling direct interaction.
+    
+4. **Integration into Human Environments**: For robots to work alongside humans effectively, they need to be able to interpret human intentions and respond appropriately. This requires robots to be "smooth and trustable partners," suggesting they should operate in a way that is predictable, reliable, and easy for humans to understand and interact with.
+    
+5. **Understanding Human Interaction**: Robots need to have a better grasp of human behavior and interaction dynamics. This involves understanding both verbal and non-verbal cues and adapting to them in real-time.
+    
+6. **Real-time Adaptation**: Robots should be capable of adapting their actions in real-time based on changes in their environment or in response to human actions. This adaptability is crucial for effective and safe collaboration.
+    
+7. **Safety by Design**: There is a need to develop robots with safety as a fundamental aspect of their design. This includes creating robots with soft and lightweight structures to minimize the risk of injury during interactions.
+    
+8. **Multisensory Feedback-Based Control and Planning**: The paragraph also emphasizes the importance of advanced control and planning methodologies for robots, which should incorporate multisensory feedback. This means using data from various sensors (touch, vision, etc.) to make more informed and nuanced decisions.
 
 
 An overview of dexterous manipulation, Okamura and Cutkosky, ICRA 2000: 
