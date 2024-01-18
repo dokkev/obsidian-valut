@@ -23,7 +23,7 @@ The main limition is lack of adequate tactile sensing.
 #### Solved Problems
 Kinemaic/Dynamic model based manipulation in controlled enviroments. 
 #### Assumptions
-Future dexterous robotic manipulation will include task
+Future dexterous robotic manipulation will include tasks which are iunfeeasbile or dangerous for a human.
 
 
 
