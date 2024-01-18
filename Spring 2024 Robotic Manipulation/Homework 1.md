@@ -22,7 +22,7 @@ one slide for “Is learning necessary to solve robot manipulation? How? Why?”
 
 #### Solved Problems
 - Kinemaic/Dynamic model based manipulation in controlled enviromentsn 
-- Grasp Jacobian calculates the required fingertip forces from desired wrench term to the object while Hand Jacobian maps the relationship between the contact force of the fingertip and joint torques. Moreover, Jacobian can provide kinematic relationship regarding joint velocities and 
+- Grasp Jacobian calculates the required fingertip forces from desired wrench term to the object while Hand Jacobian maps the relationship between the contact force of the fingertip and joint torques. Moreover, Jacobian can provide kinematic relationship regarding joint velocities, fingertip cartesian velocity, and object cartesian velocitiy.
 
 #### Assumptions
 Future dexterous robotic manipulation will include tasks which are iunfeeasbile or dangerous for a human 
