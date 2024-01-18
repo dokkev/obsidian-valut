@@ -14,7 +14,13 @@ one slide for “Is learning necessary to solve robot manipulation? How? Why?”
 
 ## An overview of dexterous manipulation, Okamura and Cutkosky, 
 
-- challenges
-- limitations
+#### challenges
+#### limitations
+#### Solved Problems
+#### Assumptions
+
+
+
+
 - solved problems
 - 
