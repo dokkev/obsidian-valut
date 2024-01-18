@@ -99,9 +99,21 @@
 #### Section 4: Learning Object and Environment Representations
 The robot must discover the state features and degrees of freedom attached to each object in its environment.
 
+##### 4.1 Object Representations
+
 - **Modular Representation**: The world is divided into objects, each described by features or properties. This includes movable objects like mugs, tables, doors, and stationary objects like counters and walls. Robots create a modular representation by segmenting the environment into objects and estimating their properties.
 - **State and Context Spaces**: Object representations capture variations within tasks (state space) and across tasks (context space). For example, in a block stacking task, the shapes and sizes of the blocks (context) are fixed for a given task but vary across different tasks.
 - **Hierarchical Representations**: Object models are represented hierarchically, with layers corresponding to point-, part-, and object-level representations, each decreasing in detail but increasing in abstraction. This structure mirrors the geometric structure of objects and their parts.
+
+##### 4.2 Discovering Objects and Their Properties
+
+- **Segmentation and Identification**: Robots distinguish individual objects in a scene, typically using passive perception. They maintain a probabilistic belief over whether different parts belong to the same object and use interactive perception or viewpoint selection to resolve ambiguities.
+- **Learning Object Properties**: Robots learn about objects and their properties from data. This includes learning about variations in objects' features and how these variations are relevant to different manipulation tasks.
+
+##### 4.3 Learning About Objects and Their Properties
+
+- **Discovering Objects**: The first step in learning is distinguishing individual objects in a scene, which is a segmentation problem, typically accomplished using passive perception. However, objects may often be close together in the scene, presenting the robot with ambiguous information about object identity.
+- **Interactive Perception**: The robot can maintain a probabilistic belief over whether or not different parts belong to the same object, and use interactive perception or viewpoint selection to clarify the identity of objects.
 
 #### Section 5: learning a transition model of the environment (Sec. 5)
 The robot must learn a model of how its actions aﬀect the task state, and the resulting background cost, for use in planning.
