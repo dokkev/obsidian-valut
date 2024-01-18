@@ -28,6 +28,7 @@ one slide for “Is learning necessary to solve robot manipulation? How? Why?”
 
 #### Assumptions
 - The rolling and sliding problems are assumed to be pure rolling in the contact plane.
+- The sensors at the fingertips can provide reliable and robust measurements (or robust perception system).
 
 
 - Solved problems
