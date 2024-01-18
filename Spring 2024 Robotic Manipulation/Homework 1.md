@@ -37,6 +37,14 @@
 - A shift towards supervised manipulation, where humans provide high-level planning, and robots perform fine manipulations, is seen as a promising direction (Page 8).
 
 
+## Trends and challenges in robot manipulation, Billard and Kragic, Science 2019
+
+
+#### Challenges
+
+#### Limitations
+#### Solved Problems
+#### Assu
 
 An overview of dexterous manipulation, Okamura and Cutkosky, ICRA 2000: 
 Section 1, Section 2 until 2.1, Section 3 until 3.1, Section 4 until 4.1, Section 5
