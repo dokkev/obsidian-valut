@@ -16,12 +16,13 @@ one slide for “Is learning necessary to solve robot manipulation? How? Why?”
 ## An overview of dexterous manipulation, Okamura and Cutkosky, 
 
 #### challenges
-Dexterous Manipulation (DM) requires precise control of forces and motions with robotic hands with fingers.
+- Dexterous Manipulation (DM) requires precise control of forces and motions with robotic hands with fingers.
 #### limitations
-The main limition is lack of adequate tactile sensing.
+- Lack of adequate tactile sensing.
 
 #### Solved Problems
-Kinemaic/Dynamic model based manipulation in controlled enviroments show adquate results with Jacobian relationship can map required joint torques to exert a desired wrench.
+- Kinemaic/Dynamic model based manipulation in controlled enviromentsn 
+- Jacobian
 #### Assumptions
 Future dexterous robotic manipulation will include tasks which are iunfeeasbile or dangerous for a human.
 
