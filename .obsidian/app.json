@@ -6,5 +6,10 @@
     "landscape": true,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "spellcheckDictionary": [
+    "Jacobian",
+    "Jacobian",
+    "Jacobian"
+  ]
 }
