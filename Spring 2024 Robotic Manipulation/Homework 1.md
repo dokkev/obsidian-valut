@@ -93,14 +93,10 @@
 - **Continuous Learning**: Emphasizes the need for robots to continuously learn and adapt their perception and control for unfamiliar objects.
 - **Limitations of Learning**: Addresses the challenges in relying solely on learning methodologies, including the need for substantial training data and the difficulty of modeling complex non-rigid objects.
 
-An overview of dexterous manipulation, Okamura and Cutkosky, ICRA 2000: 
-Section 1, Section 2 until 2.1, Section 3 until 3.1, Section 4 until 4.1, Section 5
-
-Trends and challenges in robot manipulation, Billard and Kragic, Science 2019: you can read all, but more carefully the “Outlook”
 
 ## A Review of Robot Learning for Manipulation: Challenges, Representations, and Algorithms, Kroemer, Niekum and Konidaris, JMLR 2021:
 
-#### Section 4: Learning Object and Enviroment Representatiko (Sec. 4)
+#### Section 4: Learning Object and Environment Representations
 The robot must discover the state features and degrees of freedom attached to each object in its environment.
 
 #### Section 5: learning a transition model of the environment (Sec. 5)
