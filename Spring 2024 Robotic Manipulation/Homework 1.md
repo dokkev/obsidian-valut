@@ -100,10 +100,10 @@ Trends and challenges in robot manipulation, Billard and Kragic, Science 2019: y
 
 ## A Review of Robot Learning for Manipulation: Challenges, Representations, and Algorithms, Kroemer, Niekum and Konidaris, JMLR 2021:
 
-#### Section 4: learning to deﬁne the state space (Sec. 4), the robot must discover the
-state features and degrees of freedom attached to each object in its environment.
+#### Section 4: learning to deﬁne the state space (Sec. 4), the robot must discover the state features and degrees of freedom attached to each object in its environment.
 
-#### Section 5:
+#### Section 5: learning a transition model of the environment (Sec. 5)
+The robot must learn a model of how its actions aﬀect the task state, and the resulting background cost, for use in planning.
 
 Section 1, Overview of Learning Problems for Manipulation and Figure 3 (read about the ones you do not know), Section 9
 
