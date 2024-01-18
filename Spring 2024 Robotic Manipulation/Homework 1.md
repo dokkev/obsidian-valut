@@ -24,6 +24,7 @@ one slide for “Is learning necessary to solve robot manipulation? How? Why?”
 #### Solved Problems
 - Kinematic/Dynamic model based manipulation in controlled environments 
 - Grasp Jacobian calculates the required fingertip forces from the desired wrench term to the object, while Hand Jacobian maps the relationship between the contact force of the fingertip and joint torques. Moreover, Jacobian can provide kinematic relationship regarding joint velocities, fingertip Cartesian velocity, and object Cartesian velocity.
+- Robot hand kinematics, reachability nanlysis, and 
 
 #### Assumptions
 - The rolling and sliding problems are assumed to be pure rolling in the contact plane.
