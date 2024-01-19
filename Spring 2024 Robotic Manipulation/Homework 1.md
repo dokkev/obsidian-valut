@@ -118,11 +118,29 @@ The robot must discover the state features and degrees of freedom attached to ea
 #### Section 5: learning a transition model of the environment (Sec. 5)
 The robot must learn a model of how its actions aﬀect the task state, and the resulting background cost, for use in planning.
 
+#### 5.1: Representing and Learning Transition Models
+##### Continuous Models:
+
+- **Usage**: Employed in manipulation tasks where robots operate in continuous state and action spaces, such as the continuous poses of objects and actions given by joint positions or torques.
+- **Learning Methods**: Regression methods like neural networks, Gaussian processes, and linear regressions are commonly used for learning these models.
+- **Challenges**: Linear models can underfit the complexities of most manipulation tasks. More advanced models like Gaussian mixture models or neural networks provide better generalization but require more data.
+
+##### Discrete Models:
+
+- **Application**: Suitable for tasks with discrete state and action spaces, capturing high-level tasks.
+- **Representation**: Utilize tabular models or finite state machines. Proposition-based models define states using sets of propositions.
+- **Generalization and Transfer**: These models face challenges in generalization and transfer, often requiring additional structure for better performance.
+
+##### Hybrid Models:
+
+- **Combination**: Integrate discrete and continuous models, often due to the hierarchical nature of manipulation skills and tasks.
+- **Learning Approach**: Continuous models are learned for specific subtasks, and then integrated into the robot’s overall world model.
+- **Use Cases**: Commonly used to represent modes in manipulation tasks, especially where dynamics are piece-wise continuous with jumps between modes due to changing contacts.
 
 #### Section 6: Learning motor skills
 the robot attempts to learn a motor control policy that directly achieves some goal, typically via reinforcement learning
 
-#### Section 7: 
+
 
 Section 1, Overview of Learning Problems for Manipulation and Figure 3 (read about the ones you do not know), Section 9
 
