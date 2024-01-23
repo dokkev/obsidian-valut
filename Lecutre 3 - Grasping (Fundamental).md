@@ -4,3 +4,4 @@
 ### Grasp Wrench Space, W
 - set of all possible wrenches w that can be applied to the object through admissible forces
 - W determines robustness of grasp.
+- location of force applied does not matter to a rigid body
