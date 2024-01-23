@@ -7,4 +7,4 @@ The author introduces mathematical modeling of frictionless point contact, point
 #### Applicability / Problems solved (2-3 sentences)
 
 #### Assumptions and limitations (1-2 sentences)
-The method assumes known center of the mass of an object
+The method assumes the center of the mass of an object and desired wrench are known.
