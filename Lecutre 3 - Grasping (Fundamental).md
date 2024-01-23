@@ -5,3 +5,5 @@
 - set of all possible wrenches w that can be applied to the object through admissible forces
 - W determines robustness of grasp.
 - Location of force applied does not matter to a rigid body
+### Grasp Evaluation
+- Grasp closure occurs when the grasp can be maintained for evey 
