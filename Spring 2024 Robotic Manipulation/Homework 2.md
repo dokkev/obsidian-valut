@@ -1,7 +1,7 @@
 ### Fundamentals of Grasping
 #### Problem definition (2-3 sentences)
 Grasping is challenging due to its 
-- High-dimensionality: multi-joint robotic hand creates high D
+- High-dimensionality: multijoint robotic hand creates high DOF
 - Complexity of contact: feasible contact is restricted by gripper's geometry
 - Risk of collision: the entire body collision should be avoided.
 - Evaluation: it requires to relatively evaluate the quality of the grasping.
