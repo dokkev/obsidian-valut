@@ -1,6 +1,6 @@
 ### Fundamentals of Grasping
 #### Problem definition (2-3 sentences)
-Grasping is challenging due to its high-dimensionality, complexity of contact, risk of collision, and requirement to repeatively  evaluate  
+Grasping is challenging due to its high-dimensionality, complexity of contact, risk of collision, and requirement to relatively evaluate the quality of the grasping. 
 
 #### Summary of the methodology presented: algorithm, input-output. (1-2 sentences)
 
