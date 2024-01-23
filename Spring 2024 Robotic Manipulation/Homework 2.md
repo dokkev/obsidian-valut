@@ -1,6 +1,6 @@
 ### Fundamentals of Grasping
 #### Problem definition (2-3 sentences)
-Grasping is challenging due to its high-dimensionality, complexity of contact, risk of collision, and requirement to relatively evaluate the quality of the grasping. Thus, information such as weight, size, and surface texture play a critical role in manipulation tasks, but they 
+Grasping is challenging due to its high-dimensionality, complexity of contact, risk of collision, and requirement to relatively evaluate the quality of the grasping. Thus, information such as weight, size, surface texture, lighting play a critical role in manipulation tasks.
 
 #### Summary of the methodology presented: algorithm, input-output. (1-2 sentences)
 The author introduces mathematical modeling of frictionless point contact, point contact with friction, soft-finger contact. The wrench matrix, which can be represented as individual applied finger force times grasp map, and it can be used to optimize the force applied and evaluate grasping
