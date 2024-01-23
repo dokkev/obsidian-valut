@@ -1,10 +1,10 @@
 ### Fundamentals of Grasping
 #### Problem definition (2-3 sentences)
 Grasping is challenging due to its 
-- high-dimensionality: multi-DOF robotic hand
-- complexity of contact: feasible contact is restricted by gripper's geometry
-- risk of collision: 
-- evaluation: it requiresto relatively evaluate the quality of the grasping.
+- High-dimensionality: multi-joint robotic hand creates high D
+- Complexity of contact: feasible contact is restricted by gripper's geometry
+- Risk of collision: the entire body collision should be avoided.
+- Evaluation: it requires to relatively evaluate the quality of the grasping.
 
 #### Summary of the methodology presented: algorithm, input-output. (1-2 sentences)
 The author introduces mathematical modeling of frictionless point contact, point contact with friction, soft-finger contact. The wrench matrix, which can be represented as individual applied finger force times grasp map, and it can be used to optimize the force applied and evaluate grasping
