@@ -8,4 +8,4 @@ The author introduces mathematical modeling of frictionless point contact, point
 The method can apply to multi-contact in hand manipulation with capability to exert desired wrench to an object.
 
 #### Assumptions and limitations (1-2 sentences)
-The method assumes the center of the mass of an object and desired wrench are known.
+The method assumes the center of the mass of an object and desired wrench are known
