@@ -1,1 +1,2 @@
-## Contact Model
+## Contact Model of Soft Finger
+- 
