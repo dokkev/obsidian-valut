@@ -11,7 +11,7 @@ Autonomously grasping a previously unknown object is challenging due to difficul
 Triangulation of 3d grasping points heavily depend on stereo vision, and the quality of stereo vision affects the accuracy of grasping points. 
 
 ### What is the clever idea of this paper?
-It attempts to extract visual features for grasping points, and it is a cost-effective method because it eliminates the necessity to project every pixel of the image.  Using synthetic image
+It attempts to extract visual features for grasping points, and it is a cost-effective method because it eliminates the necessity to project every pixel of the image.  Using synthetic images allow robust perception by varying light conditions and extrinsic parameters of the camera.
 
 ### How the idea is implemented
-The algorithm is trained using supervised learning with grasping points labeled computer generated images. The algorithms takes two or more images of an object from different locations, then possible grasping points are identified using their probabilistic model to overcome uncertainty 
+The algorithm is trained using supervised learning with grasping points labeled computer generated images. The algorithms take two or more images of an object from different locations, then possible grasping points are identified using their probabilistic model to overcome uncertainty 
