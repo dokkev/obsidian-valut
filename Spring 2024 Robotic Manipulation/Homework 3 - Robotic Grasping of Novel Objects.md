@@ -9,3 +9,6 @@ Autonomously grasping a previously unknown object is challenging due to difficul
 
 ### Why the state-of-the-art is not enough for this? Why does it fail?
 Triangulation of 3d grasping points heavily depend on stereo vision, and the quality of stereo vision affects the accuracy of grasping points. 
+
+### What is the clever idea of this paper?
+It attempts to extract visual feasutres 
