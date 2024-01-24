@@ -3,7 +3,7 @@
 Autonomously grasping a previously unknown object is challenging due to difficulty of accurate full 3D reconstruction of first-seen object through vision since sensors such as camera and laser sensors can only reconstruct visible portion or the front face of the object. 
 
 ### Why the state-of-the-art is not enough for this? Why does it fail?
-Triangulation of 3d grasping points heavily depend on stereo vision, and the quality of stereo vision affects the accuracy of grasping points. This method is limited to static object, and the scalability of the algorithm requires sufficient training of diverse objects.
+Triangulation of 3d grasping points heavily depend on stereo vision, and the quality of stereo vision affects the accuracy of grasping points. This method is limited to static object, and the scalability of the algorithm requires sufficient training of diverse objects to handle non-uniform density objects.
 ### What is the clever idea of this paper?
 It attempts to extract visual features for grasping points, and it is a cost-effective method because it eliminates the necessity to project every pixel of the image.  Using synthetic images allow robust perception by varying light conditions, object features, and extrinsic parameters of the camera.
 
