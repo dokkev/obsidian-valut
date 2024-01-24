@@ -13,4 +13,4 @@ The algorithm is trained using supervised learning with grasping points labeled 
 
 
 ###  How is success proved and measured?
-The experiment conducts grasping objects similar to training images and novel objects using a real mobile robotic platform and the author's algorithm and measures grasp success rate and mean error (of grasping point compared . 
+The experiment conducts grasping objects similar to training images and novel objects using a real mobile robotic platform and the author's algorithm and measures grasp success rate and mean error of locating grasp points  
