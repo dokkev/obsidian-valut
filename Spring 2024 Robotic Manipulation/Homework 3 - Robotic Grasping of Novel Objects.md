@@ -13,4 +13,4 @@ The algorithm is trained using supervised learning with grasping points labeled 
 
 
 ###  How is success proved and measured?
-The experiment conducts grasping multiple types 
+The experiment conducts grasping objects similar t
