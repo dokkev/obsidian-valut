@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 2.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 2.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 2.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 2.md"
+                "file": "Spring 2024 Robotic Manipulation/Homework 3.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "03e75fdedda051a8",
   "lastOpenFiles": [
-    "Lecutre 3 - Grasping (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Lecutre 3 - Grasping (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Homework 2.md",
+    "Spring 2024 Robotic Manipulation/Homework 3.md",
     "Spring 2024 Robotic Manipulation/Homework 1.md",
+    "Spring 2024 Robotic Manipulation/Lecutre 3 - Grasping (Fundamental).md",
     "Reinforcement Learning/Humanoid Locomotion Using RL.md",
     "Reinforcement Learning/Mujoco vs Issac Gym.md",
     "Spring 2024 Robotic Manipulation/Lecture 1.md",
@@ -174,6 +174,7 @@
     "Reinforcement Learning/img_source/Pasted image 20231220172517.png",
     "Reinforcement Learning/img_source/rl_framework.png",
     "Reinforcement Learning/img_source",
+    "Untitled.md",
     "Reinforcement Learning",
     "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
     "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector and Can Utils.md",
