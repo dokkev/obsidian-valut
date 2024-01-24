@@ -14,4 +14,4 @@ Triangulation of 3d grasping points heavily depend on stereo vision, and the qua
 It attempts to extract visual features for grasping points, and it is a cost-effective method because it eliminates the necessity to project every pixel of the image. 
 
 ### How the idea is implemented
-The algorithms takes 2+ images of an object from  
+The algorithms takes 2+ images of an object from different extrincis 
