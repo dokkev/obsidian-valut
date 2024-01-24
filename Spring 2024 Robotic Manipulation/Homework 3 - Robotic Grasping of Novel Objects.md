@@ -11,7 +11,6 @@ It attempts to extract visual features for grasping points, and it is a cost-eff
 ### How the idea is implemented
 The algorithm is trained using supervised learning with grasping points labeled computer generated images with variation of object conditions. The algorithms take two or more images of an object from different locations, then possible grasping points are identified using their probabilistic model to overcome uncertainty (error) due to the location of the camera. It models errors using Additive Gaussian in 2D image, uses logistic regression to estimate the grasping points, and determine the 3D grasping points using MAP inference.
 
-
 ###  How is success proved and measured?
 
-The predictive accuracy of the algorith.The experiment conducts grasping objects similar to training images and novel objects using a real mobile robotic platform and the author's algorithm and measures grasp success rate and mean error of locating grasp points  
+The predictive accuracy of the algorithm is tested by feeding images not contained in the training dataset. Then the experiment conducts grasping objects similar to training images and novel objects using a real mobile robotic platform and the author's algorithm and measures grasp success rate and mean error of locating grasp points  
