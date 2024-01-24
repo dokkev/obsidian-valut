@@ -10,3 +10,5 @@
 - For closure (power grasp)
 	- the gripper joint angles locked
 	- kinematically constrained
+	- 
+	
