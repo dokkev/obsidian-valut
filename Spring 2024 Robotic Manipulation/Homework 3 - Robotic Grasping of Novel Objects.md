@@ -11,4 +11,4 @@ Autonomously grasping a previously unknown object is challenging due to difficul
 Triangulation of 3d grasping points heavily depend on stereo vision, and the quality of stereo vision affects the accuracy of grasping points. 
 
 ### What is the clever idea of this paper?
-It attempts to extract visual features for grasping points, and it is a cost-effective method because it eliminates the nessecity to 
+It attempts to extract visual features for grasping points, and it is a cost-effective method because it eliminates the necessity to project every pixel of the image. 
