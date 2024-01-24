@@ -5,3 +5,4 @@
 - **How is success proved and measured? (experiments, metrics, most relevant result)** 1-2 sentences
 
 ### Problem Definition
+Autonomously grasping a previously unknown object is challenging. 
