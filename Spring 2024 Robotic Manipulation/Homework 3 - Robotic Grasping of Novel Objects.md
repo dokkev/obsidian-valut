@@ -5,4 +5,4 @@
 - **How is success proved and measured? (experiments, metrics, most relevant result)** 1-2 sentences
 
 ### Problem Definition
-Autonomously grasping a previously unknown object is challenging due to difficulty of accurate full 3D reconstruction of first-seen object through vision since seb
+Autonomously grasping a previously unknown object is challenging due to difficulty of accurate full 3D reconstruction of first-seen object through vision since sensors such as camera and laser sensors can only reconstruct visible portion
