@@ -18,4 +18,5 @@ Now
 - input of RGB images input
 - grasping location (3D) output
 
-### 
+###  Grasping Evaluation
+Grasping point isn't enough; it requires orientation and even path
