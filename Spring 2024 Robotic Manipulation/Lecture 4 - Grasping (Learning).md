@@ -10,5 +10,10 @@ Grasping: obtaining complete control of an object's motion
 from mode-based to data driven
 
 ### Grasping Problem
-before
-- 
+Before
+- 3d model of the object and hand input
+- contact point for each finger
+Now
+- pick and life
+- input of RGB images input
+- grasping location (3D) output
