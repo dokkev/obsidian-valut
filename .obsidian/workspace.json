@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
+                "file": "Reinforcement Learning/Mujoco vs Issac Gym.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
+                "file": "Reinforcement Learning/Mujoco vs Issac Gym.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
+                "file": "Reinforcement Learning/Mujoco vs Issac Gym.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md"
+                "file": "Reinforcement Learning/Mujoco vs Issac Gym.md"
               }
             }
           }
@@ -173,12 +173,12 @@
   },
   "active": "5444ba93733c14bf",
   "lastOpenFiles": [
-    "Reinforcement Learning/Mujoco vs Issac Gym.md",
+    "Spring 2024 Robotic Manipulation/Lecutre 3 - Grasping (Fundamental).md",
     "Reinforcement Learning/Humanoid Locomotion Using RL.md",
+    "Reinforcement Learning/Mujoco vs Issac Gym.md",
     "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
     "conflict-files-obsidian-git.md",
     "Spring 2024 Robotic Manipulation/Homework 1.md",
-    "Spring 2024 Robotic Manipulation/Lecutre 3 - Grasping (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Homework 2.md",
     "Spring 2024 Robotic Manipulation/Lecture 2.md",
     "Spring 2024 Robotic Manipulation/Lecture 1.md",
