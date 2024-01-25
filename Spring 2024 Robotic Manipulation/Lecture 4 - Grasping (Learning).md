@@ -6,3 +6,9 @@ Grasping: obtaining complete control of an object's motion
 - pose, motion
 - environmental constraints
 - subsequent task
+## Learning
+from mode-based to data driven
+
+### Grasping Problem
+before
+- 
