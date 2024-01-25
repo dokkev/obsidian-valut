@@ -17,3 +17,5 @@ Now
 - pick and life
 - input of RGB images input
 - grasping location (3D) output
+
+### 
