@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning/Mujoco vs Issac Gym.md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 4 - Grasping (Learning).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning/Mujoco vs Issac Gym.md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 4 - Grasping (Learning).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning/Mujoco vs Issac Gym.md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 4 - Grasping (Learning).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning/Mujoco vs Issac Gym.md"
+                "file": "Spring 2024 Robotic Manipulation/Lecture 4 - Grasping (Learning).md"
               }
             }
           }
@@ -171,11 +171,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5444ba93733c14bf",
+  "active": "bd4feba4abff44d6",
   "lastOpenFiles": [
-    "Spring 2024 Robotic Manipulation/Lecutre 3 - Grasping (Fundamental).md",
-    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
+    "Spring 2024 Robotic Manipulation/Lecture 3 - Grasping (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Lecture 4 - Grasping (Learning).md",
     "Reinforcement Learning/Mujoco vs Issac Gym.md",
+    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
     "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
     "conflict-files-obsidian-git.md",
     "Spring 2024 Robotic Manipulation/Homework 1.md",
