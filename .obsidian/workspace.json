@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
+                "file": "PLATO/PLATO Hand/ROS2 SocketCAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
+                "file": "PLATO/PLATO Hand/ROS2 SocketCAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
+                "file": "PLATO/PLATO Hand/ROS2 SocketCAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md"
+                "file": "PLATO/PLATO Hand/ROS2 SocketCAN.md"
               }
             }
           }
@@ -173,10 +173,11 @@
   },
   "active": "1fc2f4913fdb424c",
   "lastOpenFiles": [
+    "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
+    "PLATO/PLATO Hand/ROS2 SocketCAN.md",
     "Spring 2024 Robotic Manipulation/Lecutre 3 - Grasping (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Lecture 4 - Grasping (Learning).md",
     "Spring 2024 Robotic Manipulation/Lecture 3 - Grasping (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
     "conflict-files-obsidian-git.md",
     "Spring 2024 Robotic Manipulation/Homework 2.md",
     "Spring 2024 Robotic Manipulation/Lecture 2.md",
