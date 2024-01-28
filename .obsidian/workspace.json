@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
+                "file": "Concepts & Knowledge/How to give a Good Talk.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
+                "file": "Concepts & Knowledge/How to give a Good Talk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
+                "file": "Concepts & Knowledge/How to give a Good Talk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md"
+                "file": "Concepts & Knowledge/How to give a Good Talk.md"
               }
             }
           }
@@ -173,8 +173,11 @@
   },
   "active": "1fc2f4913fdb424c",
   "lastOpenFiles": [
-    "PLATO/PLATO Hand/ROS2 SocketCAN.md",
+    "Concepts & Knowledge/Finite State Machine.md",
+    "Concepts & Knowledge/How to give a Good Talk.md",
+    "Concepts & Knowledge/Karnopp Friction Compensation.md",
     "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
+    "PLATO/PLATO Hand/ROS2 SocketCAN.md",
     "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
     "Spring 2024 Robotic Manipulation/Lecutre 3 - Grasping (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Lecture 4 - Grasping (Learning).md",
@@ -208,15 +211,12 @@
     "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
     "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector and Can Utils.md",
     "PLATO/PLATO Hand/Robotic Fingernail.md",
-    "Concepts & Knowledge/Finite State Machine.md",
-    "Concepts & Knowledge/Karnopp Friction Compensation.md",
     "Concepts & Knowledge",
     "PLATO/Canvas.canvas",
     "NVIDIA Isaac Sim",
     "PLATO/PLATO Hand/Untitled 1.md",
     "PLATO/PLATO Hand",
     "PLATO/PLATO Hand.md",
-    "2023-11-03.md",
     "PLATO/Optimo Arm",
     "PLATO",
     "copilot-conversations"
