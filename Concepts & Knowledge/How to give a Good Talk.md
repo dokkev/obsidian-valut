@@ -11,4 +11,6 @@
 		 - Everyone knows. So don’t say it
  - The goal of the intro and background is to tell the listener:
 	 - “In this talk, here is the way I want you to think about the problem I am trying to solve.”
+ - Don't include related works with just title and authors
+	 - Expets ikely know these papers exist. These slides don’t tell them what about these papers is most relevant to this talk
 
