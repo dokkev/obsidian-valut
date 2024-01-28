@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PLATO/PLATO Hand/ROS2 SocketCAN.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PLATO/PLATO Hand/ROS2 SocketCAN.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PLATO/PLATO Hand/ROS2 SocketCAN.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PLATO/PLATO Hand/ROS2 SocketCAN.md"
+                "file": "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md"
               }
             }
           }
@@ -173,8 +173,9 @@
   },
   "active": "1fc2f4913fdb424c",
   "lastOpenFiles": [
-    "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
     "PLATO/PLATO Hand/ROS2 SocketCAN.md",
+    "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
+    "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
     "Spring 2024 Robotic Manipulation/Lecutre 3 - Grasping (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Lecture 4 - Grasping (Learning).md",
     "Spring 2024 Robotic Manipulation/Lecture 3 - Grasping (Fundamental).md",
@@ -218,7 +219,6 @@
     "2023-11-03.md",
     "PLATO/Optimo Arm",
     "PLATO",
-    "copilot-conversations/Chat-2023_11_03-11_17_55.md",
     "copilot-conversations"
   ]
 }
