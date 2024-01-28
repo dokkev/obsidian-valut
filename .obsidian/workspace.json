@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md"
+                "file": "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md"
               }
             }
           }
@@ -195,18 +195,19 @@
   },
   "active": "60724ae6d7a73f39",
   "lastOpenFiles": [
+    "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
+    "Spring 2024 Robotic Manipulation/Lecture 3 - Grasping (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Untitled.canvas",
     "Concepts & Knowledge/How to give a Good Talk.md",
     "Concepts & Knowledge/Karnopp Friction Compensation.md",
     "Concepts & Knowledge/img_source/Pasted image 20240128171813.png",
     "Concepts & Knowledge/img_source/Pasted image 20240128171931.png",
     "Concepts & Knowledge/img_source",
     "Concepts & Knowledge/Finite State Machine.md",
-    "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
     "PLATO/PLATO Hand/ROS2 SocketCAN.md",
     "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
     "Spring 2024 Robotic Manipulation/Lecutre 3 - Grasping (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Lecture 4 - Grasping (Learning).md",
-    "Spring 2024 Robotic Manipulation/Lecture 3 - Grasping (Fundamental).md",
     "conflict-files-obsidian-git.md",
     "Spring 2024 Robotic Manipulation/Homework 2.md",
     "Spring 2024 Robotic Manipulation/Lecture 2.md",
