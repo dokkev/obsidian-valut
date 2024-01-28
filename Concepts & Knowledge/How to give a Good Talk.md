@@ -11,8 +11,9 @@
 		 - Everyone knows. So don’t say it
  - The goal of the intro and background is to tell the listener:
 	 - “In this talk, here is the way I want you to think about the problem I am trying to solve.”
-	 - An excellent strategy to catch the audience’s attention and frame the story is to make them aware that there is something they didn’t know they didn’t know.
- - “You might think you know this, but here’s a new angle on it”
+ - An excellent strategy to catch the audience’s attention and frame the story is to make them aware that there is something they didn’t know they didn’t know.
+	 - “You might think you know this, but here’s a new angle on it”
+	 
  - Don't include slides like these:
  ![[Pasted image 20240128171931.png]]
  ![[Pasted image 20240128171813.png]]
