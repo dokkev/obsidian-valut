@@ -11,8 +11,8 @@
 		 - Everyone knows. So don’t say it
  - The goal of the intro and background is to tell the listener:
 	 - “In this talk, here is the way I want you to think about the problem I am trying to solve.”
- - Don't include related works with just title and authors:
+ - Don't include slides like these:![[Pasted image 20240128171931.png]]
  ![[Pasted image 20240128171813.png]]
 	 - Experts likely know these papers exist. These slides don’t tell them what about these papers is most relevant to this talk
-	 - 
+	 - Non-experts won’t learn the related work from these two slides
 
