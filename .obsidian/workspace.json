@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts & Knowledge/How to give a Good Talk.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts & Knowledge/How to give a Good Talk.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts & Knowledge/How to give a Good Talk.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts & Knowledge/How to give a Good Talk.md"
+                "file": "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md"
               }
             }
           }
@@ -195,10 +195,10 @@
   },
   "active": "60724ae6d7a73f39",
   "lastOpenFiles": [
+    "Concepts & Knowledge/How to give a Good Talk.md",
     "Concepts & Knowledge/Karnopp Friction Compensation.md",
     "Concepts & Knowledge/img_source/Pasted image 20240128171813.png",
     "Concepts & Knowledge/img_source/Pasted image 20240128171931.png",
-    "Concepts & Knowledge/How to give a Good Talk.md",
     "Concepts & Knowledge/img_source",
     "Concepts & Knowledge/Finite State Machine.md",
     "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
