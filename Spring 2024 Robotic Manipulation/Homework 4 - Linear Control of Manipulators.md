@@ -8,4 +8,4 @@ The methodology involves modeling a robotic manipulator with actuators which can
 This method is applicable to trajectory following in disturbance while ensuring the stability of the system. 
 
 ## Assumptions and limitations
-It assumes that nonlinear system can be 
+It assumes that a robotic manipulator's nonlinear system can be approximated to a linear system.
