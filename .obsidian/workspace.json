@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7521fcc3d1d9978f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "03e75fdedda051a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd4feba4abff44d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,26 +146,27 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bd4feba4abff44d6",
+  "active": "5444ba93733c14bf",
   "lastOpenFiles": [
+    "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
     "Spring 2024 Robotic Manipulation/Lecture 4 - Grasping (Learning).md",
+    "Spring 2024 Robotic Manipulation/Lecture 3 - Grasping (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
     "PLATO/PLATO Hand/ROS2 SocketCAN.md",
     "Concepts & Knowledge/img_source/Pasted image 20240128171931.png",
     "Concepts & Knowledge/img_source/Pasted image 20240128171813.png",
     "Concepts & Knowledge/img_source",
     "Concepts & Knowledge/How to give a Good Talk.md",
-    "Spring 2024 Robotic Manipulation/Lecture 3 - Grasping (Fundamental).md",
-    "Reinforcement Learning/Mujoco vs Issac Gym.md",
-    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
-    "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
-    "conflict-files-obsidian-git.md",
-    "Spring 2024 Robotic Manipulation/Homework 1.md",
     "Spring 2024 Robotic Manipulation/Homework 2.md",
-    "Spring 2024 Robotic Manipulation/Lecture 2.md",
+    "Spring 2024 Robotic Manipulation/Homework 1.md",
+    "Spring 2024 Robotic Manipulation/Lecutre 3 - Grasping (Fundamental).md",
+    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
+    "Reinforcement Learning/Mujoco vs Issac Gym.md",
     "Spring 2024 Robotic Manipulation/Lecture 1.md",
-    "Spring 2024 Robotic Manipulation",
+    "Spring 2024 Robotic Manipulation/Lecture 2.md",
+    "conflict-files-obsidian-git.md",
     "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
+    "Spring 2024 Robotic Manipulation",
     "Tedrake Robotic Manipulation",
     "Reinforcement Learning/img_source/Pasted image 20231220175917.png",
     "NVIDIA Isaac Sim/Issac Gym Overview.md",
@@ -217,7 +193,6 @@
     "PLATO/PLATO Hand/Untitled 1.md",
     "PLATO/PLATO Hand",
     "PLATO/PLATO Hand.md",
-    "2023-11-03.md",
     "PLATO/Optimo Arm",
     "PLATO"
   ]
