@@ -5,3 +5,4 @@
 
 
 ## Problem Definition
+Dynamics of a manipulator are represented by a nonlinear 
