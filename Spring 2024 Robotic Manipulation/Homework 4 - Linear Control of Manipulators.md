@@ -5,4 +5,4 @@
 
 
 ## Problem Definition
-Dynamics of a manipulator are represented by a nonlinear differential equation. w linear control systems focusing on desired trajectories and  are widely used in industrial robot manipulators. 
+Dynamics of a manipulator are represented by a nonlinear differential equation. However, linear control systems with approximations are widely used in industrial robot manipulators. 
