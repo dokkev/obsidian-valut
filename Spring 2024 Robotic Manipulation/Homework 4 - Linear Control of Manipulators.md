@@ -12,4 +12,5 @@ It assumes that a robotic manipulator's nonlinear system can be approximated to 
 Transmissions are modeled as a singular actuator at a joint. This method will experience instability in dynamic systems, including complex structures.
 
 ### Laplace Transform
-If poles are real, 
+- if the poles are real, the behavior is sluggish and non-oscillatory
+- if the poles are imaginary
