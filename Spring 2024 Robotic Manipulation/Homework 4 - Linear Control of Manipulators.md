@@ -10,4 +10,5 @@ Dynamics of a manipulator are represented by a nonlinear differential equation. 
 ## Summary of the methodology presented: algorithm, input-output
 The methodology involves modeling a robotic manipulator with actuators which can produce torque at each joint and sensors using feedback control with second-order linear system. The controllers take desired trajectory and state (configuration) of the robot and outputs motion.
 
- ## Applicability / Problems solved 
+## Applicability / Problems solved 
+This method is applicable to trajectory following 
