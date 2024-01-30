@@ -5,8 +5,8 @@ Dynamics of a manipulator are represented by a nonlinear differential equation. 
 The methodology involves modeling a robotic manipulator with actuators which can produce torque at each joint and sensors using feedback control with second-order linear system. The controllers take desired trajectory and state (configuration) of the robot and outputs motion.
 
 ## Applicability / Problems solved 
-This method is applicable to trajectory following in disturbance while ensuring the stability of the system, and it solves linearizing nonlinear robotic manipulator dynamics such as achieving desired damping abd avoding resonances.
+This method is applicable to trajectory following in disturbance while ensuring the stability of the system, and it solves linearizing nonlinear robotic manipulator dynamics such as achieving desired damping and avoiding resonances.
 
 ## Assumptions and limitations
 It assumes that a robotic manipulator's nonlinear system can be approximated to a linear system.
-Transmissions are modeled as a singular actuator at a joint. This method will experience instability in dynamic systems including complex structures.
+Transmissions are modeled as a singular actuator at a joint. This method will experience instability in dynamic systems, including complex structures.
