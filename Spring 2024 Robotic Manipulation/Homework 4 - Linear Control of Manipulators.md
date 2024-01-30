@@ -9,4 +9,4 @@ This method is applicable to trajectory following in disturbance while ensuring 
 
 ## Assumptions and limitations
 It assumes that a robotic manipulator's nonlinear system can be approximated to a linear system.
-Transmissions are in
+Transmissions are modeled as a singular actuator at a joint. 
