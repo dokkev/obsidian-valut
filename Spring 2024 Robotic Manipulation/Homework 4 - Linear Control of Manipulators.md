@@ -5,4 +5,4 @@
 
 
 ## Problem Definition
-Dynamics of a manipulator are represented by a nonlinear 
+Dynamics of a manipulator are represented by a nonlinear differential equation. 
