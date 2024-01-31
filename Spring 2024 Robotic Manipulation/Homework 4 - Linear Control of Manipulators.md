@@ -17,4 +17,3 @@ Transmissions are modeled as a singular actuator at a joint. This method will ex
 - Real and Unequal Roots: b^2 > 4mk; overdamped
 - Complex Roots : b^2 < 4mk; underdamped
 - Real and Equal Roots : b^2 = 4mk; critically damped
-- 
