@@ -6,4 +6,5 @@
 ## Arguments
 - Reinforcement Learning process includes an agent takes an action which affects the environment, and the environments gives reward and provides state to the agent.
 - But in reality, there are more layers when it comes to deploying policy trained from RL.
-- Action goes into control input
+- Action goes into control input, which usually consists of high level controller and low level controller. 
+- Then the robot physically interacts 
