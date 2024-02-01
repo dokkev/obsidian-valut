@@ -23,4 +23,4 @@ Different tasks can be successfully achieved by different action spaces. However
 This method compensates for both kinematics and dynamics which enable 
 
 ## How is success proved and measured? (experiments, metrics, most relevant result)
-The experiments evaluate sample efficiency, task completion, energy consumption, task sucess
+The experiments evaluate sample efficiency, task completion, energy consumption, task success, and transferability between robots. They demonstrate
