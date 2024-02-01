@@ -14,4 +14,4 @@
 - Even with an appropriate reward function, the control policy will fail without ability to adapt to an uncertain environment. 
 - The success of RL algorithm depends on the high quality and dense reward feedback, but specific reward function lacks of generalization
 - related to that, Google Research scientist, Rishabh Agarwal demonstrated Meta Reward  Learning which successfully trained policy from binary reward: success and failure from complex input such as a natural language instruction.  (semantic parsing and maze solving)
-- From the research of Dulac-Arnold 
+- From the research of Dulac-Arnold called Challenges of Real-World Reinforcement Learning addresses that  How the state space and the extraction of relevant features significantly impact the learning process. Poor representation can lead to inefficiencies or failures in learning, regardless of the reward structure
