@@ -23,7 +23,7 @@ Different tasks can be successfully achieved by different action spaces. However
 This method compensates for both kinematics and dynamics, which enable generalization of the task across different robots. 
 
 ## How the idea is implemented? (algorithm, network structure, system...)
-Policies are trained using reinforcement learning to output 
+Policies are trained using reinforcement learning to output actions on different action spaces. The problem is modlled as a discrete-time continous Markov decision process
 
 
 ## How is success proved and measured? (experiments, metrics, most relevant result)
