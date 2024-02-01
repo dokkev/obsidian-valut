@@ -12,5 +12,5 @@
 - Then the robot physically interacts with the environment with uncertainty, and the sensors such as encoders, IMU, FT sensors, and camera collect information from the environment, which also involves uncertainty.
 - Due to this uncertainty, there is a large gap between simulation and real robot environment in terms of estimating the state.
 - Even with an appropriate reward function, the control policy will fail without ability to adapt to an uncertain environment. 
-- The success of RL algorithm 
+- The success of RL algorithm depends on the high quality and dense reward feedback, but specific reward function 
 - Google Research scientist, Rishabh Agarwal
