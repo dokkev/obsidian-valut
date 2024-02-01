@@ -21,3 +21,5 @@ Different tasks can be successfully achieved by different action spaces. However
 
 ## What is the clever idea of this paper?
 This method compensates for both kinematics and dynamics which enable 
+
+## How is success proved and measured? (experiments, metrics, most relevant result)
