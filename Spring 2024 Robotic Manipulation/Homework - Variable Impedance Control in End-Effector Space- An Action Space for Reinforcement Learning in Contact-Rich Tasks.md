@@ -6,4 +6,4 @@
 - **How is success proved and measured? (experiments, metrics, most relevant result)**
 
 ## Problem Definition
-Robotic manipulation in RL has focused on the observation space or reward model rather than action space, which can simplify the exploration and improve robustness.
+Robotic manipulation in RL has focused on the observation space or reward model rather than action space, which can simplify the exploration and improve robustness. However, choosing 
