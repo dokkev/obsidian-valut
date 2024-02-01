@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Debate1 -  Reward is not the most important in RL.md",
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Debate1 -  Reward is not the most important in RL.md",
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Debate1 -  Reward is not the most important in RL.md",
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Debate1 -  Reward is not the most important in RL.md"
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md"
               }
             }
           }
@@ -207,9 +207,9 @@
   },
   "active": "ef4ea47f17cb5560",
   "lastOpenFiles": [
+    "Spring 2024 Robotic Manipulation/Debate1 -  Reward is not the most important in RL.md",
     "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
     "Spring 2024 Robotic Manipulation/Homework - Variable Impedance Control in End-Effector Space- An Action Space for Reinforcement Learning in Contact-Rich Tasks.md",
-    "Spring 2024 Robotic Manipulation/Debate1 -  Reward is not the most important in RL.md",
     "Spring 2024 Robotic Manipulation/Lecture 3 - Grasping (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Lecture 5 - Control (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Lecture 4 - Grasping (Learning).md",
