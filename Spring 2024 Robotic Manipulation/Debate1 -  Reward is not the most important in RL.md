@@ -5,7 +5,7 @@
 
 ## Arguments
 - My argument is reward function is not the most important aspect in training a control  policy by reinforcement learning.
-- I believe that reward function does not neccesarily 
+- I believe that reward function does not necessarily contribute 
 - Rather, I argue State representation is the most important tin RL based control
 - Reinforcement Learning process includes an agent takes an action which affects the environment, and the environments gives reward and provides state to the agent.
 - But in reality, there are more layers when it comes to deploying policy trained from RL to a real robot.
