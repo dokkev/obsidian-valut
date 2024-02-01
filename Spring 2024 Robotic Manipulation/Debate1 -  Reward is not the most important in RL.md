@@ -16,7 +16,7 @@
 - related to that, Google Research scientist, Rishabh Agarwal demonstrated Meta Reward  Learning which successfully trained policy from binary reward: success and failure from complex input such as a natural language instruction.  (semantic parsing and maze solving)
 - From the research of Dulac-Arnold called Challenges of Real-World Reinforcement Learning addresses that how the state space and the extraction of relevant features significantly impact the learning process. 
 - In addition, it argues that poor representation can lead to inefficiencies or failures in learning, regardless of the reward structure
-- In terms of transfer learning, a robust state representation enables the RL agent to generalize from its learning to new situtions enhancing its performance across a wide range of tasks.
-- The state space's design significantly impacts the learning algorithm's convergence speed. A well-structured state that reduces redundancy and irrelevant information can lead to faster learning and lower computational requirement
+- In terms of transfer learning, a robust state representation enables the RL agent to generalize from its learning to new situations enhancing its performance across a wide range of tasks.
+- A well-structured state that reduces redundancy and irrelevant information can lead to faster learning and lower computational requirement
 - The scalability: RL algorithms to high-dimensional or continuous spaces is directly tied to how state information is represented and managed. Efficient state representations, such as those utilizing function approximation techniques (e.g., deep learning), are pivotal for tackling real-world problems that involve large state spaces.
 - 
