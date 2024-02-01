@@ -23,4 +23,4 @@ Different tasks can be successfully achieved by different action spaces. However
 This method compensates for both kinematics and dynamics which enable 
 
 ## How is success proved and measured? (experiments, metrics, most relevant result)
-The experiments evaluate sample efficiency, task completion, energy consumption, task success, and transferability between robots. They demonstrate learned policies perform tasks such as path following in free space, contact-rich manipulation tasks, and effectiveness of VICES
+The experiments evaluate sample efficiency, task completion, energy consumption, task success, and transferability between robots. They demonstrate learned policies to perform tasks such as path following in free space, contact-rich manipulation tasks, and effectiveness of VICES
