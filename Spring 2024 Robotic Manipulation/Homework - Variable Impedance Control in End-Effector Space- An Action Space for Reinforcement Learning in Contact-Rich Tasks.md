@@ -5,3 +5,5 @@
 - **How the idea is implemented? (algorithm, network structure, system...)** 
 - **How is success proved and measured? (experiments, metrics, most relevant result)**
 
+## Problem Definition
+Robotic manipulation in RL has 
