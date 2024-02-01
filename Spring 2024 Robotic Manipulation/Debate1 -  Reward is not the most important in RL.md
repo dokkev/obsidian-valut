@@ -5,7 +5,7 @@
 
 ## Arguments
 - My argument is reward function is not the most important aspect in training a control  policy by reinforcement learning.
-- Rather, I argue State parameter is the most important tin RL based control
+- Rather, I argue State representation is the most important tin RL based control
 - Reinforcement Learning process includes an agent takes an action which affects the environment, and the environments gives reward and provides state to the agent.
 - But in reality, there are more layers when it comes to deploying policy trained from RL to a real robot.
 - Action goes into control input, which usually consists of high level controller and low level controller. 
@@ -14,4 +14,4 @@
 - Even with an appropriate reward function, the control policy will fail without ability to adapt to an uncertain environment. 
 - The success of RL algorithm depends on the high quality and dense reward feedback, but specific reward function lacks of generalization
 - related to that, Google Research scientist, Rishabh Agarwal demonstrated Meta Reward  Learning which successfully trained policy from binary reward: success and failure from complex input such as a natural language instruction.  (semantic parsing and maze solving)
-- One the 
+- From the research of Dulac 
