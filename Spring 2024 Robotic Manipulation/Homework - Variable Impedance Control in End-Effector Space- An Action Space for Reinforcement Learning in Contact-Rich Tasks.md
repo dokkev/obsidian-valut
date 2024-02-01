@@ -18,7 +18,7 @@ Observation to Control Input Through Action
 Different tasks can be successfully achieved by different action spaces. However, robotic manipulation in RL has focused on the observation space or reward model rather than action space, despite appropriate action space can simplify the exploration and improve robustness.  Therefore, the author points out challenges of time-varying task constraint of compliance in contact-rich robotic manipulation tasks and investigates the effect of action space choice with variable stiffness in the performance of deep RL.
 
 ## Why the state-of-the-art is not enough for this? Why does it fail?
-The performance of VICES depends on the robot modeling of kinmatics and dynamics.
+The performance of VICES depends on the robot modeling of kinematics and dynamics. Learning variable impedance control may not handle 
 
 ## What is the clever idea of this paper?
 This method compensates for both kinematics and dynamics, which enable generalization of the task across different robots. 
