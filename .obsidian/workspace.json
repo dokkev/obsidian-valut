@@ -25,48 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 2.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "602d9110e28c07ff",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Concepts & Knowledge/img_source/Pasted image 20240128171931.png"
-              }
-            }
-          },
-          {
-            "id": "60724ae6d7a73f39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef4ea47f17cb5560",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74ae7b0c9f15077b",
+            "id": "bd4feba4abff44d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,34 +171,29 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "74ae7b0c9f15077b",
+  "active": "bd4feba4abff44d6",
   "lastOpenFiles": [
-    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
-    "Spring 2024 Robotic Manipulation/Debate1 -  Reward is not the most important in RL.md",
-    "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
-    "Spring 2024 Robotic Manipulation/Homework 2.md",
-    "Concepts & Knowledge/How to give a Good Talk.md",
-    "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
-    "Concepts & Knowledge/img_source/Pasted image 20240128171931.png",
-    "Spring 2024 Robotic Manipulation/Homework - Variable Impedance Control in End-Effector Space- An Action Space for Reinforcement Learning in Contact-Rich Tasks.md",
-    "Spring 2024 Robotic Manipulation/Lecture 3 - Grasping (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Lecture 5 - Control (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Homework - Variable Impedance Control in End-Effector Space- An Action Space for Reinforcement Learning in Contact-Rich Tasks.md",
+    "Spring 2024 Robotic Manipulation/Debate1 -  Reward is not the most important in RL.md",
     "Spring 2024 Robotic Manipulation/Lecture 4 - Grasping (Learning).md",
-    "Spring 2024 Robotic Manipulation/Lecture 2.md",
-    "conflict-files-obsidian-git.md",
-    "Spring 2024 Robotic Manipulation/Untitled.md",
-    "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
-    "Spring 2024 Robotic Manipulation/Untitled.canvas",
-    "Concepts & Knowledge/Karnopp Friction Compensation.md",
+    "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
+    "PLATO/PLATO Hand/ROS2 SocketCAN.md",
+    "Concepts & Knowledge/img_source/Pasted image 20240128171931.png",
     "Concepts & Knowledge/img_source/Pasted image 20240128171813.png",
     "Concepts & Knowledge/img_source",
-    "Concepts & Knowledge/Finite State Machine.md",
-    "PLATO/PLATO Hand/ROS2 SocketCAN.md",
-    "Spring 2024 Robotic Manipulation/Lecutre 3 - Grasping (Fundamental).md",
+    "Concepts & Knowledge/How to give a Good Talk.md",
+    "Spring 2024 Robotic Manipulation/Lecture 3 - Grasping (Fundamental).md",
+    "Reinforcement Learning/Mujoco vs Issac Gym.md",
+    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
+    "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
+    "conflict-files-obsidian-git.md",
     "Spring 2024 Robotic Manipulation/Homework 1.md",
+    "Spring 2024 Robotic Manipulation/Homework 2.md",
+    "Spring 2024 Robotic Manipulation/Lecture 2.md",
     "Spring 2024 Robotic Manipulation/Lecture 1.md",
     "Spring 2024 Robotic Manipulation",
-    "Reinforcement Learning/Mujoco vs Issac Gym.md",
+    "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
     "Tedrake Robotic Manipulation",
     "Reinforcement Learning/img_source/Pasted image 20231220175917.png",
     "NVIDIA Isaac Sim/Issac Gym Overview.md",
@@ -248,6 +209,11 @@
     "Reinforcement Learning/img_source",
     "Untitled.md",
     "Reinforcement Learning",
+    "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
+    "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector and Can Utils.md",
+    "PLATO/PLATO Hand/Robotic Fingernail.md",
+    "Concepts & Knowledge/Finite State Machine.md",
+    "Concepts & Knowledge/Karnopp Friction Compensation.md",
     "Concepts & Knowledge",
     "PLATO/Canvas.canvas",
     "NVIDIA Isaac Sim",
