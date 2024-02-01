@@ -15,4 +15,4 @@
 - The success of RL algorithm depends on the high quality and dense reward feedback, but specific reward function lacks of generalization
 - related to that, Google Research scientist, Rishabh Agarwal demonstrated Meta Reward  Learning which successfully trained policy from binary reward: success and failure from complex input such as a natural language instruction.  (semantic parsing and maze solving)
 - From the research of Dulac-Arnold called Challenges of Real-World Reinforcement Learning addresses that how the state space and the extraction of relevant features significantly impact the learning process. Poor representation can lead to inefficiencies or failures in learning, regardless of the reward structure
-- 
+- A robust state representation enables the RL agent to generalize from its experiences to new, unseen situations, enhancing its performance across a broader range of tasks. This is particularly important for transfer learning
