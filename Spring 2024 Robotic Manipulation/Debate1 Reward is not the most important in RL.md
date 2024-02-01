@@ -1,5 +1,7 @@
 
 ## Key Concepts
-- Exploitation: _Exploitation is defined as a greedy approach in which agents try to get more rewards by using estimated value but not the actual value_
+- Exploitation:  a greedy approach in which agents try to get more rewards by using estimated value but not the actual value
+-  Exploration: agents primarily focus on improving their knowledge about each action instead of getting more rewards so that they can get long-term benefits.
 
-- There are a lot of layers in RL
+## Arguments
+- Rinfor
