@@ -23,6 +23,8 @@ Different tasks can be successfully achieved by different action spaces. However
 This method compensates for both kinematics and dynamics, which enable generalization of the task across different robots. 
 
 ## How the idea is implemented? (algorithm, network structure, system...)
+Policies are trained using reinforcement learning to output 
+
 
 ## How is success proved and measured? (experiments, metrics, most relevant result)
 The experiments evaluate sample efficiency, task completion, energy consumption, task success, and transferability between robots. Learned policies to perform tasks such as path following in free space, door opening, and table wiping in simulation and real robot (wiping) to demonstrate the effectiveness of VICES.
