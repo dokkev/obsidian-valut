@@ -20,4 +20,4 @@ Different tasks can be successfully achieved by different action spaces. However
 ## Why the state-of-the-art is not enough for this? Why does it fail?
 
 ## What is the clever idea of this paper?
-This method compensates for the
+This method compensates for both kinematics and dynamics which enable 
