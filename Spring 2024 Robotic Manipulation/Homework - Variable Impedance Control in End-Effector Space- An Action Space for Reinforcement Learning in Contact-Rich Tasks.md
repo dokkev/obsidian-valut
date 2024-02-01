@@ -23,7 +23,7 @@ Different tasks can be successfully achieved by different action spaces. However
 This method compensates for both kinematics and dynamics, which enable generalization of the task across different robots. 
 
 ## How the idea is implemented? (algorithm, network structure, system...)
-Policies are trained using reinforcement learning to output actions on different action spaces. The problem is modlled as a discrete-time continous Markov decision process
+Policies are trained using reinforcement learning to output actions on different action spaces. It  predicts both end-effector displacement (reference) and variable impedance gains based on observations. The paper presents an empirical study comparing common choices for the action space in contact-rich manipulation and evaluates different action spaces like joint position, joint velocity, and operational space formalism
 
 
 ## How is success proved and measured? (experiments, metrics, most relevant result)
