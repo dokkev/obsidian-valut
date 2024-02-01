@@ -13,4 +13,5 @@
 - Due to this uncertainty, there is a large gap between simulation and real robot environment in terms of estimating the state.
 - Even with an appropriate reward function, the control policy will fail without ability to adapt to an uncertain environment. 
 - The success of RL algorithm depends on the high quality and dense reward feedback, but specific reward function lacks of generalization
-- related to that, Google Research scientist, Rishabh Agarwal demonstrated Meta Reward  Learning which successfully trained policy from binary reward: success and failure from complex input such as as a natural la
+- related to that, Google Research scientist, Rishabh Agarwal demonstrated Meta Reward  Learning which successfully trained policy from binary reward: success and failure from complex input such as as a natural language instruction.
+- 
