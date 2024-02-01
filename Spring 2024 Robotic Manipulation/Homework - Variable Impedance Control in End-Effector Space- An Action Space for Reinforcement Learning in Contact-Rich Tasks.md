@@ -15,4 +15,4 @@ u = f ◦ g(o)
 Observation to Control Input Through Action
 
 ## Problem Definition
-Different tasks can be successfully achieved by different action spaces. However, robotic manipulation in RL has focused on the observation space or reward model rather than action space despite can simplify the exploration and improve robustness. However, choosing 
+Different tasks can be successfully achieved by different action spaces. However, robotic manipulation in RL has focused on the observation space or reward model rather than action space, despite appropriate action space can simplify the exploration and improve robustness.  Therefore, the author inve
