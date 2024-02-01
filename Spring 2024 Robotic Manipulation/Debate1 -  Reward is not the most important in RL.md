@@ -10,4 +10,4 @@
 - But in reality, there are more layers when it comes to deploying policy trained from RL to a real robot.
 - Action goes into control input, which usually consists of high level controller and low level controller. 
 - Then the robot physically interacts with the environment with uncertainty, and the sensors collect information from the environment, which also involves uncertainty.
-- 
+- Due to these uncertainty, there is large gap between 
