@@ -11,7 +11,8 @@ Observation to Action
 f(a) : A -> u
 Action to Control Input
 
-u = f 
+u = f ◦ g(o)
+Observation to Control Input Through Action
 
 ## Problem Definition
 Robotic manipulation in RL has focused on the observation space or reward model rather than action space, which can simplify the exploration and improve robustness. However, choosing 
