@@ -9,5 +9,6 @@
 - Reinforcement Learning process includes an agent takes an action which affects the environment, and the environments gives reward and provides state to the agent.
 - But in reality, there are more layers when it comes to deploying policy trained from RL to a real robot.
 - Action goes into control input, which usually consists of high level controller and low level controller. 
-- Then the robot physically interacts with the environment with uncertainty, and the sensors collect information from the environment, which also involves uncertainty.
+- Then the robot physically interacts with the environment with uncertainty, and the sensors such as encoders, IMU, FT sensors, and camera collect information from the environment, which also involves uncertainty.
 - Due to this uncertainty, there is a large gap between simulation and real robot environment in terms of estimating the state.
+- 
