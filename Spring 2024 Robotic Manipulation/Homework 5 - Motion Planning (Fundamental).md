@@ -6,4 +6,4 @@ The configuration of the robot and obstacle in the environment can be represente
 ## Applicability / Problems solved
 We can effectively describe the state of the robot and its environment in C-space, and sampling-based motion planning such as RRTs is widely used in industries as a practical solution in both rigid 2D and 3D robots among fixed obstacles to provide collision free paths with path smoothing.
 ## Assumptions and limitations
-These motion planning methods assume the complete understanding of the robot and environment while the environment is static. The complexity of computation increases when the dimension of the C-space increases. Therefore, DOF of robot is limited 
+These motion planning methods assume the complete understanding of the robot and environment while the environment is static. The complexity of computation increases when the dimension of the C-space increases. Therefore, DOF of robot is limited in practical scenarios.
