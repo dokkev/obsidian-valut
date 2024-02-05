@@ -1,5 +1,5 @@
 ## Problem Definition
-Motion planning problem have to be discretized for computation despite its continuity in C-space. 
+Motion planning deals with enabling a robot to findMotion planning problem have to be discretized for computation despite its continuity in C-space. 
 
 ## Summary of the methodology presented: algorithm, input-output
 
