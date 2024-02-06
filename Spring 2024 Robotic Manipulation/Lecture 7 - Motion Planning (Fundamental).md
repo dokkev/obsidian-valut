@@ -6,3 +6,6 @@
 - Two families of solutions
 	- Combinatorial (Graph search) methods
 	- Sampling based methods
+## Graph Search Method
+- Transform the problem of finding a path as a problem to find a connection between two nodes in a graph
+- Disc
