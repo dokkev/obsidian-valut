@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 5 - Motion Planning (Fundamental).md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 5 - Motion Planning (Fundamental).md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 5 - Motion Planning (Fundamental).md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 5 - Motion Planning (Fundamental).md"
+                "file": "Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md"
               }
             }
           }
@@ -173,10 +173,11 @@
   },
   "active": "bd4feba4abff44d6",
   "lastOpenFiles": [
-    "Spring 2024 Robotic Manipulation/Debate1 -  Reward is not the most important in RL.md",
-    "Spring 2024 Robotic Manipulation/Homework 5 - Motion Planning (Fundamental).md",
-    "Concepts & Knowledge/img_source/Dynamic System-based LfD.md",
     "Spring 2024 Robotic Manipulation/Lecture 5 - Control (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Homework 5 - Motion Planning (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Debate1 -  Reward is not the most important in RL.md",
+    "Concepts & Knowledge/img_source/Dynamic System-based LfD.md",
     "Spring 2024 Robotic Manipulation/Homework - Variable Impedance Control in End-Effector Space- An Action Space for Reinforcement Learning in Contact-Rich Tasks.md",
     "Spring 2024 Robotic Manipulation/Lecture 4 - Grasping (Learning).md",
     "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
@@ -213,7 +214,6 @@
     "Reinforcement Learning",
     "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
     "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector and Can Utils.md",
-    "PLATO/PLATO Hand/Robotic Fingernail.md",
     "Concepts & Knowledge",
     "PLATO/Canvas.canvas",
     "NVIDIA Isaac Sim",
