@@ -29,4 +29,5 @@
 
 ## Sampling-based method
 - PRM (Probabilistic Roadmap)
-- 
+- RRT
+	- 
