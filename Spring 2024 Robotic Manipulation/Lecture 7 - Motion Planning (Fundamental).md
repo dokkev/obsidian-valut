@@ -32,3 +32,8 @@
 - RRT
 	- connected; no cycle
 - RRTConnect, RRT*, Bidirectional RRT
+## Properties of Motion Planner
+- Complexity
+- Optimality
+- Convergence
+- Completeness
