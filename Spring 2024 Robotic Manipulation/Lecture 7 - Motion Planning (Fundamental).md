@@ -11,3 +11,4 @@
 - Discretize the problem → construct graph → find a path
 - Google map, sequential decision making
 - Graph Traversal Algorithms
+- Breath-First Search (FIFO) -> finds a shortest path
