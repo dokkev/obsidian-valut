@@ -28,4 +28,4 @@
 	- the complexity of the algorithm increases
 
 ## Sampling-based method
-- PRM (Pro)
+- PRM (Probabilistic Roadmap)
