@@ -24,4 +24,5 @@
 - Optimality
 	- Always finds the shortest path
 - cs standfod abisee
-- 
+- Curse of dimensionality
+	- the complexity of the algorithm
