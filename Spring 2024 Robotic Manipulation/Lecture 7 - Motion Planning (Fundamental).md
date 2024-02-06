@@ -19,3 +19,6 @@
 	- optimal and fast
 	- At each iternation, A chooses to explore the node of the frontier that minimizes the N (steps from the source to node + approximate steps to target)
 - Dijkstra's Algorithm
+- Completeness
+	- If there is a solution, it will find it (with time < t), or return that there is no solution
+	- 
