@@ -15,3 +15,6 @@
 - Depth-First Search (LIFO) 
 - Greedy Best First Search
 	- picks the best, heuristic
+- Astar combines BFS and GFS
+	- optimal and fast
+- Dijkstra's Algorithm
