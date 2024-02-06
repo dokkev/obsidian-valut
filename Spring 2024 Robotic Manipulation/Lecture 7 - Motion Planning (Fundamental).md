@@ -30,4 +30,4 @@
 ## Sampling-based method
 - PRM (Probabilistic Roadmap)
 - RRT
-	- 
+	- connected; no cycle
