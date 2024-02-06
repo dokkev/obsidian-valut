@@ -31,3 +31,4 @@
 - PRM (Probabilistic Roadmap)
 - RRT
 	- connected; no cycle
+- RRTConnect, RRT*, Bidirectional RRT
