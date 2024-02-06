@@ -14,4 +14,4 @@
 - Breath-First Search (FIFO) → finds the shortest path
 - Depth-First Search (LIFO) 
 - Greedy Best First Search
-	- picks
+	- picks the best, heuristic
