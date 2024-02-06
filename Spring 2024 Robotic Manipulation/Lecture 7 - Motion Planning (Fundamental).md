@@ -4,5 +4,5 @@
 - Take a look at Configuration Space Visualization of 2-D Robotic manipulator (cs.unc.edu)
 	- Two joint angles are represented as x-y plane
 - Two families of solutions
-	- Combinatorial (Graph search) method
-	- Smap
+	- Combinatorial (Graph search) methods
+	- Sampling based methods
