@@ -12,4 +12,6 @@
 - Google map, sequential decision-making
 - Graph Traversal Algorithms
 - Breath-First Search (FIFO) → finds the shortest path
-- Depth-First Search (LIFO) -> 
+- Depth-First Search (LIFO) 
+- Greedy Best First Search
+	- picks
