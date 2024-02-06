@@ -10,3 +10,4 @@
 - Transform the problem of finding a path as a problem to find a connection between two nodes in a graph
 - Discretize the problem → construct graph → find a path
 - Google map, sequential decision making
+- Graph Traversal Algorithms
