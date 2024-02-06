@@ -21,4 +21,7 @@
 - Dijkstra's Algorithm
 - Completeness
 	- If there is a solution, it will find it (with time < t), or return that there is no solution
-	- 
+- Optimality
+	- Always finds the shortest path
+- cs standfod abisee
+- 
