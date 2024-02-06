@@ -25,4 +25,7 @@
 	- Always finds the shortest path
 - cs standfod abisee
 - Curse of dimensionality
-	- the complexity of the algorithm
+	- the complexity of the algorithm increases
+
+## Sampling-based method
+- PRM (Pro)
