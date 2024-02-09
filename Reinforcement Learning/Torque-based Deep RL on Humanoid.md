@@ -23,4 +23,7 @@ The robot's compliance is determined by the PD gain in the controller.
 
 PD 제어의 문제점
 - PD predetermines the behavior
-- Each task needs own tuning for 
+- Each task needs own tuning 
+- lack of compliance
+- 
+	
