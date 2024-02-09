@@ -8,4 +8,9 @@ The robot's compliance is determined by the PD gain in the controller.
 
 강화학습에서 기초적으로 두가지 구조:
 - 위치기반 구조
-- 
+	- q_target -> PD controller
+-  토크제어
+	- tau_cmd
+- 대부분의 연구들은 위치기반 RL
+
+""
