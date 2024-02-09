@@ -1,1 +1,1 @@
-일상적인 제어
+Different task requires different control strategies. From biological view, human 
