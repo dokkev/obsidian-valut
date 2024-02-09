@@ -25,5 +25,5 @@ PD 제어의 문제점
 - PD predetermines the behavior
 - Each task needs own tuning 
 - lack of compliance
-- 
+- Due to reality gap, there is a performance differ
 	
