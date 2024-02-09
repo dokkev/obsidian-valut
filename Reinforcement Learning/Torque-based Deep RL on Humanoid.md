@@ -26,5 +26,6 @@ PD 제어의 문제점
 - Each task needs own tuning 
 - lack of compliance
 - Due to reality gap, there is a joint tracking performance difference and contact timing mismatch (학습된 contact timing 과 다름)
-- When an unexpe
-	
+- When an unexpected contact occurs, the PD controller tries to reduce the tracking error
+
+Torque 기반의 제어를 통해 PD 튜닝을 없게
