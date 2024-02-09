@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning/Torque-based Deep RL on Humanoid.md"
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "03e75fdedda051a8",
   "lastOpenFiles": [
-    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
-    "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
     "Reinforcement Learning/Mujoco vs Issac Gym.md",
+    "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
+    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
     "Reinforcement Learning/img_source/Pasted image 20240208222837.png",
     "Reinforcement Learning/img_source/Pasted image 20240208225239.png",
     "Reinforcement Learning/img_source/Pasted image 20240208225015.png",
