@@ -2,4 +2,5 @@ Different task requires different control strategies. From biological view, huma
 ![[Pasted image 20240208222550.png]]
 
 
-The robot's compliance is determined by the PD gain in the controller
+The robot's compliance is determined by the PD gain in the controller.
+![[Pasted image 20240208222837.png]]
