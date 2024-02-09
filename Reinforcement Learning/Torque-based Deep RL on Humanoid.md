@@ -59,3 +59,5 @@ Therefore, Gravity pre-training
 
 Why not use low PD gain for compliance?
 - It needs tuning anyway
+
+Compared to MPC, RL controller can be lowered rate
