@@ -38,3 +38,5 @@ Torque 기반의 제어를 통해 PD 튜닝을 없게
 - 학습이 빠름 -> 학습 시작부터 pose 를 유지가능
 - Compliance 가 부족함
 Therefore, Graviry pre-training
+- collect pre-training data (gravity torque) at random poses
+- Pre-train the policty
