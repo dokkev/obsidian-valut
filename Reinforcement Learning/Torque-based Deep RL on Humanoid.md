@@ -25,6 +25,6 @@ PD 제어의 문제점
 - PD predetermines the behavior
 - Each task needs own tuning 
 - lack of compliance
-- Due to reality gap, there is a jpperformance difference and contact timing mismatch
-- 
+- Due to reality gap, there is a joint tracking performance difference and contact timing mismatch (학습된 contact timing 과 다름)
+- When an unexpe
 	
