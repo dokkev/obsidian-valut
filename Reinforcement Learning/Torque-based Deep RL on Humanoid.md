@@ -14,6 +14,9 @@ The robot's compliance is determined by the PD gain in the controller.
 - 대부분의 연구들은 위치기반 RL
 
 "Learning Locomotion Skills Using DeepRL: Does the Choice of Action Space Matter?" (2017)
-- compared action spaces
+- compared action spaces with respect to learning speed, motion quality and limitation
 	- Torque control
-	- Joint 
+	- Joint control with PD
+	- joint velocity
+	- muscle activation (?)
+- 
