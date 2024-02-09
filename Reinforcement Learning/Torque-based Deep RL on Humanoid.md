@@ -52,7 +52,8 @@ Therefore, Gravity pre-training
 - DeepMimic framework: learn to mimic a given reference motion
 - Phase state defines gait-cycle in terms of range of 0 and 1
 - Dynamics Randomization
-	- mass, inertia, COM
-	- 
-
+	- Links: mass, inertia, COM
+	- Joint: Damping, Friction
+	- Motor Constant
+	- Delay
 
