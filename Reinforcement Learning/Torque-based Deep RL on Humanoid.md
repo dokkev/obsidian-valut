@@ -47,5 +47,8 @@ Therefore, Gravity pre-training
 ## Implementation
 ![[Pasted image 20240208224947.png]]
  ![[Pasted image 20240208225015.png]]
+![[Pasted image 20240208225239.png]]
 
 DeepMimic framework: learn to mimic a given reference motion
+
+Phase state defines gait-cycle in terms of range of 0 and 1
