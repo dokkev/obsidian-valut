@@ -57,3 +57,4 @@ Therefore, Gravity pre-training
 	- Motor Constant
 	- Delay
 
+Why not use low PD gain for complaiance
