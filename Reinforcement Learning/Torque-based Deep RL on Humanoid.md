@@ -37,6 +37,7 @@ Torque 기반의 제어를 통해 PD 튜닝을 없게
 - Output 이 q_target 이라 직관적
 - 학습이 빠름 -> 학습 시작부터 pose 를 유지가능
 - Compliance 가 부족함
-Therefore, Graviry pre-training
+Therefore, Gravity pre-training
 - collect pre-training data (gravity torque) at random poses
-- Pre-train the policty
+- Pre-train the policy-> input: state, Output: action (torque)
+- Start RL using the pre-trained policy as a starting point
