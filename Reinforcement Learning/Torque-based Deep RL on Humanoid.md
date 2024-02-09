@@ -1,1 +1,1 @@
-Different task requires different control strategies. From biological view, human 
+Different task requires different control strategies. From biological view, human can control joint compliance which determined by the number of parallel elastic elements in muscle activation
