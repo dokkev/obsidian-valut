@@ -31,3 +31,5 @@ PD 제어의 문제점
 Torque 기반의 제어를 통해 PD 튜닝을 없게
 토크 제어의 고유한 compliance 덕에 reality gap 에 강인함
 
+토크제어가 학습이 느리니 -> Gravity Pre-training
+
