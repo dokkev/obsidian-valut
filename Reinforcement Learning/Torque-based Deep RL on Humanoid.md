@@ -33,6 +33,8 @@ Torque 기반의 제어를 통해 PD 튜닝을 없게
 
 토크제어가 학습이 느리니 -> Gravity Pre-training
 
-위치제어 RL 의 장점
+위치제어 RL :
 - Output 이 q_target 이라 직관적
-- 학습이 빠름 -> 학습 시작부터 pose 를 
+- 학습이 빠름 -> 학습 시작부터 pose 를 유지가능
+- Compliance 가 부족함
+Therefore, Graviry pre-training
