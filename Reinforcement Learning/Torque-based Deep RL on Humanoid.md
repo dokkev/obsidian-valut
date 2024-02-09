@@ -29,3 +29,5 @@ PD 제어의 문제점
 - When an unexpected contact occurs, the PD controller tries to reduce the tracking error
 
 Torque 기반의 제어를 통해 PD 튜닝을 없게
+토크 제어의 고유한 compliance 덕에 reality gap 에 강인함
+
