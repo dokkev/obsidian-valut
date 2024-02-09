@@ -41,3 +41,5 @@ Therefore, Gravity pre-training
 - collect pre-training data (gravity torque) at random poses
 - Pre-train the policy-> input: state, Output: action (torque)
 - Start RL using the pre-trained policy as a starting point
+
+그 결과, 
