@@ -20,3 +20,7 @@ The robot's compliance is determined by the PD gain in the controller.
 	- joint velocity
 	- muscle activation (?)
 - Results: Torque learning is slow and not robust to perturbation (at low control rate)
+
+PD 제어의 문제점
+- PD predetermines the behavior
+- Each task needs own tuning for 
