@@ -44,8 +44,8 @@ Therefore, Gravity pre-training
 - Pre-train the policy-> input: state, Output: action (torque)
 - Start RL using the pre-trained policy as a starting point
 
-## 
+## Implementation
 ![[Pasted image 20240208224947.png]]
  ![[Pasted image 20240208225015.png]]
 
-ㅇ
+DeepMimic framework: learn to mimic a given reference motion
