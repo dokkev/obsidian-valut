@@ -42,4 +42,4 @@ Therefore, Gravity pre-training
 - Pre-train the policy-> input: state, Output: action (torque)
 - Start RL using the pre-trained policy as a starting point
 
-그 결과, 
+ 
