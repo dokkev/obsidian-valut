@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03e75fdedda051a8",
+            "id": "bd4feba4abff44d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
+                "file": "NVIDIA Isaac Sim/Installation & Install Error Debugging.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 212.5
   },
   "right": {
     "id": "c15f7e551bb8ae20",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
+                "file": "NVIDIA Isaac Sim/Installation & Install Error Debugging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
+                "file": "NVIDIA Isaac Sim/Installation & Install Error Debugging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning/Torque-based Deep RL on Humanoid.md"
+                "file": "NVIDIA Isaac Sim/Installation & Install Error Debugging.md"
               }
             }
           }
@@ -146,47 +146,47 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "03e75fdedda051a8",
+  "active": "bd4feba4abff44d6",
   "lastOpenFiles": [
     "Reinforcement Learning/Humanoid Locomotion Using RL.md",
-    "Reinforcement Learning/Mujoco vs Issac Gym.md",
-    "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
-    "Reinforcement Learning/img_source/Pasted image 20240208222837.png",
     "Reinforcement Learning/img_source/Pasted image 20240208225239.png",
     "Reinforcement Learning/img_source/Pasted image 20240208225015.png",
     "Reinforcement Learning/img_source/Pasted image 20240208224947.png",
+    "Reinforcement Learning/img_source/Pasted image 20240208222837.png",
     "Reinforcement Learning/img_source/Pasted image 20240208222550.png",
     "Reinforcement Learning/img_source/Pasted image 20240208222547.png",
-    "Spring 2024 Robotic Manipulation/Homework 5 - Motion Planning (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
-    "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
-    "Spring 2024 Robotic Manipulation/Argument 1 Reward is not the most important in RL.md",
-    "Spring 2024 Robotic Manipulation/Debate1 -  Reward is not the most important in RL.md",
+    "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
     "Concepts & Knowledge/img_source/Dynamic System-based LfD.md",
-    "Spring 2024 Robotic Manipulation/Homework - Variable Impedance Control in End-Effector Space- An Action Space for Reinforcement Learning in Contact-Rich Tasks.md",
+    "Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Homework 5 - Motion Planning (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Debate1 -  Reward is not the most important in RL.md",
     "Spring 2024 Robotic Manipulation/Lecture 5 - Control (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Homework - Variable Impedance Control in End-Effector Space- An Action Space for Reinforcement Learning in Contact-Rich Tasks.md",
     "Spring 2024 Robotic Manipulation/Lecture 4 - Grasping (Learning).md",
-    "Spring 2024 Robotic Manipulation/Lecture 3 - Grasping (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
     "PLATO/PLATO Hand/ROS2 SocketCAN.md",
     "Concepts & Knowledge/img_source/Pasted image 20240128171931.png",
     "Concepts & Knowledge/img_source/Pasted image 20240128171813.png",
     "Concepts & Knowledge/img_source",
     "Concepts & Knowledge/How to give a Good Talk.md",
-    "Spring 2024 Robotic Manipulation/Homework 2.md",
-    "Spring 2024 Robotic Manipulation/Homework 1.md",
-    "Spring 2024 Robotic Manipulation/Lecutre 3 - Grasping (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Lecture 1.md",
-    "Spring 2024 Robotic Manipulation/Lecture 2.md",
+    "Spring 2024 Robotic Manipulation/Lecture 3 - Grasping (Fundamental).md",
+    "Reinforcement Learning/Mujoco vs Issac Gym.md",
+    "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
     "conflict-files-obsidian-git.md",
-    "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
+    "Spring 2024 Robotic Manipulation/Homework 1.md",
+    "Spring 2024 Robotic Manipulation/Homework 2.md",
+    "Spring 2024 Robotic Manipulation/Lecture 2.md",
+    "Spring 2024 Robotic Manipulation/Lecture 1.md",
     "Spring 2024 Robotic Manipulation",
+    "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
     "Tedrake Robotic Manipulation",
     "Reinforcement Learning/img_source/Pasted image 20231220175917.png",
     "NVIDIA Isaac Sim/Issac Gym Overview.md",
     "NVIDIA Isaac Sim/Installation & Install Error Debugging.md",
+    "NVIDIA Isaac Sim/Untitled.md",
     "Reinforcement Learning/img_source/Pasted image 20231220175325.png",
     "Reinforcement Learning/img_source",
+    "Untitled.md",
     "Reinforcement Learning",
     "Concepts & Knowledge",
     "PLATO/Canvas.canvas",
