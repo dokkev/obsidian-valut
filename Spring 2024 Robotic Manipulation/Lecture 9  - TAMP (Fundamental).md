@@ -2,7 +2,8 @@
 - Tackle longer horizon tasks
 ## Task Planning
  - model based and defined at a high-level of abstraction
-	- Aussme some level of prior knowledge
+	- Assume some level of prior knowledge
 	- definitions are discrete
-	- model provide approxim
+	- model provide approximation
  - comprised of states, objects, and actions
+##
