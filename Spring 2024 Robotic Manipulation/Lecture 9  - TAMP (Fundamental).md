@@ -21,4 +21,6 @@
 ### Limitation of Task Planning
 - Feasibility is not considered
 - Optimality is hard to be achieved
-- The real world is continuouss
+- The real world is continuous
+
+## TAMP
