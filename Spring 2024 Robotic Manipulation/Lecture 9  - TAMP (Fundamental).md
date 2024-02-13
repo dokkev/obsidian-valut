@@ -10,4 +10,8 @@
 - Parameters
 	- ?r
 	- ?loc1
-	- 
+	- ?loc2
+- Preconditions
+	- A robot must have the same name as ?r
+	- A location must have the same as ?loc1
+- 
