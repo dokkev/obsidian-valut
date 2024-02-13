@@ -9,4 +9,4 @@ TAMP incorporates both task and motion planning into a combined framework which 
 ## Applicability / Problems solved
 TAMP is capable of performing tasks in complex environments with obstacles, such as determining if a path or action is feasible and manipulating objects with collision avoidance. Also, it can reduce the risk of plan failure by incorporating detailed deliberation on the feasibility of plans.
 ## Assumptions and limitations
-The a
+The author assumes that the enviroment can be accuratly modeled with a planning launguage such PDDL
