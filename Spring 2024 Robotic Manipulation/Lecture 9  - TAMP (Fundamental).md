@@ -16,4 +16,5 @@
 	- A location must have the same as ?loc1
 - Effects
 	-  The robot will be now at ?loc2
-	- The robot will no long
+	- The robot will no longer be at ?loc1
+	
