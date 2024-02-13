@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 5 - Motion Planning (Fundamental).md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 7 - Fundamental.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 5 - Motion Planning (Fundamental).md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 7 - Fundamental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 5 - Motion Planning (Fundamental).md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 7 - Fundamental.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 5 - Motion Planning (Fundamental).md"
+                "file": "Spring 2024 Robotic Manipulation/Homework 7 - Fundamental.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "bd4feba4abff44d6",
   "lastOpenFiles": [
+    "Spring 2024 Robotic Manipulation/Homework 5 - Motion Planning (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Homework 7 - Fundamental.md",
     "NVIDIA Isaac Sim/Installation & Install Error Debugging.md",
     "Reinforcement Learning/Humanoid Locomotion Using RL.md",
@@ -160,7 +161,6 @@
     "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
     "Concepts & Knowledge/img_source/Dynamic System-based LfD.md",
     "Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Homework 5 - Motion Planning (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Debate1 -  Reward is not the most important in RL.md",
     "Spring 2024 Robotic Manipulation/Lecture 5 - Control (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Homework - Variable Impedance Control in End-Effector Space- An Action Space for Reinforcement Learning in Contact-Rich Tasks.md",
