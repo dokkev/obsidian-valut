@@ -26,4 +26,5 @@
 ## TAMP
 - Sampling Strategies - Early Commitment
 - Sampling Strategies - Least Commitment (or Optimistic)
-###
+### Hierarchical Planning
+
