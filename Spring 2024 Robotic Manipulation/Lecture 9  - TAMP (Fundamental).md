@@ -24,4 +24,5 @@
 - The real world is continuous
 
 ## TAMP
-### Sampling Strategies - Early Commitment
+-  Sampling Strategies - Early Commitment
+- Least Commitm
