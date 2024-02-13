@@ -9,4 +9,4 @@ TAMP incorporates both task and motion planning into a combined framework which 
 ## Applicability / Problems solved
 TAMP is capable of performing tasks in complex environments with obstacles, such as determining if a path or action is feasible and manipulating objects with collision avoidance. Also, it can reduce the risk of plan failure by incorporating detailed deliberation on the feasibility of plans.
 ## Assumptions and limitations
-The author assumes that the environment can be accurately modeled with a planning language such PDDL, and the robot can sufficiently localize itself in the environment. In addition, this method is limited by the size of the problem where the planning of the cost exponentially increase by the size of the environment, and plans are not able to
+The author assumes that the environment can be accurately modeled with a planning language such PDDL, and the robot can sufficiently localize itself in the environment. In addition, this method is limited by the size of the problem where the planning of the cost exponentially increase by the size of the environment, and plans are not able to adpat to changes in the enviroment.
