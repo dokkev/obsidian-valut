@@ -6,4 +6,8 @@
 	- definitions are discrete
 	- model provide approximation
  - comprised of states, objects, and actions
-##
+### PDDL (Planning Domain Definition Language)
+- Parameters
+	- ?r
+	- ?loc1
+	- 
