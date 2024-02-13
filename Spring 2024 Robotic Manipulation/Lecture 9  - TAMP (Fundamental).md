@@ -14,4 +14,6 @@
 - Preconditions
 	- A robot must have the same name as ?r
 	- A location must have the same as ?loc1
-- 
+- Effects
+	-  The robot will be now at ?loc2
+	- The robot will no long
