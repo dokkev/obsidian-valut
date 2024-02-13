@@ -18,3 +18,5 @@
 	-  The robot will be now at ?loc2
 	- The robot will no longer be at ?loc1
 	
+### Limitation of Task Planning
+- 
