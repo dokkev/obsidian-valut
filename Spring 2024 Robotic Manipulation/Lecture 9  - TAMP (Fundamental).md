@@ -25,4 +25,4 @@
 
 ## TAMP
 -  Sampling Strategies - Early Commitment
-- Least Commitm
+- Sampling Strategies - Least Commitment (or Optimistic)
