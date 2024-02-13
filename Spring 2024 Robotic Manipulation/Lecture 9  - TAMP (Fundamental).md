@@ -19,4 +19,6 @@
 	- The robot will no longer be at ?loc1
 	
 ### Limitation of Task Planning
-- 
+- Feasibility is not considered
+- Optimality is hard to be achieved
+- The real world is continuouss
