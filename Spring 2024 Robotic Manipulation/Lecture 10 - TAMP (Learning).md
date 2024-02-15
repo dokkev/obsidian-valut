@@ -18,4 +18,5 @@ Task grounding (say) → LLM (find a cleaner, find a sponge...) -> Value Functio
 - Score for relevant skills
 ### World Grounding using Value Functions
 - Value function is trained via RL (Q-learning)
-- 
+- low level policies learning from RL and BC
+- Actio
