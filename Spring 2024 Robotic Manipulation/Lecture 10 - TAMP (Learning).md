@@ -19,4 +19,5 @@ Task grounding (say) → LLM (find a cleaner, find a sponge...) -> Value Functio
 ### World Grounding using Value Functions
 - Value function is trained via RL (Q-learning)
 - low level policies learning from RL and BC
-- Actio
+- Action space: 6DOF ee pose + Gripper state +(x,y,theta) mobile platform state
+- 
