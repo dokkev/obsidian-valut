@@ -2,7 +2,6 @@ LLM is not grounded in reality (lack of connection to the real context)
 
 ## SayCan
 Task grounding (say) → LLM (find a cleaner, find a sponge...) -> Value Functions ← world grounding (Can)
-
 ### Related work
 - LLM-based planning without grounding
 - Fine-Tune LLM to Ground
@@ -13,4 +12,4 @@ Task grounding (say) → LLM (find a cleaner, find a sponge...) -> Value Functio
 - current state: S
 - Set of skills:  Π
 - Goal is to compute task grounding (Say) and world grounding (Can)
-- 
+### Task Grounding
