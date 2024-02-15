@@ -15,3 +15,6 @@ Task grounding (say) → LLM (find a cleaner, find a sponge...) -> Value Functio
 ### Task Grounding
 - Prompt Engineering
 - Instruction
+- Score for relevant skills
+### World Grounding using Value Functions
+- Value function is tr
