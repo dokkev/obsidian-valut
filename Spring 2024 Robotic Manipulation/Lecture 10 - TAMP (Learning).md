@@ -11,4 +11,5 @@ Task grounding (say) → LLM (find a cleaner, find a sponge...) -> Value Functio
 ### Problem Setting
 - user provided natural language instrction
 - currenst state: S
-- Set of skiils: /{$}
+- Set of skiils: Π
+- 
