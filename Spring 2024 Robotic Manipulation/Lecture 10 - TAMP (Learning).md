@@ -9,7 +9,8 @@ Task grounding (say) → LLM (find a cleaner, find a sponge...) -> Value Functio
 - Learning-based Symbolic TAMP
 - Hierarchical RL
 ### Problem Setting
-- user provided natural language instrction
-- currenst state: S
-- Set of skiils: Π
+- user provided natural language instruction
+- current state: S
+- Set of skills:  Π
+- Goal is to compute task grounding (Say) and world grounding (Can)
 - 
