@@ -6,4 +6,4 @@ The author's method, SayCan is able to propose actions combined with semantic kn
 This method can be widely applied to robotics, where robots need to perform tasks with abstract and limited instructions. With its capability to translate a task into a sequence of sub-actions, SayCan can eliminate the necessity to set specific pre-defined actions for high-level task planning.
 ## Assumptions and limitations
 
-It assumes that LLM can generate relavant a
+It relys on the pre-defined 
