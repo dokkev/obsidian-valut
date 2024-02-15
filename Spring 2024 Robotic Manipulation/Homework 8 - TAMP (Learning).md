@@ -1,5 +1,5 @@
 ## Problem Definition
-Language models lack real-world experience
+Language models lack real-world experience which makes decision making within a given embodiment 
 
 ## Summary of the methodology presented: algorithm, input-output
 
