@@ -4,7 +4,7 @@ Language models lack real-world experience, which makes decision-making within a
 The author's method, SayCan is able to propose actions combined with semantic knowledge and robot's pretrained actions. As an input, it takes natural language instructions of a task for the robot. Then it interprets the task with LLM to generate possible actions to perform the task that the user provides, and it evaluates the feasibility of those actions with the pretrained robot skills. It selects the action based on the relevance and feasibility of the task.  As a result, it outputs a series of robot high level actions to execute the task and generate feedback for the next decision.
 
 ## Applicability / Problems solved
-This method can be widely applied to robotics, where robots need to perform tasks with abstract and limited instructions. With its ab
+This method can be widely applied to robotics, where robots need to perform tasks with abstract and limited instructions. With its capability to translate a task into a sequence of sub-actions solves high-level task planning a
 
 ## Assumptions and limitations
 
