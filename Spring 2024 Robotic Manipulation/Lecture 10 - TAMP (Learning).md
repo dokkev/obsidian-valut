@@ -21,5 +21,6 @@ Task grounding (say) → LLM (find a cleaner, find a sponge...) -> Value Functio
 - low level policies learning from RL and BC
 - Action space: 6DOF ee pose + Gripper state +(x,y,theta) mobile platform state
 ### Connections with Symbolic TAMP
-- Symbolic operators -> skill primitives
-- No exp
+- Symbolic operators → skill primitives
+- No explicit need for predicates, preconditions, and post conditions
+- Sampling-based symbolic planner → Language based planner
