@@ -7,3 +7,4 @@ Task grounding (say) → LLM (find a cleaner, find a sponge...) -> Value Functio
 - LLM-based planning without grounding
 - Fine-Tune LLM to Ground
 - Learning-based Symbolic TAMP
+- Hierarchial RL
