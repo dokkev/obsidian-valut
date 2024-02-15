@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PLATO/Account Info.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 8 - TAMP (Learning).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PLATO/Account Info.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 8 - TAMP (Learning).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PLATO/Account Info.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 8 - TAMP (Learning).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PLATO/Account Info.md"
+                "file": "Spring 2024 Robotic Manipulation/Homework 8 - TAMP (Learning).md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "bd4feba4abff44d6",
   "lastOpenFiles": [
-    "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
     "PLATO/Account Info.md",
+    "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
     "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector and Can Utils.md",
     "PLATO/PLATO Hand/Robotic Fingernail.md",
     "PLATO/PLATO Hand/ROS2 SocketCAN.md",
