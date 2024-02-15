@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 8 - TAMP (Learning).md",
+                "file": "PLATO/Account Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 8 - TAMP (Learning).md",
+                "file": "PLATO/Account Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 8 - TAMP (Learning).md",
+                "file": "PLATO/Account Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 8 - TAMP (Learning).md"
+                "file": "PLATO/Account Info.md"
               }
             }
           }
@@ -148,12 +148,15 @@
   },
   "active": "bd4feba4abff44d6",
   "lastOpenFiles": [
-    "Spring 2024 Robotic Manipulation/Homework 7 - TAMP (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
-    "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
-    "Spring 2024 Robotic Manipulation/Homework 5 - Motion Planning (Fundamental).md",
+    "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
+    "PLATO/Account Info.md",
+    "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector and Can Utils.md",
+    "PLATO/PLATO Hand/Robotic Fingernail.md",
+    "PLATO/PLATO Hand/ROS2 SocketCAN.md",
+    "PLATO/PLATO Hand/Untitled 1.md",
+    "Spring 2024 Robotic Manipulation/Homework 7 - Fundamental.md",
     "Spring 2024 Robotic Manipulation/Homework 8 - TAMP (Learning).md",
-    "Spring 2024 Robotic Manipulation/Homework 2.md",
+    "Spring 2024 Robotic Manipulation/Homework 7 - TAMP (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Lecture 9  - TAMP (Fundamental).md",
     "NVIDIA Isaac Sim/Installation & Install Error Debugging.md",
     "Reinforcement Learning/Humanoid Locomotion Using RL.md",
@@ -166,26 +169,23 @@
     "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
     "Concepts & Knowledge/img_source/Dynamic System-based LfD.md",
     "Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Homework 5 - Motion Planning (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Debate1 -  Reward is not the most important in RL.md",
     "Spring 2024 Robotic Manipulation/Lecture 5 - Control (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Homework - Variable Impedance Control in End-Effector Space- An Action Space for Reinforcement Learning in Contact-Rich Tasks.md",
     "Spring 2024 Robotic Manipulation/Lecture 4 - Grasping (Learning).md",
-    "PLATO/PLATO Hand/ROS2 SocketCAN.md",
+    "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
     "Concepts & Knowledge/img_source/Pasted image 20240128171931.png",
     "Concepts & Knowledge/img_source/Pasted image 20240128171813.png",
     "Concepts & Knowledge/img_source",
     "Concepts & Knowledge/How to give a Good Talk.md",
     "Spring 2024 Robotic Manipulation/Lecture 3 - Grasping (Fundamental).md",
     "Reinforcement Learning/Mujoco vs Issac Gym.md",
+    "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
     "conflict-files-obsidian-git.md",
-    "Spring 2024 Robotic Manipulation/Homework 1.md",
-    "Spring 2024 Robotic Manipulation/Lecture 2.md",
-    "Spring 2024 Robotic Manipulation/Lecture 1.md",
     "Spring 2024 Robotic Manipulation",
-    "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
     "Tedrake Robotic Manipulation",
     "Reinforcement Learning/img_source/Pasted image 20231220175917.png",
-    "NVIDIA Isaac Sim/Issac Gym Overview.md",
     "Reinforcement Learning/img_source/Pasted image 20231220175325.png",
     "Reinforcement Learning/img_source",
     "Reinforcement Learning",
