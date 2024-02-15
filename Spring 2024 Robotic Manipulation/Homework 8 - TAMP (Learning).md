@@ -16,10 +16,9 @@ Language models lack real-world experience, which makes decision-making within a
 
 SayCan works under the assumption of it has a good understanding of the environment of the robot state. It relies on the pre-defined skills and value functions, which may not be adaptable to dynamic environment in the real world. In addition, it may reflect the in accurate state of the environment, which can lead to inappropriate actions. The quality of generated actions of the robots are limited by the quality of pretrained skills of robots.
 ### What is the clever idea of this paper?
-It attempts to extract visual features for grasping points, and it is a cost-effective method because it eliminates the necessity to project every pixel of the image.  Using synthetic images allow robust perception by varying light conditions, object features, and extrinsic parameters of the camera.
+By combining, possible actions and feasibility, this method can be widely applied to robotics, where robots need to perform tasks with abstract and limited instructions. With its capability to translate a task into a sequence of sub-actions, SayCan can eliminate the necessity to set specific pre-defined actions for high-level task planning of tasks with similar characteristics (such as cutting apple vs cutting potato).
 
 ### How the idea is implemented
 The author's method, SayCan is able to propose actions combined with semantic knowledge and robot's pretrained actions. As an input, it takes natural language instructions of a task for the robot. Then it interprets the task with LLM to generate possible actions to perform the task that the user provides, and it evaluates the feasibility of those actions with the pretrained robot skills. It selects the action based on the relevance and feasibility of the task.  As a result, it outputs a series of robot high level actions to execute the task and generate feedback for the next decision.
 ###  How is success proved and measured?
 
-The predictive accuracy of the algorithm is tested by feeding images not contained in the training dataset. Then the experiment conducts grasping objects similar to training images and novel objects using a real mobile robotic platform and the author's algorithm and measures grasp success rate and mean error of locating grasp points  
