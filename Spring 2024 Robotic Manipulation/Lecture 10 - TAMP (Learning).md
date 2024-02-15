@@ -13,3 +13,5 @@ Task grounding (say) → LLM (find a cleaner, find a sponge...) -> Value Functio
 - Set of skills:  Π
 - Goal is to compute task grounding (Say) and world grounding (Can)
 ### Task Grounding
+- Prompt Engineering
+- Instruction
