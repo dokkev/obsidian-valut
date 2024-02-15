@@ -17,4 +17,5 @@ Task grounding (say) → LLM (find a cleaner, find a sponge...) -> Value Functio
 - Instruction
 - Score for relevant skills
 ### World Grounding using Value Functions
-- Value function is tr
+- Value function is trained via RL (Q-learning)
+- 
