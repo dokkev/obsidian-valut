@@ -6,4 +6,4 @@ The author's method, SayCan is able to propose actions combined with semantic kn
 This method can be widely applied to robotics, where robots need to perform tasks with abstract and limited instructions. With its capability to translate a task into a sequence of sub-actions, SayCan can eliminate the necessity to set specific pre-defined actions for high-level task planning of tasks with similar characteristics (such as cutting apple vs cutting potato).
 ## Assumptions and limitations
 
-It relies on the pre-defined skills and value functions, which may not be adaptable to dynamic environment in the real world. In addtion, it may not reflect 
+It relies on the pre-defined skills and value functions, which may not be adaptable to dynamic environment in the real world. In addition it may  reflect the in accurate state of the enviroment which can lead to 
