@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Lecture 10 - TAMP (Learning).md",
+                "file": "PLATO/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Lecture 10 - TAMP (Learning).md",
+                "file": "PLATO/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Lecture 10 - TAMP (Learning).md",
+                "file": "PLATO/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Lecture 10 - TAMP (Learning).md"
+                "file": "PLATO/Untitled.md"
               }
             }
           }
@@ -185,9 +185,10 @@
   },
   "active": "258e1b84b89c7dc5",
   "lastOpenFiles": [
+    "Spring 2024 Robotic Manipulation/Lecture 10 - TAMP (Learning).md",
+    "PLATO/Untitled.md",
     "Spring 2024 Robotic Manipulation/Lecture 1.md",
     "Spring 2024 Robotic Manipulation/Lecture 2.md",
-    "Spring 2024 Robotic Manipulation/Lecture 10 - TAMP (Learning).md",
     "Spring 2024 Robotic Manipulation/Homework 8 - TAMP (Learning).md",
     "Spring 2024 Robotic Manipulation/Lecture 9  - TAMP (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Homework 7 - TAMP (Fundamental).md",
@@ -219,7 +220,6 @@
     "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
     "conflict-files-obsidian-git.md",
     "Spring 2024 Robotic Manipulation/Homework 1.md",
-    "Spring 2024 Robotic Manipulation/Homework 2.md",
     "Spring 2024 Robotic Manipulation",
     "Tedrake Robotic Manipulation",
     "Reinforcement Learning/img_source/Pasted image 20231220175917.png",
