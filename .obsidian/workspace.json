@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PLATO/Optimo User Guide.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PLATO/Optimo User Guide.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PLATO/Optimo User Guide.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PLATO/Optimo User Guide.md"
+                "file": "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md"
               }
             }
           }
@@ -185,8 +185,8 @@
   },
   "active": "258e1b84b89c7dc5",
   "lastOpenFiles": [
-    "Spring 2024 Robotic Manipulation/Lecture 10 - TAMP (Learning).md",
     "PLATO/Optimo User Guide.md",
+    "Spring 2024 Robotic Manipulation/Lecture 10 - TAMP (Learning).md",
     "Spring 2024 Robotic Manipulation/Lecture 1.md",
     "Spring 2024 Robotic Manipulation/Lecture 2.md",
     "Spring 2024 Robotic Manipulation/Homework 8 - TAMP (Learning).md",
