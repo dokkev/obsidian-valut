@@ -17,6 +17,9 @@ There are two E-stops for Optimo (TODO: add photos)
 ## Launching Optimo
 
 ### Send Commands to Arduino
+
+Warning: DO NOT FLASH
+
 The Arduino inside the control box allows the Roboligent SDK to power the robot on.
 Every time the Optimo computer is restarted, we have to send commands to Arduino over serial. On Arduino IDE, send `<r,s,0>` then `<r,s,1>` over the serial.
 
@@ -47,15 +50,11 @@ Optimo computer has two Ethernet ports. Run `ethercat0 master`  to see EtherCAT 
 - `EtherCAT1` is `master0` on PC.
 - `master1` is `EtherCAT2` on PC.
 
-
 ### CAN
 CAN is initiated with Optimo Controller with 500 kbps on `can0`. Run `candump can0` to see CAN messages
 
 `/dev/usb/ACM0` - USB CAN transceiver
 
 ## Calibration
-
-
-## How to luanch
 
 Call Roboligent
