@@ -49,7 +49,7 @@ Optimo computer has two Ethernet ports. Run `ethercat0 master`  to see EtherCAT 
 
 
 ### CAN
-CAN is initiated with 
+CAN is initiated with Optimo Controller with 500 kbps on `can0`. Run `candump can0` to see CAN messages
 
 `/dev/usb/ACM0` - USB CAN transceiver
 
