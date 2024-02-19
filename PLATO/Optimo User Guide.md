@@ -1,10 +1,12 @@
 ## Powering the Optimo
 
-There are two E-stops for Optimo
+There are two E-stops for Optimo (TODO: add pho)
 - E-stop for the robot
 - E-stop for the Power supply attached to the control box
 
 1. Deactivate the Power supply E-stop, then the power supply will start running.
+2. Turn on the Optimo computer. The password is `optimo`
+3. 
 
 ## Powering off the Optimo
 
@@ -27,7 +29,7 @@ Every time the Optimo computer is restarted, we have to send commands to Arduino
 
 ### EtherCAT
 
-Run `ethercat0` to see EtherCAT status
+Run `ethercat0 master` to see EtherCAT status
 
 EtherCAT 1 is master0 on PC.
 master 1 is EtherCAT 2 on PC.
