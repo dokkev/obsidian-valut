@@ -7,7 +7,6 @@ There are two E-stops for Optimo (TODO: add photos)
 
 1. Deactivate the Power supply E-stop, then the power supply will start running.
 2. Turn on the Optimo computer. The password is `optimo`
-3. 
 
 ## Powering off the Optimo
 
@@ -22,7 +21,8 @@ The Arduino inside the control box allows the Roboligent SDK to power the robot 
 Every time the Optimo computer is restarted, we have to send commands to Arduino over serial. On Arduino IDE, send `<r,s,0>` then `<r,s,1>` over the serial.
 
 ### Build and Run
-The default directory for Roboligent SDK is `optimo_c`
+The default directory for Roboligent SDK is `optimo_controller`
+`cd ~/CODE/linkdyn_sdk/optimo_controller`
 
 
 
