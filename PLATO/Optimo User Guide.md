@@ -23,7 +23,7 @@ Every time the Optimo computer is restarted, we have to send commands to Arduino
 ### Build and Run
 The default directory for Roboligent SDK is `optimo_controller`
 1. `cd ~/CODE/linkdyn_sdk/optimo_controller`
-2. Run  `./dev.sh -c -a -r ./bin/optimo_controller` to build SDK and run Optimo Controller with GUI (Optional)
+2. Run  `./dev.sh -c -a -r ./bin/optimo_controller` to build SDK and run Optimo Controller with GUI (optional) or Run `./dev.sh -r ./bin/optimo_controller  SIMULATED`
 	> `-c` : cmake
 	> `-a` : all
 	> `-r`: run
