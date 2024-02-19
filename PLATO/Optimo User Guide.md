@@ -5,4 +5,5 @@ Every we restart the Optimo computer
 Open Arduino IDE with Serial with 
 `<r,s,0>` then `<r,s,1>`
 
-ACM
+ACM1 - Arduino
+ACM0 - CAN transceiver
