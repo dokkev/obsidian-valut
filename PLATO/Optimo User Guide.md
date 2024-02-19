@@ -4,6 +4,10 @@ There are two E-stops
 - E-stop for the robot
 - E-stop for the Power supply attached to the control box
 
+Deactive the E-stop
+
+
+
 
 
 
