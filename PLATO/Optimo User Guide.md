@@ -6,6 +6,7 @@ There are two E-stops
 
 Deactive the E-stop
 
+## Powering off the Optimo
 
 
 
