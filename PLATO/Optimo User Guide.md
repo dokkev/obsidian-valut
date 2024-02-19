@@ -43,13 +43,15 @@ https://roboligent.bitbucket.io/examples/index.html
 ### EtherCAT
 Run `ethercat0 master` to see EtherCAT status
 
-Optimo computer has two Ethernet ports
-`EtherCAT1` is `master0` on PC.
-master1 is EtherCAT2 on PC.
-`ethercat0` to see EtherCAT status
+Optimo computer has two Ethernet ports. Run `ethercat0 master`  to see EtherCAT status
+- `EtherCAT1` is `master0` on PC.
+- `master1` is `EtherCAT2` on PC.
+
 
 ### CAN
-`usb/ACM0` - CAN transceiver
+CAN is initiated with 
+
+`/dev/usb/ACM0` - USB CAN transceiver
 
 ## Calibration
 
