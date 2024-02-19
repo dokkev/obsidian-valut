@@ -1,6 +1,8 @@
 ## Powering the Optimo
 
-
+There are two E-stops
+- E-stop for the robot
+- E-stop for the 
 
 ### Send Commands to Arduino
 
@@ -9,13 +11,8 @@ Note: Don't ever change the firmware of Arduino
 The Arduino inside the control box allows the Roboligent SDK to power the robot on.
 Every time the Optimo computer is restarted, we have to send commands to Arduino over serial. On Arduino IDE, send `<r,s,0>` then `<r,s,1>` over the serial.
 
+
 `usb/ACM1` - Arduino
-
-
-error while shared
-sudo ldconfig /opt/
-
-
 
 ## Communication
 
@@ -31,5 +28,8 @@ master 1 is EtherCAT 2 on PC.
 
 ## Calibration
 `usb/ACM0` - CAN transceiver
+
+
+## How to luanch
 
 Call Roboligent
