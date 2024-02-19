@@ -18,10 +18,10 @@ sudo ldconfig /opt/
 
 
 ## Communication
-`ethercat0` to see ethercat status
 
-Ether 1 is master0 on PC
+### EtherCAT 1 is master0 on PC
 master 1 is EtherCAT 2 on PC
+`ethercat0` to see EtherCAT status
 
 ## Calibration
 `usb/ACM0` - CAN transceiver
