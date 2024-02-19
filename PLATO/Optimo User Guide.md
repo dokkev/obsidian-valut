@@ -1,10 +1,10 @@
 ## Powering the Optimo
 
-There are two E-stops
+There are two E-stops for Optimo
 - E-stop for the robot
 - E-stop for the Power supply attached to the control box
 
-Deactive the E-stop
+D
 
 ## Powering off the Optimo
 
@@ -37,7 +37,6 @@ master 1 is EtherCAT 2 on PC.
 
 ## Calibration
 `usb/ACM0` - CAN transceiver
-
 
 ## How to luanch
 
