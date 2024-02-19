@@ -8,7 +8,9 @@ Deactive the E-stop
 
 ## Powering off the Optimo
 
-Activate the Robot
+Activate the Robot E-stop
+Turn off the computer
+Turn off the Power E-stop
 
 
 
