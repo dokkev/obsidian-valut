@@ -17,12 +17,13 @@ sudo ldconfig /opt/
 
 
 
-ACM1 - Arduino
-ACM0 - CAN transceiver
-`ethercat0` to see ether cat status
-
 ## Communication
-`ethercat0` to see ether cat status
+`ethercat0` to see ethercat status
+
+Ether 1 is master0 on PC
+master 1 is EtherCAT 2 on PC
+
 ## Calibration
+`usb/ACM0` - CAN transceiver
 
 Call Roboligent
