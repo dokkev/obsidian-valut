@@ -8,7 +8,7 @@ Deactive the E-stop
 
 ## Powering off the Optimo
 
-Activate the E-
+Activate the Robot
 
 
 
