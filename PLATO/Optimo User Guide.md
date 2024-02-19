@@ -1,1 +1,3 @@
-Don't ever de
+Don't ever change the firmware of Arduino
+
+Open Arduino IDE wi
