@@ -4,7 +4,7 @@ There are two E-stops for Optimo
 - E-stop for the robot
 - E-stop for the Power supply attached to the control box
 
-D
+1. Deactivate the Power supply E-stop, then the power supply will start running.
 
 ## Powering off the Optimo
 
