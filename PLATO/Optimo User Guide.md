@@ -20,6 +20,8 @@ There are two E-stops for Optimo (TODO: add photos)
 The Arduino inside the control box allows the Roboligent SDK to power the robot on.
 Every time the Optimo computer is restarted, we have to send commands to Arduino over serial. On Arduino IDE, send `<r,s,0>` then `<r,s,1>` over the serial.
 
+`/dev/usb/ACM1` - Arduino
+
 ### Build and Run
 The default directory for Roboligent SDK is `optimo_controller`
 1. `cd ~/CODE/linkdyn_sdk/optimo_controller`
@@ -29,7 +31,7 @@ The default directory for Roboligent SDK is `optimo_controller`
 	> `-r`: run
 
 3. On GUI, click `start hardware`. This will take about a minute.
-4. Once the hardware starts running. Click `en`
+4. Once the hardware starts running. Click `enable`. This will release the mechanical brakes on joints.
 
 
 
