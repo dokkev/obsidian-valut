@@ -1,3 +1,8 @@
 Don't ever change the firmware of Arduino
 
-Open Arduino IDE wi
+
+Every we restart the Optimo computer
+Open Arduino IDE with Serial with 
+`<r,s,0>` then `<r,s,1>`
+
+ACM
