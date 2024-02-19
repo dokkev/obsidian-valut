@@ -1,6 +1,6 @@
-## Powering the Optimo
+## Powering the Optimo and PC
 
-There are two E-stops for Optimo (TODO: add pho)
+There are two E-stops for Optimo (TODO: add photos)
 - E-stop for the robot
 - E-stop for the Power supply attached to the control box
 
@@ -10,9 +10,9 @@ There are two E-stops for Optimo (TODO: add pho)
 
 ## Powering off the Optimo
 
-Activate the Robot E-stop
-Turn off the computer
-Turn off the Power E-stop
+1. Activate the Robot E-stop
+2. Turn off the computer. 
+3. Activate the Power E-stop. Make sure to do this aft
 
 
 ### Send Commands to Arduino
