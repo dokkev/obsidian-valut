@@ -1,4 +1,4 @@
-TODO:
+TODO: add plato guideline as well
 ## Powering the Optimo and PC
 
 There are two E-stops for Optimo (TODO: add photos)
@@ -18,9 +18,10 @@ There are two E-stops for Optimo (TODO: add photos)
 ## Launching Optimo
 
 ### Send Commands to Arduino
-
 The Arduino inside the control box allows the Roboligent SDK to power the robot on.
 Every time the Optimo computer is restarted, we have to send commands to Arduino over serial. On Arduino IDE, send `<r,s,0>` then `<r,s,1>` over the serial.
+
+
 
 
 `usb/ACM1` - Arduino
