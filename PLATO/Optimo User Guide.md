@@ -1,12 +1,11 @@
 ## Powering the Optimo
 Arduino inside the control box allows the Roboligent SDK to power the robot on.
-Every time the Optimo computer is restarted, we have to send commands to Arduino over serial.
+Every time the OptimArduino inside the control box allows the Roboligent SDK to power the robot on.
+Every time the Optimo computer is restarted, we have to send commands to Arduino over serial.o computer is restarted, we have to send commands to Arduino over serial.
 
 ### Send Commands to Arduino
 
 On Arduino IDE,  send `<r,s,0>` then `<r,s,1>` over the serial.
-
-
 
 
 error while shared
