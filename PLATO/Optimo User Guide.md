@@ -13,8 +13,6 @@ Turn off the computer
 Turn off the Power E-stop
 
 
-
-
 ### Send Commands to Arduino
 
 Note: Don't ever change the firmware of Arduino
