@@ -1,3 +1,4 @@
+TODO:
 ## Powering the Optimo and PC
 
 There are two E-stops for Optimo (TODO: add photos)
@@ -12,12 +13,11 @@ There are two E-stops for Optimo (TODO: add photos)
 
 1. Activate the Robot E-stop
 2. Turn off the computer. 
-3. Activate the Power E-stop. Make sure to do this aft
+3. Activate the Power E-stop. Make sure to do this after the computer is completely off
 
+## Launching Optimo
 
 ### Send Commands to Arduino
-
-Note: Don't ever change the firmware of Arduino
 
 The Arduino inside the control box allows the Roboligent SDK to power the robot on.
 Every time the Optimo computer is restarted, we have to send commands to Arduino over serial. On Arduino IDE, send `<r,s,0>` then `<r,s,1>` over the serial.
