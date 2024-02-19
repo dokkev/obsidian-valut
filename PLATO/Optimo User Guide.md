@@ -2,7 +2,7 @@
 
 
 error while shared
-sudo ldconfig /opt
+sudo ldconfig /opt/
 
 Don't ever change the firmware of Arduino
 
