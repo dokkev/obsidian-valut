@@ -1,4 +1,7 @@
 ## Powering the Optimo
+Arduino inside the control box allows the Roboligent SDK to power the robot on.
+Every time the Optimo computer is restarted, 
+
 
 
 error while shared
