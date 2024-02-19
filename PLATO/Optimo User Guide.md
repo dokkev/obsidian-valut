@@ -33,28 +33,26 @@ The default directory for Roboligent SDK is `optimo_controller`
 3. On GUI, click `start hardware`. This will take about a minute.
 4. Once the hardware starts running. Click `enable`. This will release the mechanical brakes on joints.
 
-## Examples
+## Optimo Examples
 There are other ways to launch the robot with ROS 2 features. Refer to:
 https://roboligent.bitbucket.io/examples/index.html
 
 
-
-`usb/ACM1` - Arduino
-
 ## Communication
 
 ### EtherCAT
-
 Run `ethercat0 master` to see EtherCAT status
 
-EtherCAT 1 is master0 on PC.
-master 1 is EtherCAT 2 on PC.
+Optimo computer has two Ethernet ports
+`EtherCAT1` is `master0` on PC.
+master1 is EtherCAT2 on PC.
 `ethercat0` to see EtherCAT status
 
 ### CAN
+`usb/ACM0` - CAN transceiver
 
 ## Calibration
-`usb/ACM0` - CAN transceiver
+
 
 ## How to luanch
 
