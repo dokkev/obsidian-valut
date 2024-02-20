@@ -11,5 +11,6 @@ RL algorithms don't know the reward function. The environment provides reward fu
  - Easy to implement but brittle against situations not observed in expert demonstration
 ### DAgger
 - Address distributional mismatch by simply asking the expert for more demonstration
-- Better approximate e
+- Better approximate expert policy
+- Re-train policy at every step
 
