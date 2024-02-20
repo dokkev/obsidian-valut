@@ -44,5 +44,13 @@ reward - query -env - reward
 
 why?
 scaling works well in LLM
-massive 
+massive data
+tokens 
+
+why not robotics?
+sturcture in lang  well tuned in transformer
+not same match for robotics
+traj differnt from language
+
+
 
