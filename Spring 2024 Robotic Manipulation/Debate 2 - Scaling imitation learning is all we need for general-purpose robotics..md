@@ -17,12 +17,14 @@ The first reason is
 
 
 ## Terminology
-### Control-theoretical guarantees 
+#### Control-theoretical guarantees 
 assurances provided within the framework of control theory, which ensure that a control system behaves as expected under certain conditions.
-1. **Stability**
-2. **Convergence**
-3. **Robustness**
-4. **Optimality**
-5. **Safety**: Safety 
-6. **Reachability and Controllability**: 
+- Stability
+1. Convergence
+2. Robustness
+3. Optimality
+4. Safety
+5. Reachability and Controllability
 
+### generative adversarial learning framework
+- 
