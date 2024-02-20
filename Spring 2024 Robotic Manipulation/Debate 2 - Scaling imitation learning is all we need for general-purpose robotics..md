@@ -1,13 +1,13 @@
 
 When we talk about general-purpose robots. It usually requires three features:
-First one is generalization,  the second one is adaptability, and the third one is safety. I argue that solely scaling imitation learning does not guarantee the robot policy is able to generalize task and adapt to dynamic environment safely.
+First one is generalization,  and the third one is safety. I argue that solely scaling imitation learning does not guarantee the robot policy is able to generalize task and adapt to dynamic environment safely.
 
 The first reason is generalization is 
 
 The second reason is adaptability requires a high quality set of demonstration for training
 - Teleoperation of the real robot is one of the methods to obtain data from demonstration.
 - But most available teleoperation devices lack of kinesthetic feedback while force and torque are significant information in contact-rich manipulation task.
-- Recent robot data collection hardware such as mobile aloha and Universal Manipulation Interface from Stanford showed impressive results of policy learning with simple teleop interfaces, their examples were limited manipulating light and small objects
+- Recent robot data collection hardware such as mobile aloha and Universal Manipulation Interface from Stanford showed impressive results of policy learning with simple teleop interfaces, their examples were limited to manipulating light and small objects. 
 - Scaling imitation learning for better adaptability against perturbation makes the training very expensive because it requires good kinesthetic perception and actuation on both robot and teleoperation devices. 
 - And that becomes a limiting factor for scaling imitaiton learning for general purpose robotics. 
 
@@ -17,10 +17,6 @@ Lastly, the third reason is  safety
 - There have been many attempts at generalization method 
 - such as Inverse RL, Meta Learning, Multi-Task Learning, Transfer Learning, Multi-Task RL, Lifelong Learning, and continual learning. 
 - However, those approaches have no emphasis on control-theoretical guarantees such as stability and boundedess which are critical to safety
-
-
-- Dilemma of transferability
-	- Kinesthetic teaching enables proprioceptive perception from the expert's demonstration, but the effectiveness of this method is limited to the physical capabilities of the robot in terms of force, torque, and tactile sensing. 
 
 
 ## Terminology
