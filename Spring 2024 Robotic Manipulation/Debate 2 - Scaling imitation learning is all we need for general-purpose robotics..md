@@ -6,8 +6,13 @@ The first reason is
 
 - Standard teleoperation devices lack of tactile and proprioceptive sensing modalities. 
 
-There have been many attempts at generalization method such as Inverse RL, Meta Learning, Multi-Task Learning, Transfer Learning, Multi-Task RL, Lifelong Learning, and continual learning. However, those approaches
+There have been many attempts at generalization method such as Inverse RL, Meta Learning, Multi-Task Learning, Transfer Learning, Multi-Task RL, Lifelong Learning, and continual learning. However, those approaches have no emphasis on control-theoretical guarantees 
 
 
 - Dilemma of transferability
 	- Kinesthetic teaching enables proprioceptive perception from the expert's demonstration, but the effectiveness of this method is limited to the physical capabilities of the robot in terms of force, torque, and tactile sensing. 
+
+
+## Terminology
+### Control-theoretical guarantees 
+
