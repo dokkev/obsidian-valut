@@ -12,5 +12,5 @@ RL algorithms don't know the reward function. The environment provides reward fu
 ### DAgger
 - Address distributional mismatch by simply asking the expert for more demonstration
 - Better approximate expert policy
-- Re-train policy at every step
+- Re-train policy at every step (Practically impossible)
 
