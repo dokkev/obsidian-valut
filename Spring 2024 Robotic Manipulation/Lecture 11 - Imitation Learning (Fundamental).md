@@ -3,3 +3,5 @@ RL algorithms don't know the reward function. The environment provides reward fu
 
 
 ### Imitation Learning
+- Transition model : p(x_t | x_t-1, u_t-1)
+- demonstration, z = {(x0,u0),}
