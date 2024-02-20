@@ -1,7 +1,7 @@
 CS237B Lecture 12: Imitation Learning
 
 ## Problem Definition
-Reinforcement Learning suffer from setting appropriate reward function and getting potentially sparse reward. This results in the learning process expensive in amount of data n and time needed while exploring with sub-optimal policy. The 
+While it assumes that the reward function is known in robot learning, Reinforcement Learning suffer from setting appropriate reward function and getting potentially sparse reward. This results in the learning process expensive in amount of data n and time needed while exploring with sub-optimal policy.
 
 ## Summary of the methodology presented: algorithm, input-output
 
