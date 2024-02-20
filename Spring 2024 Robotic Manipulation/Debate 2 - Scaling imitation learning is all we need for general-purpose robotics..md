@@ -6,7 +6,7 @@ The first reason is
 
 - Standard teleoperation devices lack of tactile and proprioceptive sensing modalities. 
 
-There have been many attempts
+There have been many attempts at generalization 
 
 
 - Dilemma of transferability
