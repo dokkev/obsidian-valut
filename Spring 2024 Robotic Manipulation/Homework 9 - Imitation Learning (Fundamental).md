@@ -10,4 +10,4 @@ The author introduces two classical imitation learning, which are behavior cloni
 Imitation learning is useful where defining reward function is challenging or when an expert can demonstrate the problem-solving. It solves complex decision-making process such as robotic manipulation task requires several sub-tasks and requirement for extensive exploration during training robot learning policies.
 ## Assumptions and limitations
 
-Imitation learning works under the assumption that the expert can cover the state space sufficiently
+Imitation learning works under the assumption that the expert can cover the state space and provide sufficient data to the robot through the demonstration. Especially 
