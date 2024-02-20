@@ -8,4 +8,4 @@ The first reason is
 
 
 - Dilemma of transferability
-	- Kinesthetic teaching enables proprioceptive perception from the expert's demonstration, but the effectiveness of this method is limited to the physical capabilities of robot in terms of force, torque ,a 
+	- Kinesthetic teaching enables proprioceptive perception from the expert's demonstration, but the effectiveness of this method is limited to the physical capabilities of the robot in terms of force, torque, and tactile sensing. 
