@@ -7,7 +7,7 @@ While it assumes that the reward function is known in robot learning, Reinforcem
 The author introduces two classical imitation learning, which are behavior cloning (BC) and DAgger, and he shows approaches for learning the reward function referred as Inverse Reinforcement Learning (IRL).  BC takes an expert's demonstration as input and outputs a policy which replicates the demonstration. DAgger expands from BC and aims to improve the policy by incorporating feedback from the expert. Finally, IRL aims to find the reward function from the demonstration.
 
 ## Applicability / Problems solved
-Imitation learning is useful where defining reward function is challenging or when an expert can demonstrate the problem-solving. It solves complex decision-making process such as robotic manipulation  
+Imitation learning is useful where defining reward function is challenging or when an expert can demonstrate the problem-solving. It solves complex decision-making process such as robotic manipulation task requires several sub-tasks. 
 
 ## Assumptions and limitations
 
