@@ -8,4 +8,4 @@ The first reason is
 
 
 - Dilemma of transferability
-	- Kinesthetic teaching enables proprioceptive perception
+	- Kinesthetic teaching enables proprioceptive perception from the expert's demonstration, but the effective ness
