@@ -8,4 +8,4 @@ RL algorithms don't know the reward function. The environment provides reward fu
 
 ### Behavior cloning
  - minimize different between robot actions and expert demonstration
- - Easy to im
+ - Easy to implement but brittle against situations not observed in expert demonstation
