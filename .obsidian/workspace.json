@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "258e1b84b89c7dc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PLATO/Optimo User Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PLATO/Optimo User Guide.md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PLATO/Optimo User Guide.md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PLATO/Optimo User Guide.md"
+                "file": "Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md"
               }
             }
           }
@@ -183,13 +171,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "258e1b84b89c7dc5",
+  "active": "bd4feba4abff44d6",
   "lastOpenFiles": [
+    "PLATO/Optimo User Guide.md",
     "Spring 2024 Robotic Manipulation/Homework 9 - Imitation Learning (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Debate 2 - Scaling imitation learning is all we need for general-purpose robotics..md",
     "Spring 2024 Robotic Manipulation/Debate 1 -  Reward is not the most important in RL.md",
     "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
-    "PLATO/Optimo User Guide.md",
     "Spring 2024 Robotic Manipulation/Lecture 10 - TAMP (Learning).md",
     "Spring 2024 Robotic Manipulation/Lecture 1.md",
     "Spring 2024 Robotic Manipulation/Lecture 2.md",
