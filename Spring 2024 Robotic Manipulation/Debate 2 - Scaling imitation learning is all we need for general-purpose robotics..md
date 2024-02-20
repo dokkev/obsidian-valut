@@ -1,12 +1,12 @@
 
 When we talk about general-purpose robots. It usually requires three features:
-First one is generalization,  the second one is adaptability, and the thrid one is safety. I argue that solely scaling imitation learning does not guarantee the robot policy is able to generalize task and adapt to dynamic environment safely.
+First one is generalization,  the second one is adaptability, and the third one is safety. I argue that solely scaling imitation learning does not guarantee the robot policy is able to generalize task and adapt to dynamic environment safely.
 
 The first reason is generalization is 
 
 The second reason is adaptability requires a high quality set of demonstration for training
 - Teleoperation of the real robot is one of the methods to obtain data from demonstration. For imitation learning
-- But most available teleoperation devices lack of kinesthetic or tactile feedback while force
+- But most available teleoperation devices lack of kinesthetic feedback while force and torque are significant information in contact-rich manipulation task.
 
 
 Lastly, the third reason is  safety
