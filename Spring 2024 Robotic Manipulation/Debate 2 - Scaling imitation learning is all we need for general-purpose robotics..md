@@ -1,6 +1,6 @@
 
-When we talk about general-purpose robots. It usually requires three features:
-First one is generalization,  and the third one is safety. I argue that solely scaling imitation learning does not guarantee the robot policy is able to generalize task and adapt to dynamic environment safely.
+When we talk about general-purpose robots. It usually requires two features:
+one is generalization and the other one is safety. I argue that solely scaling imitation learning does not guarantee the robot policy is able to generalize task and adapt to dynamic environment safely.
 
 The first reason is generalization is 
 
@@ -12,7 +12,7 @@ The second reason is adaptability requires a high quality set of demonstration f
 - And that becomes a limiting factor for scaling imitaiton learning for general purpose robotics. 
 
 
-Lastly, the third reason is  safety
+Lastly, the second reason is  safety
 - Task generalization is a big challenge in robotic manipulation, and
 - There have been many attempts at generalization method 
 - such as Inverse RL, Meta Learning, Multi-Task Learning, Transfer Learning, Multi-Task RL, Lifelong Learning, and continual learning. 
