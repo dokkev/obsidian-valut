@@ -7,13 +7,13 @@ The first reason is generalization is
 The second reason is adaptability requires a high quality set of demonstration for training
 - Teleoperation of the real robot is one of the most effective methods to obtain data from demonstration.
 - But most available teleoperation devices lack of kinesthetic feedback while force and torque are significant information in contact-rich manipulation task.
-- Recent robot data collection hardware such as mobile ALOHA and Universal Manipulation Interface from Stanford showed impressive results of policy learning platoform with simple teleop interfaces, their examples were limited to manipulating light and small objects. 
+- Recent robot data collection hardware such as mobile ALOHA and Universal Manipulation Interface from Stanford showed impressive results of policy learning platform with simple teleop interfaces, their examples were limited to manipulating light and small objects. 
 - Scaling imitation learning for better adaptability against perturbation makes the training very expensive because it requires good kinesthetic perception and actuation on both robot and teleoperation devices. 
-- And that becomes a limiting factor for scaling imitaiton learning for general purpose robotics. 
+- And that becomes a limiting factor for scaling imitation learning for general purpose robotics. 
 
 
 Lastly, the second reason is  safety
-- Task generalization is a big challenge in robotic manipulation, and
+- task generalization is a big challenge in robotic manipulation, and
 - There have been many attempts at generalization method 
 - such as Inverse RL, Meta Learning, Multi-Task Learning, Transfer Learning, Multi-Task RL, Lifelong Learning, and continual learning. 
 - However, those approaches have no emphasis on control-theoretical guarantees such as stability and boundedess which are critical to safety
