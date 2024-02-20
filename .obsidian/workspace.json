@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 8 - TAMP (Learning).md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 9 - Imitation Learning (Fundamental).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 8 - TAMP (Learning).md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 9 - Imitation Learning (Fundamental).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 8 - TAMP (Learning).md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 9 - Imitation Learning (Fundamental).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 8 - TAMP (Learning).md"
+                "file": "Spring 2024 Robotic Manipulation/Homework 9 - Imitation Learning (Fundamental).md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "bd4feba4abff44d6",
   "lastOpenFiles": [
+    "Spring 2024 Robotic Manipulation/Homework 8 - TAMP (Learning).md",
     "Spring 2024 Robotic Manipulation/Lecture 10 - TAMP (Learning).md",
     "Spring 2024 Robotic Manipulation/Homework 9 - Imitation Learning (Fundamental).md",
     "PLATO/Optimo User Guide.md",
@@ -156,7 +157,6 @@
     "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
     "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
     "Spring 2024 Robotic Manipulation/Homework 5 - Motion Planning (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Homework 8 - TAMP (Learning).md",
     "Spring 2024 Robotic Manipulation/Homework 2.md",
     "Spring 2024 Robotic Manipulation/Lecture 9  - TAMP (Fundamental).md",
     "NVIDIA Isaac Sim/Installation & Install Error Debugging.md",
