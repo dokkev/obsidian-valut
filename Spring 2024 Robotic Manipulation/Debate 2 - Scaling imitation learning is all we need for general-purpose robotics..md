@@ -8,4 +8,4 @@ The first reason is
 
 
 - Dilemma of transferability
-	- Kinestheic teaching enables 
+	- Kinesthetic teaching enables proprioceptive perception
