@@ -6,7 +6,7 @@ The first reason is
 
 - Standard teleoperation devices lack of tactile and proprioceptive sensing modalities. 
 
-There have been many attempts at generalization method such as Inverse RL, Meta Learning, Multi-Task Learning, Transfer Learning, Multi-Task RL, Lifelong Learning, and continual learning. However, those approaches have no emphasis on control-theoretical guarantees 
+There have been many attempts at generalization method such as Inverse RL, Meta Learning, Multi-Task Learning, Transfer Learning, Multi-Task RL, Lifelong Learning, and continual learning. However, those approaches have no emphasis on control-theoretical guarantees such as 
 
 
 - Dilemma of transferability
@@ -15,4 +15,11 @@ There have been many attempts at generalization method such as Inverse RL, Meta 
 
 ## Terminology
 ### Control-theoretical guarantees 
+assurances provided within the framework of control theory, which ensure that a control system behaves as expected under certain conditions.
+1. **Stability**: 
+2. **Convergence**: 
+3. **Robustness**:nificant degradation in performance.
+4. **Optimality**:
+5. **Safety**: Safety 
+6. **Reachability and Controllability**: 
 
