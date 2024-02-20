@@ -55,6 +55,6 @@ not enough data not engouth model
 RM3 papaer took transformer for robotics using vid
 imitation learning - 
 gnerealize high level-  vision and language
-lowe level - 
+lowe level - robustnss fine turn
 
 
