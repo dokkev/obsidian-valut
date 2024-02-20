@@ -7,7 +7,7 @@ The first reason is generalization is
 The second reason is adaptability requires a high quality set of demonstration for training
 - Teleoperation of the real robot is one of the methods to obtain data from demonstration.
 - But most available teleoperation devices lack of kinesthetic feedback while force and torque are significant information in contact-rich manipulation task.
-- One of the recent imitation research
+- Recent robot data collection hardware such as mobile aloha 
 - Scaling imitation learning for better adaptability against perturbation makes the training very expensive because it requires good kinesthetic perception and actuation on both robot and teleoperation devices. 
 - And that becomes a limiting factor for scaling imitaiton learning for general purpose robotics. 
 
