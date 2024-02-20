@@ -4,7 +4,7 @@ CS237B Lecture 12: Imitation Learning
 While it assumes that the reward function is known in robot learning, Reinforcement Learning suffer from setting appropriate reward function and getting potentially sparse reward. This results in the learning process expensive in amount of data n and time needed while exploring with sub-optimal policy.
 
 ## Summary of the methodology presented: algorithm, input-output
-The author introduces behavior cloning, DAInverse Reinforcement Learning, 
+The author introduces behavior cloning and DAgger as imitation learning, and Inverse Reinforcement Learning, 
 
 ## Applicability / Problems solved
 
