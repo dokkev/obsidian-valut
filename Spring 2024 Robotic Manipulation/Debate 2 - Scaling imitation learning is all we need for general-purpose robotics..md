@@ -5,8 +5,8 @@ First one is generalization,  the second one is adaptability, and the thrid one 
 The first reason is generalization is 
 
 The second reason is adaptability requires a high quality set of demonstration for training
-- Teleoperation of the real robot is one of the methods to obtain data from demonstration
-- 
+- Teleoperation of the real robot is one of the methods to obtain data from demonstration. For imitation learning
+- But most available 
 
 
 Lastly, the third reason is  safety
