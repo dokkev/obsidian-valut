@@ -7,4 +7,5 @@ The first reason is
 - Standard teleoperation devices lack of tactile and proprioceptive sensing modalities. 
 
 
-- Di
+- Dilemma of transferability
+	- Kinestheic teaching enables 
