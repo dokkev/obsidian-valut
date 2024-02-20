@@ -15,5 +15,7 @@ RL algorithms don't know the reward function. The environment provides reward fu
 - Re-train policy at every step (Practically impossible in real robot)
 - Intervention (Observation from human)
 
-###
+### Inverse Reinforcement Learning
+- Learn the expert's reward function
+- Assume a parameterization of the reward function
 
