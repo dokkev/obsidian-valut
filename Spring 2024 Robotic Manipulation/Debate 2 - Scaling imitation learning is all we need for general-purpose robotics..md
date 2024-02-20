@@ -4,6 +4,8 @@ First one is generalization,  the second one is adaptability, and the thrid one 
 
 The first reason is generalization is 
 
+The second reason is adaptability requries 
+
 
 Lastly, the third reason is  safety
 - Task generalization is a big challenge in robotic manipulation, and
