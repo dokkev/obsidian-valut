@@ -29,3 +29,4 @@ assurances provided within the framework of control theory, which ensure that a 
 ### Generative adversarial (에드벌세뤼얼) learning framework
 - randomly explores for corrections that bring the policy close to the demonstrated distribution.
 - require either constant human effort or lots of data and computation and hold no control-theoretic guarantees on the learned policy
+- trade-off is the training process involves frequent interaction with the environment and could be more fragile and not stable for saddle point problem
