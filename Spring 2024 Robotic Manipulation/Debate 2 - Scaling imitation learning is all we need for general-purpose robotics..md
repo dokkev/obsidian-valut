@@ -1,2 +1,2 @@
 
-- Standard teleoperation devices lack of tactile and prorioceptive sensing modalities. 
+- Standard teleoperation devices lack of tactile and proprioceptive sensing modalities. 
