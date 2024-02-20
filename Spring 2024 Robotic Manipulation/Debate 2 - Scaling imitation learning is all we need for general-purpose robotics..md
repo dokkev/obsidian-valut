@@ -5,3 +5,6 @@ First one is generalization and the second one is adaptability. I argue that sol
 The first reason is 
 
 - Standard teleoperation devices lack of tactile and proprioceptive sensing modalities. 
+
+
+- Di
