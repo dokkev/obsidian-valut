@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PLATO/Optimo User Guide.md",
+                "file": "Spring 2024 Robotic Manipulation/Debate 1 -  Reward is not the most important in RL.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PLATO/Optimo User Guide.md",
+                "file": "Spring 2024 Robotic Manipulation/Debate 1 -  Reward is not the most important in RL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PLATO/Optimo User Guide.md",
+                "file": "Spring 2024 Robotic Manipulation/Debate 1 -  Reward is not the most important in RL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PLATO/Optimo User Guide.md"
+                "file": "Spring 2024 Robotic Manipulation/Debate 1 -  Reward is not the most important in RL.md"
               }
             }
           }
@@ -185,10 +185,10 @@
   },
   "active": "258e1b84b89c7dc5",
   "lastOpenFiles": [
-    "Spring 2024 Robotic Manipulation/Homework 9 - Imitation Learning (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Debate 2 - Scaling imitation learning is all we need for general-purpose robotics..md",
-    "Spring 2024 Robotic Manipulation/Homework 7 - TAMP (Fundamental).md",
     "PLATO/Optimo User Guide.md",
+    "Spring 2024 Robotic Manipulation/Homework 9 - Imitation Learning (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Homework 7 - TAMP (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Lecture 10 - TAMP (Learning).md",
     "Spring 2024 Robotic Manipulation/Lecture 1.md",
     "Spring 2024 Robotic Manipulation/Lecture 2.md",
@@ -206,7 +206,7 @@
     "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
     "Spring 2024 Robotic Manipulation/Lecture 5 - Control (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Homework 5 - Motion Planning (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Debate1 -  Reward is not the most important in RL.md",
+    "Spring 2024 Robotic Manipulation/Debate 1 -  Reward is not the most important in RL.md",
     "Concepts & Knowledge/img_source/Dynamic System-based LfD.md",
     "Spring 2024 Robotic Manipulation/Homework - Variable Impedance Control in End-Effector Space- An Action Space for Reinforcement Learning in Contact-Rich Tasks.md",
     "Spring 2024 Robotic Manipulation/Lecture 4 - Grasping (Learning).md",
