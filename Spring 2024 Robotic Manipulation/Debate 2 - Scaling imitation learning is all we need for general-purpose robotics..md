@@ -6,9 +6,10 @@ The first reason is
 
 - Standard teleoperation devices lack of tactile and proprioceptive sensing modalities. 
 
+- Task generalization is a big challenge in robotic manipulation, and
 - There have been many attempts at generalization method 
 - such as Inverse RL, Meta Learning, Multi-Task Learning, Transfer Learning, Multi-Task RL, Lifelong Learning, and continual learning. 
-- However, those approaches have no emphasis on control-theoretical guarantees such as stability and boundedess which are critical to safey
+- However, those approaches have no emphasis on control-theoretical guarantees such as stability and boundedess which are critical to safety
 
 
 - Dilemma of transferability
