@@ -18,4 +18,5 @@ RL algorithms don't know the reward function. The environment provides reward fu
 ### Inverse Reinforcement Learning
 - Learn the expert's reward function
 - Assume a parameterization of the reward function
+- 
 
