@@ -26,6 +26,6 @@ assurances provided within the framework of control theory, which ensure that a 
 - Boundedness
 -  Reachability and Controllability
 
-### Generative adversarial learning framework
+### Generative adversarial (에드벌세뤼얼) learning framework
 - randomly explores for corrections that bring the policy close to the demonstrated distribution.
 - require either constant human effort or lots of data and computation and hold no control-theoretic guarantees on the learned policy
