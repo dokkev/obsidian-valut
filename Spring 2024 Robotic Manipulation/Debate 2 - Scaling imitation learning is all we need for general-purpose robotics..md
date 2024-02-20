@@ -16,6 +16,7 @@ Lastly, the second reason is  safety
 - task generalization is a big challenge in robotic manipulation, and
 - There have been many attempts at generalization method 
 - such as Inverse RL, Meta Learning, Multi-Task Learning, Transfer Learning, Multi-Task RL, Lifelong Learning, and continual learning. 
+- Research from UPenn
 - However, those approaches have no emphasis on control-theoretical guarantees such as stability and boundedess which are critical to safety
 
 
