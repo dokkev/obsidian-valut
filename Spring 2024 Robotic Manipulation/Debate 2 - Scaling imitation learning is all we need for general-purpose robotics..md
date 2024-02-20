@@ -4,7 +4,8 @@ First one is generalization,  the second one is adaptability, and the thrid one 
 
 The first reason is generalization is 
 
-The second reason is adaptability requries 
+The second reason is adaptability requires a high quality set of demonstration for training
+- This is expensive to obtain and limited
 
 
 Lastly, the third reason is  safety
