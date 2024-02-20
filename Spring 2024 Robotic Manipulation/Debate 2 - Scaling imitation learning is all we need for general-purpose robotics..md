@@ -20,11 +20,12 @@ The first reason is
 #### Control-theoretical guarantees 
 assurances provided within the framework of control theory, which ensure that a control system behaves as expected under certain conditions.
 - Stability
-1. Convergence
-2. Robustness
-3. Optimality
-4. Safety
-5. Reachability and Controllability
+- Convergence
+- Robustness
+- Optimality
+- Boundedness
+-  Reachability and Controllability
 
 ### generative adversarial learning framework
+- randomly explores for corrections that bring the policy close to the demonstrated distribution.
 - 
