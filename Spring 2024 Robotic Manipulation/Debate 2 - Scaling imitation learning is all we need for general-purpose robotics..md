@@ -11,7 +11,7 @@ The first reason is adaptability requires a high quality set of demonstration fo
 - And that becomes a limiting factor for scaling imitation learning for general purpose robotics. 
 
 
-Lastly, the second reason is  safety
+Lastly, the second reason is  lack of safety measure on
 - task generalization is a big challenge in robotic manipulation, and
 - There have been many attempts at generalization method 
 - such as Inverse RL, Meta Learning, Multi-Task Learning, Transfer Learning, Multi-Task RL, Lifelong Learning, and continual learning. 
