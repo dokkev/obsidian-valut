@@ -1,4 +1,4 @@
 - main challenge compounding error in imitation learning
 - the non-stationary nature of human demonstration
 - Developing action chunking with ACT algorithm to mitigate Compouding errors
-- Using CVAE to learn from noisy, stoschastic
+- Using CVAE to learn from noisy, stochastic
