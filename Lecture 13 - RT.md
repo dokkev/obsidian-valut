@@ -1,2 +1,3 @@
 - Collecting task-specific data are narrowed
-- 
+- Transformers map input sequence to an output sequence
+- Combinations of self-attension lwater snad fully-connected neural networ
