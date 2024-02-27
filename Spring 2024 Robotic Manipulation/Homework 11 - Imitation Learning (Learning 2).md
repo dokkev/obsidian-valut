@@ -6,6 +6,6 @@ The author addresses challenges in collecting real-world data, which is signific
 ## What is the clever idea of this paper?
 This method is open-ended, task-agnostic training combined with high-capacity. This approach allows the model to absorb a wide range of data, enabling it to generalize across different tasks, environments, and objects without the need for large, task-specific datasets.
 ## How the idea is implemented
-RT-1;s encodes high-dimensional inputs and outputs into compact token representations which are sufficient for the robot to run real-time on its controller. The model is trained on a large-scale dataset collected from real robots performing a variety of tasks/
+RT-1 encodes high-dimensional inputs and outputs into compact token representations which are sufficient for the robot to run real-time on its controller. The model is trained on a large-scale dataset collected from real robots performing a variety of tasks. 
 ##  How is success proved and measured?
-RT-1's capabilities are tested across multiple realistic office kitchen environments, showing its ability to perform over 700 training instructions with a high success rate and to generalize to new tasks, distractors, and backgrounds effectively.
+RT-1 is tested across multiple  kitchen environments. It performs over 700 training instructions with a high success rate and to generalize to new tasks, distractors, and backgrounds effectively.
