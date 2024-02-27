@@ -6,5 +6,5 @@ The author addresses challenges in collecting real-world data, which is signific
 ## What is the clever idea of this paper?
 This method is open-ended, task-agnostic training combined with high-capacity. This approach allows the model to absorb a wide range of data, enabling it to generalize across different tasks, environments, and objects without the need for large, task-specific datasets.
 ## How the idea is implemented
-RT is includes  encoders which read high-dimensional inputs and outputs into compact token representations. This allows for real-time control and inference by making the model efficient enough to run on actual robots. The model is trained on a large-scale dataset collected from real robots performing a variety of tasks, demonstrating the model's ability to learn from diverse data and generalize effectively​​.
+RT encoders high-dimensional inputs and outputs into compact token representations which are sufficient for the robot to run real-time on its controller. The model is trained on a large-scale dataset collected from real robots performing a variety of tasks/
 ##  How is success proved and measured?
