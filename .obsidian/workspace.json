@@ -8,67 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7521fcc3d1d9978f",
+            "id": "73a7a88047c4475b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 11 - Imitation Learning (Fundamental).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "03e75fdedda051a8",
+            "id": "1abbd1ec7901f5fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd4feba4abff44d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "258e1b84b89c7dc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2024 Robotic Manipulation/Debate 2 - Scaling imitation learning is all we need for general-purpose robotics..md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c04365750c187fbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 11 - Imitation Learning (Learning 2).md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 11 - Imitation Learning (Learning 2).md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 11 - Imitation Learning (Learning 2).md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 11 - Imitation Learning (Learning 2).md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -195,24 +159,29 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c04365750c187fbc",
+  "active": "1abbd1ec7901f5fe",
   "lastOpenFiles": [
-    "Spring 2024 Robotic Manipulation/Homework 8 - TAMP (Learning).md",
-    "Spring 2024 Robotic Manipulation/Homework 9 - Imitation Learning (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Lecture 9  - TAMP (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Lecture 10 - TAMP (Learning).md",
     "Spring 2024 Robotic Manipulation/Lecture 11 - Imitation Learning (Fundamental).md",
+    "Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "Spring 2024 Robotic Manipulation/Lecutre 3 - Grasping (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Lecture 9  - TAMP (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Lecture 5 - Control (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Lecture 4 - Grasping (Learning).md",
+    "Spring 2024 Robotic Manipulation/Lecture 3 - Grasping (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Lecture 10 - TAMP (Learning).md",
+    "Spring 2024 Robotic Manipulation/Homework 9 - Imitation Learning (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Homework 8 - TAMP (Learning).md",
+    "Spring 2024 Robotic Manipulation/Homework 7 - TAMP (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Homework 5 - Motion Planning (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
+    "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
     "Spring 2024 Robotic Manipulation/Homework 11 - Imitation Learning (Learning 2).md",
+    "Spring 2024 Robotic Manipulation/Homework - Variable Impedance Control in End-Effector Space- An Action Space for Reinforcement Learning in Contact-Rich Tasks.md",
     "Spring 2024 Robotic Manipulation/Home12 - Imitation Learning (Learning).md",
     "Spring 2024 Robotic Manipulation/Debate 2 - Scaling imitation learning is all we need for general-purpose robotics..md",
     "Spring 2024 Robotic Manipulation/Debate 1 -  Reward is not the most important in RL.md",
-    "PLATO/Optimo User Guide.md",
-    "Spring 2024 Robotic Manipulation/Homework 7 - TAMP (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Lecture 1.md",
-    "Spring 2024 Robotic Manipulation/Lecture 2.md",
-    "PLATO/Account Info.md",
-    "Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Homework 7 - Fundamental.md",
     "Reinforcement Learning/img_source/Pasted image 20240208225239.png",
     "Reinforcement Learning/img_source/Pasted image 20240208225015.png",
     "Reinforcement Learning/img_source/Pasted image 20240208224947.png",
@@ -220,18 +189,13 @@
     "Reinforcement Learning/img_source/Pasted image 20240208222550.png",
     "Reinforcement Learning/img_source/Pasted image 20240208222547.png",
     "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
-    "Spring 2024 Robotic Manipulation/Lecture 5 - Control (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Homework 5 - Motion Planning (Fundamental).md",
-    "Concepts & Knowledge/img_source/Dynamic System-based LfD.md",
-    "Spring 2024 Robotic Manipulation/Homework - Variable Impedance Control in End-Effector Space- An Action Space for Reinforcement Learning in Contact-Rich Tasks.md",
-    "Spring 2024 Robotic Manipulation/Lecture 4 - Grasping (Learning).md",
-    "Spring 2024 Robotic Manipulation/Homework 4 - Linear Control of Manipulators.md",
     "PLATO/PLATO Hand/ROS2 SocketCAN.md",
+    "PLATO/Optimo User Guide.md",
+    "PLATO/Account Info.md",
     "Concepts & Knowledge/img_source/Pasted image 20240128171931.png",
     "Concepts & Knowledge/img_source/Pasted image 20240128171813.png",
+    "Concepts & Knowledge/img_source/Dynamic System-based LfD.md",
     "Concepts & Knowledge/img_source",
-    "Concepts & Knowledge/How to give a Good Talk.md",
-    "Spring 2024 Robotic Manipulation/Lecture 3 - Grasping (Fundamental).md",
     "Spring 2024 Robotic Manipulation",
     "Tedrake Robotic Manipulation",
     "Reinforcement Learning/img_source/Pasted image 20231220175917.png",
