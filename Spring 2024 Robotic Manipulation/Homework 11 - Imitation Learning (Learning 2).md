@@ -8,4 +8,4 @@ This method is open-ended, task-agnostic training combined with high-capacity. T
 ## How the idea is implemented
 RT-1 encodes high-dimensional inputs and outputs into compact token representations which are sufficient for the robot to run real-time on its controller. The model is trained on a large-scale dataset collected from real robots performing a variety of tasks. 
 ##  How is success proved and measured?
-RT-1 is tested across multiple  kitchen environments. It performs over 700 training instructions with a high success rate and to generalize to new tasks, distractors, and backgrounds effectively.
+RT-1 is tested across multiple kitchen environments. It performs over 700 training inconsistent instructions inconsistent with a high success rate and to generalize to new tasks, distractors, and backgrounds effectively.
