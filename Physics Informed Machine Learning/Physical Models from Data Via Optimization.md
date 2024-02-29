@@ -14,6 +14,7 @@
 5. Employ Optimization (What algorithms to train model?)
 
 - Training model means that we use optimization to tweak the parameters of our architecture to turn and learn the parameters of this architecture to minimize the loss function, averaged over our data.
-- In detail, our architecture is some class of functions that you can use to represent the input output relationships you want to model. So there are parameters that you can tune (weights of NN). And we use optimization to turn those parameters of the architecture to minimize the loss function averaged over your training data.
+	- In detail, our architecture is some class of functions that you can use to represent the input output relationships you want to model. So there are parameters that you can tune (weights of NN). And we use optimization to turn those parameters of the architecture to minimize the loss function averaged over your training data.
 
-- Each of these five stages give unique opportun
+- Each of these five stages give unique opportunities for embedding physics into the process, and some cases for discovering physics.
+- 
