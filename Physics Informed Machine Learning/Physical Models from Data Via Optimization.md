@@ -24,5 +24,5 @@
 #### Curate Data
 - If you collect enough data of the natural world, you have to learn physics like F=ma or E=mc^2 eventually.  But this is very expensive. 
 - If you know that your system has some symmetry or invariance which is another form of physics, you can argument the data to have to transform your data to have symmetry and invariance.
-	- 
+	- For example, building a classifier which can tell a Prius from a Ford pickup truck
 
