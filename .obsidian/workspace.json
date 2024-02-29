@@ -37,26 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 11 - Imitation Learning (Learning 2).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5af52285328863d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 12 - RL (Fundamental).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 12 - RL (Fundamental).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 12 - RL (Fundamental).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Spring 2024 Robotic Manipulation/Homework 12 - RL (Fundamental).md"
               }
             }
           }
@@ -183,10 +171,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5444ba93733c14bf",
+  "active": "94bd8e76e83ce515",
   "lastOpenFiles": [
-    "Spring 2024 Robotic Manipulation/Homework 11 - Imitation Learning (Learning 2).md",
     "conflict-files-obsidian-git.md",
+    "Spring 2024 Robotic Manipulation/Homework 12 - RL (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Homework 11 - Imitation Learning (Learning 2).md",
     "Spring 2024 Robotic Manipulation/Homework 9 - Imitation Learning (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Homework 11 -.md",
     "Spring 2024 Robotic Manipulation/Lecture 11 - Imitation Learning (Fundamental).md",
@@ -210,7 +199,6 @@
     "Spring 2024 Robotic Manipulation/Homework 2.md",
     "Spring 2024 Robotic Manipulation/Lecture 9  - TAMP (Fundamental).md",
     "NVIDIA Isaac Sim/Installation & Install Error Debugging.md",
-    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
     "Reinforcement Learning/img_source/Pasted image 20240208225239.png",
     "Reinforcement Learning/img_source/Pasted image 20240208225015.png",
     "Reinforcement Learning/img_source/Pasted image 20240208224947.png",
