@@ -22,5 +22,5 @@
 #### Decide on Problem
 - If you are modeling a physical problem such as pendulum, you are already embedding physics into ML. (such as trying to learn Lagrangian and Hamiltonian)
 #### Curate Data
-- 
+- If you collect enough data of the natural world, you have to learn physics like F=ma or E=mc^2 eventually.  But
 
