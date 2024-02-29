@@ -20,4 +20,5 @@
 
 
 #### Decide on Problem
+- If you are modeling a physical problem such as pendulum, you are already embeddeding physics into ML
 
