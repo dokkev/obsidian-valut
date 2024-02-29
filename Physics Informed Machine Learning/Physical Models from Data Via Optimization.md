@@ -9,7 +9,7 @@
 
 
 ### Case Study: Pendulum Example
-- Traidition ML would try to use autoencoder to reduce the de
+- Traidition ML would try to use autoencoder to reduce the dimension of the video (Pendulum) into a minimal latent state an
 
 
 
