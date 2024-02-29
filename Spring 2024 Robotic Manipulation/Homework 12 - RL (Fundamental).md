@@ -7,4 +7,4 @@ Challenges in Robotic decision-making address that sequences of decisions must b
 This is applicable to a wide range of decision-making problems under uncertainty, such as frontier exploration. These methods provide a structured way to determine optimal sequences of actions in complex environments where future conditions may be uncertain or only partially known​​.
 
 ## Assumptions and limitations
-
+It assumes the problem can be modeled as a Markov process, where future states depend only on the current state and action, not on the sequence of events that preceded it. They also assume the cost function and state transitions are known. In addition, it sufferes from high d
