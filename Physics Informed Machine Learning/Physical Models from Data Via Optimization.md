@@ -20,5 +20,7 @@
 
 
 #### Decide on Problem
-- If you are modeling a physical problem such as pendulum, you are already embeddeding physics into ML
+- If you are modeling a physical problem such as pendulum, you are already embedding physics into ML. (such as trying to learn Lagrangian and Hamiltonian)
+#### Curate Data
+- 
 
