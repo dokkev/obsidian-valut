@@ -13,4 +13,5 @@
 4. Craft a loss function (What models are good?)
 5. Employ Optimization (What algorithms to train model?)
 
-- Training model means that we use optimization to tweak the aprameters of o
+- Training model means that we use optimization to tweak the parameters of our architecture to turn and learn the parameters of this architecture to minimize the loss function, averaged over our data.
+- In detail our achitecture is som
