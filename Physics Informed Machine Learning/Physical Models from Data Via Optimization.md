@@ -8,7 +8,8 @@
 
 
 
-### Case: Pendulum
+### Case Study: Pendulum Example
+- Traidition ML would try to use autoencoder to reduce the de
 
 
 
