@@ -10,7 +10,8 @@
 
 ### Case Study: Pendulum Example
 - Tradition ML would try to use autoencoder to reduce the dimension of the video (Pendulum) into a minimal latent state and recreate the video with known variables.
-- Physics ML will try to learn the diff-eq for how those coordinates 
+- Physics-informed ML will try to learn the diff-eqn for how those coordinates evolve in time.
+- 
 
 
 
