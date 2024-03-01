@@ -27,3 +27,7 @@
 	- For example, for building a classifier which can tell a Prius from a Ford pickup truck, I will rotate, translate, and scale them because none of that should matter for classifications
 	- Coordinate frames matter a lot. 
 
+#### Design an Architecture
+
+
+
