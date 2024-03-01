@@ -1,0 +1,1 @@
+Operational Space 는 로봇이 실제 악을 수행하는 공간을 의미
