@@ -8,79 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7521fcc3d1d9978f",
+            "id": "da499bec9279ec0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03e75fdedda051a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd4feba4abff44d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "258e1b84b89c7dc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2024 Robotic Manipulation/Debate 2 - Scaling imitation learning is all we need for general-purpose robotics..md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c04365750c187fbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 11 - Imitation Learning (Learning 2).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e29a78fe6c57a0b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts & Knowledge/Operational Space Control.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.5.8"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 212.5
   },
   "right": {
     "id": "c15f7e551bb8ae20",
@@ -146,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts & Knowledge/Operational Space Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts & Knowledge/Operational Space Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Concepts & Knowledge/Operational Space Control.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -207,35 +140,36 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e29a78fe6c57a0b3",
+  "active": "5444ba93733c14bf",
   "lastOpenFiles": [
-    "Concepts & Knowledge/Karnopp Friction Compensation.md",
-    "Concepts & Knowledge/Operational Space Control.md",
-    "Concepts & Knowledge/How to give a Good Talk.md",
-    "Physics Informed Machine Learning/Physical Models from Data Via Optimization.md",
+    "Untitled",
     "conflict-files-obsidian-git.md",
+    "Tedrake Underactuated/Lecture 1.md",
     "Spring 2024 Robotic Manipulation/Lecture 14 - Intro to RL (Decision Making).md",
-    "Spring 2024 Robotic Manipulation/Lecture 14 - Dynamic Programming.md",
+    "Physics Informed Machine Learning/Physical Models from Data Via Optimization.md",
     "Physics Informed Machine Learning",
-    "Spring 2024 Robotic Manipulation/Lecture 13 - RT.md",
+    "Concepts & Knowledge/Operational Space Control.md",
+    "Tedrake Underactuated",
     "Spring 2024 Robotic Manipulation/Homework 12 - RL (Fundamental).md",
-    "Lecture 13 - RT.md",
+    "Spring 2024 Robotic Manipulation/Homework 7 - TAMP (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Homework 8 - TAMP (Learning).md",
     "Spring 2024 Robotic Manipulation/Homework 9 - Imitation Learning (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Lecture 9  - TAMP (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Lecture 10 - TAMP (Learning).md",
-    "Spring 2024 Robotic Manipulation/Lecture 11 - Imitation Learning (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Homework 11 - Imitation Learning (Learning 2).md",
+    "Spring 2024 Robotic Manipulation/Homework 11 -.md",
+    "Spring 2024 Robotic Manipulation/Lecture 11 - Imitation Learning (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Home12 - Imitation Learning (Learning).md",
-    "Spring 2024 Robotic Manipulation/Debate 2 - Scaling imitation learning is all we need for general-purpose robotics..md",
     "Spring 2024 Robotic Manipulation/Debate 1 -  Reward is not the most important in RL.md",
+    "Spring 2024 Robotic Manipulation/Lecture 13 - RT.md",
+    "Spring 2024 Robotic Manipulation/Debate1 -  Reward is not the most important in RL.md",
+    "Spring 2024 Robotic Manipulation/Homewor.md",
+    "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
+    "Untitled.md",
+    "Spring 2024 Robotic Manipulation/Lecture 13 - RT.md",
+    "Spring 2024 Robotic Manipulation/Debate 2 - Scaling imitation learning is all we need for general-purpose robotics..md",
+    "Spring 2024 Robotic Manipulation/Lecture 10 - TAMP (Learning).md",
     "PLATO/Optimo User Guide.md",
-    "Spring 2024 Robotic Manipulation/Homework 7 - TAMP (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Lecture 1.md",
-    "Spring 2024 Robotic Manipulation/Lecture 2.md",
     "PLATO/Account Info.md",
-    "Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Homework 7 - Fundamental.md",
+    "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
     "Reinforcement Learning/img_source/Pasted image 20240208225239.png",
     "Reinforcement Learning/img_source/Pasted image 20240208225015.png",
     "Reinforcement Learning/img_source/Pasted image 20240208224947.png",
@@ -254,7 +188,6 @@
     "Concepts & Knowledge",
     "PLATO/Canvas.canvas",
     "NVIDIA Isaac Sim",
-    "PLATO/PLATO Hand",
-    "PLATO/Optimo Arm"
+    "PLATO/PLATO Hand"
   ]
 }
