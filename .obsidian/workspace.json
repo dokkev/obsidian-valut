@@ -11,14 +11,11 @@
             "id": "da499bec9279ec0c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Tedrake Underactuated/Lecture 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Tedrake Underactuated/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Tedrake Underactuated/Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Tedrake Underactuated/Lecture 1.md"
               }
             }
           }
@@ -151,8 +148,8 @@
   },
   "active": "da499bec9279ec0c",
   "lastOpenFiles": [
-    "Tedrake Underactuated/Lecture 1.md",
     "Untitled.canvas",
+    "Tedrake Underactuated/Lecture 1.md",
     "Tedrake Underactuated",
     "conflict-files-obsidian-git.md",
     "Spring 2024 Robotic Manipulation/Lecture 14 - Intro to RL (Decision Making).md",
