@@ -7,3 +7,4 @@
 - Rigorous thinking about "model systems"
 - Algorithmic toolkit for more complex systems
 
+- Atlas is mostly using online planning using
