@@ -7,6 +7,6 @@
 - Rigorous thinking about "model systems"
 - Algorithmic toolkit for more complex systems
 
-- Atlas is mostly ⇾  online planning using with mechanics
+- Atlas is mostly ⇾ online planning using with mechanics + optimization
 - ANYmal / Quadrupeds → Reinforcement Learning
 - Manipulation → Imitation Learning dominantly
