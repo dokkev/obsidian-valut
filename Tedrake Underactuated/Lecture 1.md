@@ -1,5 +1,8 @@
 ## Goals for the class
-- Nonlinear dynamics
-- Optimization
-- Control
-- Machine Learning
+- Bring together tools from
+	- Nonlinear dynamics
+	- Optimization
+	- Control
+	- Machine Learning
+- Rigorous thinking about "model systems"
+- Algorithmic toolkit for more complex systems
