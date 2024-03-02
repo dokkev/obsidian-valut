@@ -11,9 +11,11 @@
             "id": "da499bec9279ec0c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "Tedrake Underactuated/Lecture 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tedrake Underactuated/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tedrake Underactuated/Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tedrake Underactuated/Lecture 1.md"
+              }
             }
           }
         ]
@@ -140,9 +146,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5444ba93733c14bf",
+  "active": "da499bec9279ec0c",
   "lastOpenFiles": [
-    "Untitled",
+    "Tedrake Underactuated/Lecture 1.md",
+    "Tedrake Underactuated",
     "conflict-files-obsidian-git.md",
     "Tedrake Underactuated/Lecture 1.md",
     "Spring 2024 Robotic Manipulation/Lecture 14 - Intro to RL (Decision Making).md",
@@ -187,7 +194,6 @@
     "Reinforcement Learning",
     "Concepts & Knowledge",
     "PLATO/Canvas.canvas",
-    "NVIDIA Isaac Sim",
-    "PLATO/PLATO Hand"
+    "NVIDIA Isaac Sim"
   ]
 }
