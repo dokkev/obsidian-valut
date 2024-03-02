@@ -8,3 +8,5 @@
 - Algorithmic toolkit for more complex systems
 
 - Atlas is mostly using online planning using
+- ANYmal / Quadrupeds use RL
+- Manipulation -> Imitation Learning d
