@@ -39,3 +39,6 @@ Second order $F = ma$
 ![[Pasted image 20240304134016.png]]
 
 $\ddot{q}$ would be joint acceleration
+
+This is a specific version. We can write in more general form:
+
