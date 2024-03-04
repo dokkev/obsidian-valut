@@ -77,4 +77,4 @@ For many systems, these hold for all $q,  \dot{q}$ -> system is underactuated.
 
 As long as the inverse of $f_2$ exists → $\ddot{q} = \ddot{q}^d$ 
 
-#### Manipulator Equation
+#### Manipulator Equation  
