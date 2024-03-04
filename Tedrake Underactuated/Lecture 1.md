@@ -23,4 +23,6 @@ These three things are inherently very similar.
 - Actions have long-term consequences
 - Nonlinearity and high-dimensionality (depends on)
 
-#### Nonlinear Differential Equaitons
+#### Nonlinear Differential Equations
+![[Pasted image 20240304133637.png]]
+It is often reffered as "dynamic model"
