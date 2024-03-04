@@ -66,3 +66,5 @@ This system is fully-actuated in the state $q, \dot{q}$ if only if $f_2(q,\dot{q
 - Rank is the number of dimension in the output of transformation
 - Set of all possible output $A\vec{v}$ is called column space
 - If the rank equals the number of the column, the matrix is **full rank**
+
+
