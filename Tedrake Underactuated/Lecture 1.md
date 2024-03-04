@@ -10,4 +10,8 @@
 - Atlas is mostly -> online planning using with mechanics + optimization
 - ANYmal / Quadrupeds → Reinforcement Learning
 - Manipulation → Imitation Learning dominantly
-These three things are inherinylu h
+
+These three things are inherently very similar.
+- Optimization
+	- Cost function / Imitating reference
+- 
