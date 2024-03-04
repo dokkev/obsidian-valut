@@ -62,4 +62,6 @@ We can be more specific: "control affine" nonlinear system
 
 This system is fully-actuated in the state $q, \dot{q}$ if only if $f_2(q,\dot{q})$ is full row rank.
 
-Rank is the number of dimension in the output of transformation
+#### Linear Review: Rank
+- Rank is the number of dimension in the output of transformation
+- 
