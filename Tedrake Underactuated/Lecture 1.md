@@ -34,4 +34,5 @@ And this is 'Observation model'
 ![[Pasted image 20240304133822.png]]
 
 
-For mechanical sy
+For mechanical systems:
+Second order $F = ma$
