@@ -15,3 +15,6 @@ The general solution $\dot{x} = J\dot{q}$ can be written as:
 $$
 \dot{q} = J^\dagger\dot{x} + (I - J^\dagger J)z
 $$
+- $z$ is an arbitrary vector that can be chosen to optimize secondary objectives.
+- $(I - J^\dagger J)$ projects $z$ onto the null space of $J$
+- 
