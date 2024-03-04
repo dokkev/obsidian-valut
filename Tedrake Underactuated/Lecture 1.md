@@ -73,4 +73,6 @@ The system is under-actuated if rank($f_2(q,\dot{q})) < dim(q)$
 For many systems, these hold for all $q,  \dot{q}$ -> system is underactuated.
 
 #### Feedback Equivalence
+![[Pasted image 20240304161304.png]]
 
+As long as the inverse of $f_2$ exists -> 
