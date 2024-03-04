@@ -38,4 +38,4 @@ For mechanical systems:
 Second order $F = ma$
 ![[Pasted image 20240304134016.png]]
 
-$/ddot{q}$
+$\ddot{q}$ would be joint acceleration
