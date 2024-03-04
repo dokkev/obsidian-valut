@@ -56,3 +56,7 @@ $$
 f(q,\dot{q},u)
 \end{bmatrix}
 $$
+
+We can be more specific: "coi"
+
+![[Pasted image 20240304134815.png]]
