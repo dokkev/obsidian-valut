@@ -60,4 +60,4 @@ $$
 We can be more specific: "control affine" nonlinear system
 ![[Pasted image 20240304134815.png]]
 
-This system is fully-actuated in the state $q, \dot{q}$ if only if $f_2(q,\dot{q})$ is full row rank
+This system is fully-actuated in the state $q, \dot{q}$ if only if $f_2(q,\dot{q})$ is full row rank.
