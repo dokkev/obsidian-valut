@@ -8,5 +8,5 @@ Designing the perception and control software for autonomous operation is challe
 The authors combine perception system and control policy. 
 
 ## How the idea is implemented
-
+They developed 
 ##  How is success proved and measured?
