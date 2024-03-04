@@ -5,8 +5,8 @@ Designing the perception and control software for autonomous operation is challe
 ## Why the state-of-the-art is not enough for this? Why does it fail?
 
 ## What is the clever idea of this paper?
-The authors combine perception system and control policy. 
+The authors combine perception system and control policy, which does not require full state information of the object.
 
 ## How the idea is implemented
-They developed a policy which does not require full state information 
+They developed a policy which does not require full state information.
 ##  How is success proved and measured?
