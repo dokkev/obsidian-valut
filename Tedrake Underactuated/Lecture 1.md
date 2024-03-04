@@ -83,4 +83,6 @@ M(q)\dot{q} + C(q,\dot{q})\dot{q} = \tau(g) + Bu
 $$
 - There is one exception with quaternion for Coriolis term
 - $M(q) > 0$ : Mass matrix is positive definite
+	- The Mass matrix is invertible
+	- ![[Pasted image 20240304165853.png]]
 
