@@ -14,4 +14,5 @@
 These three things are inherently very similar.
 - Optimization
 	- Cost function / Imitating reference
-- 
+- Vocab may be different
+
