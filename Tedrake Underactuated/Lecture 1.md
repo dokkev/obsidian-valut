@@ -21,4 +21,6 @@ These three things are inherently very similar.
 #### What makes control difficult?
 - Uncertainty / Partial observation
 - Actions have long-term consequences
-- Nonlinearity and high-dimensionality (depends on) 
+- Nonlinearity and high-dimensionality (depends on)
+
+#### Nonlinear Differential Equaitons
