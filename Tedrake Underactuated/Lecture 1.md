@@ -68,3 +68,4 @@ This system is fully-actuated in the state $q, \dot{q}$ if only if $f_2(q,\dot{q
 - If the rank equals the number of the column, the matrix is **full rank**
 
 
+The system is under-actuated if rank($f_2(q,\dot{q} < m$) 
