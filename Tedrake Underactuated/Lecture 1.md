@@ -20,4 +20,5 @@ These three things are inherently very similar.
 
 #### What makes control difficult?
 - Uncertainty / Partial observation
-- Action have long0
+- Actions have long-term consequences
+- Nonlinearity
