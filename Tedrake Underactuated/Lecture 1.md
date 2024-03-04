@@ -51,4 +51,8 @@ q \\
 $$
 $$
 \dot{X} = f(x,u) = 
+\begin{bmatrix}
+\dot{q} \\
+f(q,\dot{q},u)
+\end{bmatrix}
 $$
