@@ -57,6 +57,7 @@ f(q,\dot{q},u)
 \end{bmatrix}
 $$
 
-We can be more specific: "coi"
-
+We can be more specific: "control affine" nonlinear system
 ![[Pasted image 20240304134815.png]]
+
+This system is fully-acuated in 
