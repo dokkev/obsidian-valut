@@ -17,4 +17,3 @@ $$
 $$
 - $z$ is an arbitrary vector that can be chosen to optimize secondary objectives.
 - $(I - J^\dagger J)$ projects $z$ onto the null space of $J$
-- 
