@@ -18,3 +18,6 @@ These three things are inherently very similar.
 
 ![[Pasted image 20240304132749.png]]
 
+#### What makes control difficult?
+- Uncertainty / Partial observation
+- Action have long0
