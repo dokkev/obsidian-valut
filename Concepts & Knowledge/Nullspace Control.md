@@ -13,5 +13,5 @@ When the robot is redundant, Jacobian has non-trivial null space meaning there e
 The general solution $\dot{x} = J\dot{q}$ can be written as:
 
 $$
-\dot{q} = 
+\dot{q} = J^\dagger\dox
 $$
