@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tedrake Underactuated/Lecture 1.md",
+                "file": "Concepts & Knowledge/Nullspace Controll.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tedrake Underactuated/Lecture 1.md",
+                "file": "Concepts & Knowledge/Nullspace Controll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tedrake Underactuated/Lecture 1.md",
+                "file": "Concepts & Knowledge/Nullspace Controll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tedrake Underactuated/Lecture 1.md"
+                "file": "Concepts & Knowledge/Nullspace Controll.md"
               }
             }
           }
@@ -209,6 +209,8 @@
   },
   "active": "e29a78fe6c57a0b3",
   "lastOpenFiles": [
+    "Tedrake Underactuated/Lecture 1.md",
+    "Concepts & Knowledge/Nullspace Controll.md",
     "Pasted image 20240304134815.png",
     "Pasted image 20240304134016.png",
     "Pasted image 20240304133822.png",
@@ -225,7 +227,6 @@
     "Concepts & Knowledge/Karnopp Friction Compensation.md",
     "Concepts & Knowledge/How to give a Good Talk.md",
     "Concepts & Knowledge/Finite State Machine.md",
-    "Tedrake Underactuated/Lecture 1.md",
     "Tedrake Underactuated",
     "Physics Informed Machine Learning/Physical Models from Data Via Optimization.md",
     "conflict-files-obsidian-git.md",
@@ -247,7 +248,6 @@
     "Reinforcement Learning/img_source/Pasted image 20240208225015.png",
     "Reinforcement Learning/img_source/Pasted image 20240208224947.png",
     "Reinforcement Learning/img_source/Pasted image 20240208222837.png",
-    "Reinforcement Learning/img_source/Pasted image 20240208222550.png",
     "Concepts & Knowledge/img_source",
     "Spring 2024 Robotic Manipulation",
     "Tedrake Robotic Manipulation",
