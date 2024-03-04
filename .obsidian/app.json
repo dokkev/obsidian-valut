@@ -28,6 +28,7 @@
     "Boundedness",
     "DAgger",
     "diff-eq",
-    "ANYmal"
+    "ANYmal",
+    "underactuated"
   ]
 }

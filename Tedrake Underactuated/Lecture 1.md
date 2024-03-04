@@ -70,4 +70,4 @@ This system is fully-actuated in the state $q, \dot{q}$ if only if $f_2(q,\dot{q
 ![[Pasted image 20240304160851.png]]
 
 The system is under-actuated if rank($f_2(q,\dot{q})) < m$  
-For many systems, these hold 
+For many systems, these hold for all $q,  \dot{q}$ -> system is underactuated
