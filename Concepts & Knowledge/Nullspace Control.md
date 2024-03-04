@@ -10,6 +10,8 @@ $$
 $$
 When the robot is redundant, Jacobian has non-trivial null space meaning there exist non-zero vectors $z$ such that $Jz = 0$. These $z$ do not affect the end-effector's position or velocity.
 
-The general solution $
-\dot{x} = J\dot{q}
-$
+The general solution $\dot{x} = J\dot{q}$ can be written as:
+
+$$
+\dot{q} = 
+$$
