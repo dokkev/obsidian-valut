@@ -6,4 +6,5 @@ The redundancy allows the robot to optimize secondary criteria, such as avoiding
 
 In robotics, the primary task of an end-effector can be written in 
 $$
-\do$$
+\dot{x} = J\dot{q}$$
+When the robot is redundant, Jacobian has non-trivial null space meaning there exist non-zero vectors 
