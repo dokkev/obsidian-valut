@@ -43,10 +43,12 @@ $\ddot{q}$ would be joint acceleration
 This is a specific version. We can write in more general form:
 
 $$
-x = 
+X = 
 \begin{bmatrix}
 q \\ 
 \dot{q}
 \end{bmatrix}
 $$
-
+$$
+\dot{X} = f(x,u) = 
+$$
