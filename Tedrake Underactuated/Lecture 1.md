@@ -67,5 +67,6 @@ This system is fully-actuated in the state $q, \dot{q}$ if only if $f_2(q,\dot{q
 - Set of all possible output $A\vec{v}$ is called column space
 - If the rank equals the number of the column, the matrix is **full rank**
 
+![[Pasted image 20240304160851.png]]
 
-The system is under-actuated if rank($f_2(q,\dot{q} < m$) 
+The system is under-actuated if rank($f_2(q,\dot{q})) < m$  
