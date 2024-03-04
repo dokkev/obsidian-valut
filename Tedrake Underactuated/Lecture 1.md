@@ -42,3 +42,7 @@ $\ddot{q}$ would be joint acceleration
 
 This is a specific version. We can write in more general form:
 
+$$x = \begin{matrix}q  \dot{q}
+
+$$
+
