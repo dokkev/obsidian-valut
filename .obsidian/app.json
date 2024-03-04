@@ -29,6 +29,7 @@
     "DAgger",
     "diff-eq",
     "ANYmal",
-    "underactuated"
+    "underactuated",
+    "quaternion"
   ]
 }
