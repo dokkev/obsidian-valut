@@ -30,4 +30,8 @@ It is often referred to as "dynamic model".
 ![[Pasted image 20240304133729.png]]
 And this is 'Observation model'
 
+#### Linear Differential Equations
+![[Pasted image 20240304133822.png]]
 
+
+For mechanical sy
