@@ -72,4 +72,5 @@ This system is fully-actuated in the state $q, \dot{q}$ if only if $f_2(q,\dot{q
 The system is under-actuated if rank($f_2(q,\dot{q})) < dim(q)$  
 For many systems, these hold for all $q,  \dot{q}$ -> system is underactuated.
 
-####
+#### Feedback Equivalence
+
