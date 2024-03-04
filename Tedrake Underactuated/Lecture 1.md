@@ -64,4 +64,4 @@ This system is fully-actuated in the state $q, \dot{q}$ if only if $f_2(q,\dot{q
 
 #### Linear Review: Rank
 - Rank is the number of dimension in the output of transformation
-- 
+- Set of all possible output $A\vec{v}$ 
