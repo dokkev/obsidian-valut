@@ -25,4 +25,9 @@ These three things are inherently very similar.
 
 #### Nonlinear Differential Equations
 ![[Pasted image 20240304133637.png]]
-It is often reffered as "dynamic model"
+It is often referred to as "dynamic model".
+
+![[Pasted image 20240304133729.png]]
+And this is 'Observation model'
+
+
