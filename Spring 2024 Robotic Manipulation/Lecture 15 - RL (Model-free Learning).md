@@ -10,3 +10,5 @@
 - Demo Augmented Policy Gradient (DAPG)
 - Model the control problem as MDP
 - Natural Policy Gradient
+- Augmenting RL with demonstrations:
+	- Alleviated the need for labor
