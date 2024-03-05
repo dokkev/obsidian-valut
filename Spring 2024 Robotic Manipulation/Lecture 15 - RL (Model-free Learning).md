@@ -3,5 +3,5 @@
 - Large number of potential contacts
 - complex and discontinuous contact patterns
 ### Prior Work Failure
-- DRL: unscalabe and inefficient sampling
-- Model-based approahces: require accurate models and st
+- DRL: unscalable and inefficient sampling
+- Model-based approaches: require accurate models and state estimates
