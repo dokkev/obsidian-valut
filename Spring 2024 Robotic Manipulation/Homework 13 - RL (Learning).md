@@ -8,6 +8,7 @@ Designing the perception and control software for autonomous operation is challe
 The authors combine perception system and control policy, which does not require full state information of the object.
 
 ## How the idea is implemented
-The pose estimation is pretrained using dataset of camera images of varied positions of objects in the scene, and linear-Gaussian controller is pretrained with full state information for tasks under various initial states Involving trajectory-centric reinforcement learning. After successful pretraining, the vasomotor policy is trained by  alternating between optimizing the trajectory distributions to minimize task-specific costs
+The pose estimation is pretrained using dataset of camera images of varied positions of objects in the scene, and linear-Gaussian controller is pretrained with full state information for tasks under various initial states involving trajectory-centric reinforcement learning. After successful pretraining, the vasomotor policy is trained by alternating between optimizing the trajectory distributions to minimize task-specific costs and optimizing the policy network to match these trajectories based on the observed camera images.
 
 ##  How is success proved and measured?
+Success rates are directly measured by the policy's ability to accomplish the specified tasks under different condition. 
