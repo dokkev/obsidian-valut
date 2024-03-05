@@ -8,66 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7521fcc3d1d9978f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03e75fdedda051a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd4feba4abff44d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2024 Robotic Manipulation/Debate 2 - Scaling imitation learning is all we need for general-purpose robotics..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b575637e11f0cf5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2024 Robotic Manipulation/Lecture 14 - Intro to RL (Decision Making).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3201e89ae4acdd9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2024 Robotic Manipulation/Lecture 14 - Intro to RL (Decision Making).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d9e323580a35228f",
             "type": "leaf",
             "state": {
@@ -79,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
