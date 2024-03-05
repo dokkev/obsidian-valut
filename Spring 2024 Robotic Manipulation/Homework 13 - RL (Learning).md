@@ -8,5 +8,6 @@ Designing the perception and control software for autonomous operation is challe
 The authors combine perception system and control policy, which does not require full state information of the object.
 
 ## How the idea is implemented
+The pose estimation is pretrained using dataset of camera images of varied positions of objects int
 
 ##  How is success proved and measured?
