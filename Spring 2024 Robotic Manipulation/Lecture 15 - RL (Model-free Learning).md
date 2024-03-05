@@ -7,4 +7,6 @@
 - Model-based approaches: require accurate models and state estimates
 
 ### Proposed Approach
-- Demo Augumented Po
+- Demo Augmented Policy Gradient (DAPG)
+- Model the control problem as MDP
+- Natural Policy Gradient
