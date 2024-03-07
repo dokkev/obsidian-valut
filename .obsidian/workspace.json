@@ -23,14 +23,11 @@
             "id": "0d5a5b60c7f6e8f1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Tedrake Underactuated/Lecture 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Tedrake Underactuated/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Tedrake Underactuated/Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Tedrake Underactuated/Lecture 1.md"
               }
             }
           }
@@ -165,9 +162,9 @@
   "active": "0d5a5b60c7f6e8f1",
   "lastOpenFiles": [
     "2024-03-06.md",
+    "Untitled.md",
     "Untitled.canvas",
     "Concepts & Knowledge/Nullspace Control.md",
-    "Untitled.md",
     "Tedrake Underactuated/Lecture 1.md",
     "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
     "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
@@ -204,7 +201,6 @@
     "Spring 2024 Robotic Manipulation/Lecture 13 - RT.md",
     "Spring 2024 Robotic Manipulation/Debate1 -  Reward is not the most important in RL.md",
     "Spring 2024 Robotic Manipulation/Homewor.md",
-    "Spring 2024 Robotic Manipulation/Lecture 13 - RT.md",
     "Concepts & Knowledge/img_source",
     "Spring 2024 Robotic Manipulation",
     "Tedrake Robotic Manipulation",
