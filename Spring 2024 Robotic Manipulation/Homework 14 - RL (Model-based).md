@@ -9,4 +9,4 @@ RL includes a system with its state and control input for the system, and the en
 RL is very useful to synthesize optimal or robust policy in the unknown environment. Especially, some tasks involving multi-contact which suffers from difficulties and costliness of precise modeling can be solved with RL. In addition, RL is highly adaptable to changes in the environment that it can provide robust policy strong again perturbations 
 
 ## Assumptions and limitations
-RL assumes that given reward function accurately represenmt 
+RL assumes that a given reward function accurately represents the successfulness of the desired tasks. If the tasks' reward function is hard to be defined, RL will not
