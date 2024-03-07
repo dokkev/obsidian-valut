@@ -6,6 +6,6 @@ Dynamic programming suffers from practical challenges such as the curse of dimen
 RL includes a system with its state and control input for the system, and the environment has a reward function which defines the reward associated with every state and control. The RL algorithm aims to accumulate the highest possible reward. Model-based RL uses am explicit model of the environment's dynamics, while model-free RL solely learns by interacting with the environment with reward. Deep reinforcement learning incorporates neural networks.
 
 ## Applicability / Problems solved
-RL is very useful to synthesize optimal or robust policy in the unknown environment. Especially, task involving multi-contact which suffers from difficulties and costliness of precise modeling can be solved 
+RL is very useful to synthesize optimal or robust policy in the unknown environment. Especially, some tasks involving multi-contact which suffers from difficulties and costliness of precise modeling can be solved with RL. In addtion, RL is highly adaptable to changes in the enviroment 
 
 ## Assumptions and limitations
