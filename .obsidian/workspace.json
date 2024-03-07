@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "da499bec9279ec0c",
+            "id": "d9e323580a35228f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tedrake Underactuated/Lecture 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d5a5b60c7f6e8f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tedrake Underactuated/Lecture 1.md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 15 - RL (Model-free Learning).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 300
   },
   "right": {
     "id": "c15f7e551bb8ae20",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tedrake Underactuated/Lecture 1.md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 15 - RL (Model-free Learning).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tedrake Underactuated/Lecture 1.md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 15 - RL (Model-free Learning).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tedrake Underactuated/Lecture 1.md"
+                "file": "Spring 2024 Robotic Manipulation/Lecture 15 - RL (Model-free Learning).md"
               }
             }
           }
@@ -159,19 +146,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0d5a5b60c7f6e8f1",
+  "active": "d9e323580a35228f",
   "lastOpenFiles": [
-    "2024-03-06.md",
-    "Untitled.md",
-    "Untitled.canvas",
-    "Concepts & Knowledge/Nullspace Control.md",
-    "Tedrake Underactuated/Lecture 1.md",
-    "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
-    "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
     "Spring 2024 Robotic Manipulation/Homework 14 - RL (Model-based).md",
-    "Spring 2024 Robotic Manipulation/Homework 13 - RL (Learning).md",
-    "Spring 2024 Robotic Manipulation/Lecture 15 - RL (Model-free Learning).md",
     "Spring 2024 Robotic Manipulation/Lecture 14 - Intro to RL (Decision Making).md",
+    "Spring 2024 Robotic Manipulation/Lecture 15 - RL (Model-free Learning).md",
     "Tedrake Underactuated/img_source/Pasted image 20240304165853.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304161304.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304160851.png",
@@ -183,30 +162,38 @@
     "Tedrake Underactuated/img_source/Pasted image 20240304133729.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304133637.png",
     "Tedrake Underactuated/img_source",
+    "Tedrake Underactuated/Lecture 1.md",
     "Tedrake Underactuated",
-    "conflict-files-obsidian-git.md",
+    "Spring 2024 Robotic Manipulation/Homework 13 - RL (Learning).md",
+    "Concepts & Knowledge/Nullspace Control.md",
+    "Concepts & Knowledge/Operational Space Control.md",
+    "Spring 2024 Robotic Manipulation/Homework 12 - RL (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Lecture 11 - Imitation Learning (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Debate 2 - Scaling imitation learning is all we need for general-purpose robotics..md",
+    "Spring 2024 Robotic Manipulation/Lecture 13 - RT.md",
+    "Spring 2024 Robotic Manipulation/Homework 11 - Imitation Learning (Learning 2).md",
+    "Spring 2024 Robotic Manipulation/Home12 - Imitation Learning (Learning).md",
     "Physics Informed Machine Learning/Physical Models from Data Via Optimization.md",
     "Physics Informed Machine Learning",
-    "Concepts & Knowledge/Operational Space Control.md",
-    "Tedrake Underactuated",
-    "Spring 2024 Robotic Manipulation/Homework 12 - RL (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Homework 7 - TAMP (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Homework 8 - TAMP (Learning).md",
+    "Spring 2024 Robotic Manipulation/Lecture 12 - Imitation Learning (Learning).md",
+    "Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md",
+    "PLATO/Optimo User Guide.md",
     "Spring 2024 Robotic Manipulation/Homework 9 - Imitation Learning (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Homework 11 - Imitation Learning (Learning 2).md",
-    "Spring 2024 Robotic Manipulation/Homework 11 -.md",
-    "Spring 2024 Robotic Manipulation/Lecture 11 - Imitation Learning (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Home12 - Imitation Learning (Learning).md",
     "Spring 2024 Robotic Manipulation/Debate 1 -  Reward is not the most important in RL.md",
-    "Spring 2024 Robotic Manipulation/Lecture 13 - RT.md",
-    "Spring 2024 Robotic Manipulation/Debate1 -  Reward is not the most important in RL.md",
-    "Spring 2024 Robotic Manipulation/Homewor.md",
+    "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
+    "Spring 2024 Robotic Manipulation/Lecture 10 - TAMP (Learning).md",
+    "Spring 2024 Robotic Manipulation/Lecture 1.md",
+    "Spring 2024 Robotic Manipulation/Lecture 2.md",
+    "Spring 2024 Robotic Manipulation/Homework 8 - TAMP (Learning).md",
+    "Spring 2024 Robotic Manipulation/Lecture 9  - TAMP (Fundamental).md",
+    "Spring 2024 Robotic Manipulation/Homework 7 - TAMP (Fundamental).md",
     "Concepts & Knowledge/img_source",
     "Spring 2024 Robotic Manipulation",
     "Tedrake Robotic Manipulation",
     "Reinforcement Learning/img_source",
     "Reinforcement Learning",
     "Concepts & Knowledge",
-    "PLATO/Canvas.canvas"
+    "PLATO/Canvas.canvas",
+    "NVIDIA Isaac Sim"
   ]
 }
