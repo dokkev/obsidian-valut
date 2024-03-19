@@ -2,8 +2,9 @@
 With advancement of computers, actuators, and sensors, robotic system with complex hardware such as humanoid robots have been developed. However, existing simulators which do not engage physics engines lack of speed and accuracy for automatic controller design, which requires significant computational resources due to large amount of evaluations in numerical optimizations.
 
 ## Summary of the methodology presented: algorithm, input-output
-The author presents MuJoCo (multi-joint contact simulation) which can parallelly evaluate dynamical systems, always compute inverse dynamics, and include actuator dynamics. The equation of motion in continuous time consists of forward dynamics term, equality constraint term, and contact term with consideration of impulse.  Forward kinematics of rigid-bodies construct Jacobian matrices, and inertia matrix is computed with RNE. Equality constraint impulse and contact impulse are calculated based on the constraint of rigid body. The author i
+The author presents MuJoCo (multi-joint contact simulation) which can parallelly evaluate dynamical systems, always compute inverse dynamics, and include actuator dynamics. The equation of motion in continuous time consists of forward dynamics term, equality constraint term, and contact term with consideration of impulse.  Forward kinematics of rigid-bodies construct Jacobian matrices, and inertia matrix is computed with RNE. Equality constraint impulse and contact impulse are calculated based on the constraint of rigid body. The author introduces several solvers for the contact impulse and their trade-offs
 
 ## Applicability / Problems solved
+MuJoCo can represent complex robotic hardware such as tendon and linkage transmission 
 
 ## Assumptions and limitations
