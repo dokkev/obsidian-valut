@@ -8,4 +8,4 @@ The author presents MuJoCo (multi-joint contact simulation) which can parallelly
 MuJoCo can accurately represent complex robotic hardware such as tendon and linkage transmission in fast speed, and ability to accurately represent hardware in simulation reduces sim-to-real gap and helps to synthesize controller designs. MuJoCo physics engine can evaluate complex dynamic systems with multiple joints faster than other physics engine. 
 
 ## Assumptions and limitations
-Although the paper includes 
+Although the paper includes comparison of evaluations with SD/FAST, it lacks of comparison to other simulators such as 
