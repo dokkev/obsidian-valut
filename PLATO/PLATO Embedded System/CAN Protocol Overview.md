@@ -29,3 +29,7 @@ In the physical layer, CAN is consisted of two wires: CAN-High and CAN-Low. The 
 ### Remote Transmission Request (RTR)
 
 RTR is a mechanism within the CAN protocol that allows a node on the network to request data from another node. Here's how it works:
+
+1. **RTR Flag**: A specific bit in the CAN frame, known as the RTR bit, indicates whether the frame is a data frame or a remote frame. A dominant (0) RTR bit signifies a data frame, which contains data to be transmitted. A recessive (1) RTR bit indicates a remote frame, which is a request for data.
+    
+2. **Data Request**: When a node needs data from another node, it sends a remote frame with the RTR bit set to recessive. This frame includes the identifier of the data it is requesting but does not contain any data payload itself.
