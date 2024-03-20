@@ -1,0 +1,3 @@
+- Main benefit of using simulation for robot learning is to
+	- improve sample efficiency
+	- 
