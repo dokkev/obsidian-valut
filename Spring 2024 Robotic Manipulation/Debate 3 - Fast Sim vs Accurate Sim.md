@@ -1,6 +1,6 @@
 - Main benefit of using simulation for robot learning is to
 	- improve sample efficiency
 	- reduce the cost of data collection
-- And having a fast simulatio
+- And having a fast simulation can benefit overall efficiency of data collection or training
 - In robot learning, having a larger dataset is more important than having a good quality to avoid covariate shift and achieve task generalization. 
-- To overcome lack of accuracy of
+- To overcome lack of accuracy in simulation, techniques such as sim-
