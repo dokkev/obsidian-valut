@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Debate 3 - Fast Sim vs Accurate Sim.md",
+                "file": "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Debate 3 - Fast Sim vs Accurate Sim.md",
+                "file": "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Debate 3 - Fast Sim vs Accurate Sim.md",
+                "file": "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Debate 3 - Fast Sim vs Accurate Sim.md"
+                "file": "PLATO/PLATO Embedded System/CAN Protocol Overview.md"
               }
             }
           }
@@ -221,9 +221,11 @@
   },
   "active": "aff7104ee16a0423",
   "lastOpenFiles": [
+    "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector and Can Utils.md",
+    "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
+    "Spring 2024 Robotic Manipulation/Debate 3 - Fast Sim vs Accurate Sim.md",
     "Spring 2024 Robotic Manipulation/Home12 - Imitation Learning (Learning).md",
     "Spring 2024 Robotic Manipulation/Debate 2 - Scaling imitation learning is all we need for general-purpose robotics..md",
-    "Spring 2024 Robotic Manipulation/Debate 3 - Fast Sim vs Accurate Sim.md",
     "Spring 2024 Robotic Manipulation/Homework 15 - Simulators for Robotic Manipulation.md",
     "Spring 2024 Robotic Manipulation/Homework 14 - RL (Model-based).md",
     "Spring 2024 Robotic Manipulation/Homework 13 - RL (Learning).md",
@@ -258,9 +260,7 @@
     "Physics Informed Machine Learning/Physical Models from Data Via Optimization.md",
     "conflict-files-obsidian-git.md",
     "Spring 2024 Robotic Manipulation/Lecture 14 - Intro to RL (Decision Making).md",
-    "Spring 2024 Robotic Manipulation/Lecture 14 - Dynamic Programming.md",
     "Physics Informed Machine Learning",
-    "Spring 2024 Robotic Manipulation/Lecture 13 - RT.md",
     "Concepts & Knowledge/img_source",
     "Spring 2024 Robotic Manipulation",
     "Tedrake Robotic Manipulation",
