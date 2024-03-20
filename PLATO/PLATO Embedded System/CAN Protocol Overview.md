@@ -28,3 +28,4 @@ In the physical layer, CAN is consisted of two wires: CAN-High and CAN-Low. The 
 
 ### Remote Transmission Request (RTR)
 
+RTR is a mechanism within the CAN protocol that allows a node on the network to request data from another node. Here's how it works:
