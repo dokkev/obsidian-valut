@@ -3,4 +3,4 @@
 	- reduce the cost of data collection
 - And having a fast simulation can benefit overall efficiency of data collection or training
 - In robot learning, having a larger dataset is more important than having a good quality to avoid covariate shift and achieve task generalization. 
-- To overcome lack of accuracy in simulation, techniques such as sim-
+- To overcome lack of accuracy in simulation, numerous sim2real transfer techniques such as domain randomization and domain adaptation, meta-learning, and knowlege d 
