@@ -4,3 +4,8 @@
 - And having a fast simulation can benefit overall efficiency of data collection or training
 - In robot learning, having a larger dataset is more important than having a good quality to avoid covariate shift and achieve task generalization. 
 - To overcome lack of accuracy in simulation, numerous sim2real transfer techniques such as domain randomization and domain adaptation, meta-learning, and knowledge distillation have been introduced.  
+
+
+
+#### Transfer Learning
+It aims at improving the performance of target learners on targ
