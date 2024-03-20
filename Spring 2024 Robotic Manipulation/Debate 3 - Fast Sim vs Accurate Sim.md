@@ -12,3 +12,9 @@ It aims at improving the performance of target learners on target domains by tra
 
 #### Domain Adaptation
 Subset of transfer learning. It specifies the situation when we have sufficient source domain labeled data and the same single task as the target task, but without or very few target domain data
+
+#### Policy Distillation
+ the process of extracting knowledge to train a new network that is able to maintain a similarly expert level while being significantly smaller and more efficient
+
+#### Meta Learning
+Meta Learning, namely learning to learn, aims to learn the adaptation ability to unseen test tasks from multiple training tasks.
