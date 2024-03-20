@@ -8,4 +8,7 @@
 
 
 #### Transfer Learning
-It aims at improving the performance of target learners on targ
+It aims at improving the performance of target learners on target domains by transferring the knowledge contained in difference but related source domains
+
+#### Domain Adapation
+Sub
