@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 15 Simulators for Robotic Manipulation.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 15 - Simulators for Robotic Manipulation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aff7104ee16a0423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring 2024 Robotic Manipulation/Homework 15 - Simulators for Robotic Manipulation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 15 Simulators for Robotic Manipulation.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 15 - Simulators for Robotic Manipulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 15 Simulators for Robotic Manipulation.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 15 - Simulators for Robotic Manipulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 15 Simulators for Robotic Manipulation.md"
+                "file": "Spring 2024 Robotic Manipulation/Homework 15 - Simulators for Robotic Manipulation.md"
               }
             }
           }
@@ -207,11 +219,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e29a78fe6c57a0b3",
+  "active": "aff7104ee16a0423",
   "lastOpenFiles": [
     "Spring 2024 Robotic Manipulation/Homework 14 - RL (Model-based).md",
     "Spring 2024 Robotic Manipulation/Homework 13 - RL (Learning).md",
-    "Spring 2024 Robotic Manipulation/Homework 15 Simulators for Robotic Manipulation.md",
+    "Spring 2024 Robotic Manipulation/Homework 15 - Simulators for Robotic Manipulation.md",
     "Spring 2024 Robotic Manipulation/Lecture 15 - RL (Model-free).md",
     "Spring 2024 Robotic Manipulation/Homework 12 - RL (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Lecture 15 - RL (Model-free Learning).md",
