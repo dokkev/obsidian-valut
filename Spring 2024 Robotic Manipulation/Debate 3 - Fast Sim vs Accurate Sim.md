@@ -10,5 +10,5 @@
 #### Transfer Learning
 It aims at improving the performance of target learners on target domains by transferring the knowledge contained in difference but related source domains
 
-#### Domain Adapation
-Sub
+#### Domain Adaptation
+Subset of transfer learning. It specifies the situation when we have sufficient source domain labeled data and the same single task as the target task, but without or very few target domain data
