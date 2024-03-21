@@ -6,7 +6,7 @@
 - To overcome lack of accuracy in simulation, numerous sim2real transfer techniques such as domain randomization and domain adaptation, meta-learning, and knowledge distillation have been introduced.  
 
 - Speed of the simulation is crucial in RL
-- The nature of RL 
+- The nature of RL involves learning by interacting with enviroments requiring numerous trials (samples) to learn policies
 
 
 
