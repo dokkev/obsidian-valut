@@ -5,7 +5,8 @@
 - In robot learning, having a larger dataset is more important than having a good quality to avoid covariate shift and achieve task generalization. 
 - To overcome lack of accuracy in simulation, numerous sim2real transfer techniques such as domain randomization and domain adaptation, meta-learning, and knowledge distillation have been introduced.  
 
-- Speed of the simulation is 
+- Speed of the simulation is crucial in RL
+- The nature of RL 
 
 
 
