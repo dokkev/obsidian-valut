@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa238ec827f53cc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring 2024 Robotic Manipulation/Debate 3 - Fast Sim vs Accurate Sim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
+                "file": "Spring 2024 Robotic Manipulation/Debate 3 - Fast Sim vs Accurate Sim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
+                "file": "Spring 2024 Robotic Manipulation/Debate 3 - Fast Sim vs Accurate Sim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning/Torque-based Deep RL on Humanoid.md"
+                "file": "Spring 2024 Robotic Manipulation/Debate 3 - Fast Sim vs Accurate Sim.md"
               }
             }
           }
@@ -159,7 +171,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ef0ea9e36b9a376b",
+  "active": "aa238ec827f53cc3",
   "lastOpenFiles": [
     "Spring 2024 Robotic Manipulation/Homework 15 - Simulators for Robotic Manipulation.md",
     "Spring 2024 Robotic Manipulation/Debate 3 - Fast Sim vs Accurate Sim.md",
