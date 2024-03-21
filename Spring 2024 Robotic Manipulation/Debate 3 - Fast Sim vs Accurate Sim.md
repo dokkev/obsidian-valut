@@ -14,7 +14,9 @@
 
 ### CONS
 - real-world: application 
-- simulation such as env
+- simulation such as env easy to access
+- real-world behavior
+- 
 
 
 
