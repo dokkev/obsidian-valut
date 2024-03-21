@@ -7,6 +7,7 @@
 
 - Speed of the simulation is crucial in RL
 - The nature of RL involves learning by interacting with enviroments requiring numerous trials (samples) to learn policies. Faster simulation allows more interactions in a shorter period of time enhancing the learning process.
+- RL involves a lot of experimentation with different algorithms, parameters, and models. Fast simulations make it feasible to test more configurations and thus find optimal solutions faster.
 - 
 
 
