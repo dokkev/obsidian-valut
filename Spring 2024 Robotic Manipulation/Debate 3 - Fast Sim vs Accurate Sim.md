@@ -12,6 +12,11 @@
 - As the complexity of tasks and environments increases, the need for more computational power and faster simulations becomes critical. Fast simulations ensure that as models and environments grow more complex
 
 
+### CONS
+- real-world: application 
+- simulation such as env
+
+
 
 #### Transfer Learning
 It aims at improving the performance of target learners on target domains by transferring the knowledge contained in difference but related source domains
