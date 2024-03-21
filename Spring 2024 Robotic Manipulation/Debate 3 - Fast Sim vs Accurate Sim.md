@@ -16,6 +16,7 @@
 - real-world: application 
 - simulation such as env easy to access
 - real-world behavior
+- sim2transfer - account fiction / inaccuract in sensor
 - 
 
 
