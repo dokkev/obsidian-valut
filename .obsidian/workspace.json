@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
+                "file": "Spring 2024 Robotic Manipulation/Debate 3 - Fast Sim vs Accurate Sim.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
+                "file": "Spring 2024 Robotic Manipulation/Debate 3 - Fast Sim vs Accurate Sim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
+                "file": "Spring 2024 Robotic Manipulation/Debate 3 - Fast Sim vs Accurate Sim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PLATO/PLATO Embedded System/CAN Protocol Overview.md"
+                "file": "Spring 2024 Robotic Manipulation/Debate 3 - Fast Sim vs Accurate Sim.md"
               }
             }
           }
@@ -221,10 +221,11 @@
   },
   "active": "aff7104ee16a0423",
   "lastOpenFiles": [
-    "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector and Can Utils.md",
-    "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
-    "Spring 2024 Robotic Manipulation/Debate 3 - Fast Sim vs Accurate Sim.md",
+    "Physics Informed Machine Learning/Physical Models from Data Via Optimization.md",
     "Spring 2024 Robotic Manipulation/Home12 - Imitation Learning (Learning).md",
+    "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
+    "PLATO/PLATO Embedded System/Tutorial 0 - USB to CAN Connector and Can Utils.md",
+    "Spring 2024 Robotic Manipulation/Debate 3 - Fast Sim vs Accurate Sim.md",
     "Spring 2024 Robotic Manipulation/Debate 2 - Scaling imitation learning is all we need for general-purpose robotics..md",
     "Spring 2024 Robotic Manipulation/Homework 15 - Simulators for Robotic Manipulation.md",
     "Spring 2024 Robotic Manipulation/Homework 14 - RL (Model-based).md",
@@ -257,7 +258,6 @@
     "Untitled.canvas",
     "Concepts & Knowledge/Finite State Machine.md",
     "Tedrake Underactuated",
-    "Physics Informed Machine Learning/Physical Models from Data Via Optimization.md",
     "conflict-files-obsidian-git.md",
     "Spring 2024 Robotic Manipulation/Lecture 14 - Intro to RL (Decision Making).md",
     "Physics Informed Machine Learning",
