@@ -6,9 +6,10 @@
 - To overcome lack of accuracy in simulation, numerous sim2real transfer techniques such as domain randomization and domain adaptation, meta-learning, and knowledge distillation have been introduced.  
 
 - Speed of the simulation is crucial in RL
-- The nature of RL involves learning by interacting with enviroments requiring numerous trials (samples) to learn policies. Faster simulation allows more interactions in a shorter period of time enhancing the learning process.
+- The nature of RL involves learning by interacting with environments requiring numerous trials (samples) to learn policies. Faster simulation allows more interactions in a shorter period of time enhancing the learning process.
 - RL involves a lot of experimentation with different algorithms, parameters, and models. Fast simulations make it feasible to test more configurations and thus find optimal solutions faster.
-- 
+- For applications requiring real-time decision-making,  fast simulations enable algorithms to learn and adapt in environments close to real-time
+- As the complexity of tasks and environments increases, the need for more computational power and faster simulations becomes critical. Fast simulations ensure that as models and environments grow more complex
 
 
 
