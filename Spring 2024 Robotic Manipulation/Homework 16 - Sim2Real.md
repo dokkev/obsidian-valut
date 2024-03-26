@@ -8,6 +8,6 @@ Compared to human's ability to manipulate different objects in-hand, generalized
 ## What is the clever idea of this paper?
 
 ## How the idea is implemented
-The controller is trained using reinforcement learning (PPO) in a simulated environment to learn the representation of the objects' extrinsic parameters. 
+The controller is trained using reinforcement (PPO) in a simulated environment to learn the representation of the objects' extrinsic parameters and optimize the joint control policy. T
 
 ##  How is success proved and measured?
