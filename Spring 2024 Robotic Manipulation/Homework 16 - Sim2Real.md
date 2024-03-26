@@ -1,7 +1,7 @@
 ## In-Hand Object Rotation via Rapid Motor Adaptation
 
 ## Problem Definition
-
+Compared to human's ability to manipulate different objects in-hand, generalized in-hand manipulation robot has
 
 ## Why the state-of-the-art is not enough for this? Why does it fail?
 
