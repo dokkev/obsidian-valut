@@ -5,6 +5,7 @@ Compared to human's ability to manipulate different objects in-hand, generalized
 
 ## Why the state-of-the-art is not enough for this? Why does it fail?
 
+
 ## What is the clever idea of this paper?
 This method 
 
