@@ -4,10 +4,11 @@
 Compared to human's ability to manipulate different objects in-hand, generalized in-hand manipulation to robot has been an unsolved challenge. Traditional method has demonstrated in-hand manipulation of limited objects using multi-fingered hands, highlighting the complexity of generalized robotic in-hand manipulation.
 
 ## Why the state-of-the-art is not enough for this? Why does it fail?
+This paper only demonstrates rotation in one axis.
 
 
 ## What is the clever idea of this paper?
-This method consists of two parts: base policy and adaptation module training, and this provide robustness when deploying to real world compared to end-to-end policy. This method does not rely on sensors such as cameras or force/torque sensors, and the controller can be deployed without fine-tuning. 
+This method consists of two parts: base policy and adaptation module training, and this provides robustness when deploying to real world compared to end-to-end policy. This method does not rely on sensors such as cameras or force/torque sensors, and the controller can be deployed without fine-tuning. 
 
 ## How the idea is implemented
 The controller is trained using reinforcement (PPO) in a simulated environment to learn the representation of the objects' extrinsic parameters and optimize the joint control policy. 
