@@ -7,7 +7,7 @@ Compared to human's ability to manipulate different objects in-hand, generalized
 
 
 ## What is the clever idea of this paper?
-This method does not rely on sensors such as cameras or force/torque sensors. 
+This method does not rely on sensors such as cameras or force/torque sensors, and the controller can be deployed without fine-tuning. To overcome 
 
 ## How the idea is implemented
 The controller is trained using reinforcement (PPO) in a simulated environment to learn the representation of the objects' extrinsic parameters and optimize the joint control policy. 
