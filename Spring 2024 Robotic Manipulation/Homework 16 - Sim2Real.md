@@ -14,4 +14,4 @@ The controller is trained using reinforcement (PPO) in a simulated environment t
 The base policy is trained with object properties. Then the adaptation module is trained to infer a low-dimensional embedding of the object’s properties such as size and mass from revision joint angles and action history, which is then used by the base policy to rotate the object.
 
 ##  How is success proved and measured?
-The policy is tested with both simulated and real-robotic hand (16 DOF) and compared to the baseline policies. 
+The policy is tested with both simulated and real-robotic hand (16 DOF) and compared to the baseline policies over 30 diverse objects. The metrics of evaluations are: rotations, 
