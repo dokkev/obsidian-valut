@@ -8,6 +8,6 @@ Compared to human's ability to manipulate different objects in-hand, generalized
 ## What is the clever idea of this paper?
 
 ## How the idea is implemented
-
+The controller is trained using reinforcement learning in a simulated environment to 
 
 ##  How is success proved and measured?
