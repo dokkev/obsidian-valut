@@ -4,7 +4,7 @@
 Compared to human's ability to manipulate different objects in-hand, generalized in-hand manipulation to robot has been an unsolved challenge. Traditional method has demonstrated in-hand manipulation of limited objects using multi-fingered hands, highlighting the complexity of generalized robotic in-hand manipulation.
 
 ## Why the state-of-the-art is not enough for this? Why does it fail?
-This paper only demonstrates rotation in one axis.
+While this paper only demonstrates rotation in one axis, dexterous-manipulation task requires movement in SO(3). Since the policy only relie
 
 
 ## What is the clever idea of this paper?
