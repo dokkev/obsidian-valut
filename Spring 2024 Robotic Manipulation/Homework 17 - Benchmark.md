@@ -9,4 +9,4 @@ The need for benchmark arises from the current limitations of robotics and AI in
 BEHAVIOR-1K comprises a diverse set of activities, scenes, and objects from physical and semantic properties.  OMNIGIBSON supports the simulation of these activities with realistic physics with various materials to enable complex interactions with environments.
 
 ##  How is success proved and measured?
-Success is measured through experiments that evaluate state-of-the-art reinforcement learning algorithms on several activities within BEHAVIOR-1K
+Success is measured through experiments that evaluate reinforcement learning algorithms on several activities within BEHAVIOR-1K by evaluating sucess rates, efficiency, and sim-to-real gap analysis.
