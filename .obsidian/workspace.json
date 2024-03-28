@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 16 - Sim2Real.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 17 -.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 17 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 17 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md"
+                "file": "Spring 2024 Robotic Manipulation/Homework 17 -.md"
               }
             }
           }
@@ -219,8 +219,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5444ba93733c14bf",
+  "active": "aff7104ee16a0423",
   "lastOpenFiles": [
+    "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
+    "Spring 2024 Robotic Manipulation/Homework 17 -.md",
     "Spring 2024 Robotic Manipulation/Lecture 16 - Sim2Real.md",
     "Spring 2024 Robotic Manipulation/Homework 13 - RL (Learning).md",
     "Spring 2024 Robotic Manipulation/Homework 14 - RL (Model-based).md",
@@ -235,7 +237,6 @@
     "Spring 2024 Robotic Manipulation/Lecture 15 - RL (Model-free).md",
     "Spring 2024 Robotic Manipulation/Homework 12 - RL (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Lecture 15 - RL (Model-free Learning).md",
-    "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
     "Tedrake Underactuated/img_source/Pasted image 20240304165853.png",
     "Tedrake Underactuated/Lecture 1.md",
     "Spring 2024 Robotic Manipulation/Homework 11 - Imitation Learning (Learning 2).md",
@@ -258,7 +259,6 @@
     "Reinforcement Learning/Mujoco vs Issac Gym.md",
     "Concepts & Knowledge/Operational Space Control.md",
     "Untitled.canvas",
-    "Concepts & Knowledge/Finite State Machine.md",
     "Tedrake Underactuated",
     "Physics Informed Machine Learning",
     "Concepts & Knowledge/img_source",
