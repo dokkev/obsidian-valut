@@ -6,6 +6,6 @@ The need for benchmark arises from the current limitations of robotics and AI in
 ## What is the clever idea of this paper?
 
 ## How the idea is implemented
-BEHAVIOR-K comprises a diverse set of act
+BEHAVIOR-1K comprises a diverse set of activities, scenes, and objects from physical and semantic prorperties
 
 ##  How is success proved and measured?
