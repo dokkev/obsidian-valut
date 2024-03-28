@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 17 -.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 17 - Benchmark.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 17 -.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 17 - Benchmark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 17 -.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 17 - Benchmark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 17 -.md"
+                "file": "Spring 2024 Robotic Manipulation/Homework 17 - Benchmark.md"
               }
             }
           }
@@ -221,13 +221,13 @@
   },
   "active": "aff7104ee16a0423",
   "lastOpenFiles": [
+    "Spring 2024 Robotic Manipulation/Homework 16 - Sim2Real.md",
+    "Spring 2024 Robotic Manipulation/Homework 17 - Benchmark.md",
     "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
-    "Spring 2024 Robotic Manipulation/Homework 17 -.md",
     "Spring 2024 Robotic Manipulation/Lecture 16 - Sim2Real.md",
     "Spring 2024 Robotic Manipulation/Homework 13 - RL (Learning).md",
     "Spring 2024 Robotic Manipulation/Homework 14 - RL (Model-based).md",
     "Spring 2024 Robotic Manipulation/Homework 15 - Simulators for Robotic Manipulation.md",
-    "Spring 2024 Robotic Manipulation/Homework 16 - Sim2Real.md",
     "Spring 2024 Robotic Manipulation/Debate 3 - Fast Sim vs Accurate Sim.md",
     "Physics Informed Machine Learning/Physical Models from Data Via Optimization.md",
     "Spring 2024 Robotic Manipulation/Home12 - Imitation Learning (Learning).md",
