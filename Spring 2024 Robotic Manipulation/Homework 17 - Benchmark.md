@@ -2,7 +2,7 @@
 The need for benchmark arises from the current limitations of robotics and AI in performing long-horizon tasks for human-centered tasks involving complex manipulations tasks. Despite existing benchmarks in simulation, there is a lack of a comprehensive benchmark that addresses the real world diversity of human needs such as activities that humans perform daily, from basic cleaning tasks to more complex interactions with a variety of objects and environment and the physics simulation which can accurately represent physical properties which are necessary for training effective robots.
 
 ## Why the state-of-the-art is not enough for this? Why does it fail?
-They cannot accurately simulate the physical properties of real-world scenarios, such as the interaction between rigid and deformable objects or the manipulation of liquids, which are crucial for performing everyday tasks. The tasks have to be pre-defined
+They cannot accurately simulate the physical properties of real-world scenarios, such as the interaction between rigid and deformable objects or the manipulation of liquids, which are crucial for performing everyday tasks. 
 
 ## What is the clever idea of this paper?
 
