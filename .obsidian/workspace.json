@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fcfa3cad01bcd2d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring 2024 Robotic Manipulation/Lecture 16 - Sim2Real.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,7 +195,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ad94cd229e1c308b",
+  "active": "fcfa3cad01bcd2d7",
   "lastOpenFiles": [
     "Spring 2024 Robotic Manipulation/Homework 17 - Benchmark.md",
     "Spring 2024 Robotic Manipulation/Lecture 13 - RT.md",
