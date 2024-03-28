@@ -146,8 +146,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8765e6c4d80dbb8a",
+  "active": "5444ba93733c14bf",
   "lastOpenFiles": [
+    "C++ Learning",
     "PLATO/PLATO Hand/ROS2 SocketCAN.md",
     "PLATO/PLATO Hand/Robotic Fingernail.md",
     "PLATO/Canvas.canvas",
@@ -187,7 +188,6 @@
     "Physics Informed Machine Learning/Physical Models from Data Via Optimization.md",
     "Physics Informed Machine Learning",
     "Spring 2024 Robotic Manipulation/Lecture 12 - Imitation Learning (Learning).md",
-    "Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md",
     "Concepts & Knowledge/img_source",
     "Spring 2024 Robotic Manipulation",
     "Tedrake Robotic Manipulation",
