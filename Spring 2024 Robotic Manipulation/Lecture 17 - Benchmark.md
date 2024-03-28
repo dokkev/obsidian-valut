@@ -9,4 +9,4 @@
 ### Embodies AI solution
 - Physical integration
 	- merges AI with a physical entity
-
+### Technical chal
