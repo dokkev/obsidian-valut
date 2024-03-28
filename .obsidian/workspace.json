@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4e217b47a09de85f",
+        "id": "39e1d8043d25025f",
         "type": "tabs",
         "children": [
           {
-            "id": "d9e323580a35228f",
+            "id": "8765e6c4d80dbb8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Lecture 15 - RL (Model-free Learning).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef0ea9e36b9a376b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa238ec827f53cc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2024 Robotic Manipulation/Lecture 15 - RL (Model-free).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad94cd229e1c308b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2024 Robotic Manipulation/Lecture 16 - Sim2Real.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcfa3cad01bcd2d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2024 Robotic Manipulation/Lecture 16 - Sim2Real.md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 17 - Benchmark.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Lecture 16 - Sim2Real.md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 17 - Benchmark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Lecture 16 - Sim2Real.md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 17 - Benchmark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Lecture 16 - Sim2Real.md"
+                "file": "Spring 2024 Robotic Manipulation/Lecture 17 - Benchmark.md"
               }
             }
           }
@@ -195,11 +146,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fcfa3cad01bcd2d7",
+  "active": "8765e6c4d80dbb8a",
   "lastOpenFiles": [
+    "Spring 2024 Robotic Manipulation/Lecture 17 - Benchmark.md",
+    "Spring 2024 Robotic Manipulation/Lecture 16 - Sim2Real.md",
     "Spring 2024 Robotic Manipulation/Homework 17 - Benchmark.md",
     "Spring 2024 Robotic Manipulation/Lecture 13 - RT.md",
-    "Spring 2024 Robotic Manipulation/Lecture 16 - Sim2Real.md",
     "Spring 2024 Robotic Manipulation/Lecture 15 - RL (Model-free).md",
     "Spring 2024 Robotic Manipulation/Debate 3 - Fast Sim vs Accurate Sim.md",
     "Spring 2024 Robotic Manipulation/Homework 16 - Sim2Real.md",
@@ -235,7 +187,6 @@
     "PLATO/Optimo User Guide.md",
     "Spring 2024 Robotic Manipulation/Homework 9 - Imitation Learning (Fundamental).md",
     "Spring 2024 Robotic Manipulation/Debate 1 -  Reward is not the most important in RL.md",
-    "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
     "Concepts & Knowledge/img_source",
     "Spring 2024 Robotic Manipulation",
     "Tedrake Robotic Manipulation",
