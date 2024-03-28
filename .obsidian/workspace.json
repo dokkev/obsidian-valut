@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 17 - Benchmark.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 17 - Benchmark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 17 - Benchmark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PLATO/PLATO Embedded System/CAN Protocol Overview.md"
+                "file": "Spring 2024 Robotic Manipulation/Lecture 17 - Benchmark.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5444ba93733c14bf",
+  "active": "8765e6c4d80dbb8a",
   "lastOpenFiles": [
+    "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
     "C++ Learning",
     "PLATO/PLATO Hand/ROS2 SocketCAN.md",
     "PLATO/PLATO Hand/Robotic Fingernail.md",
@@ -193,7 +194,6 @@
     "Tedrake Robotic Manipulation",
     "Reinforcement Learning/img_source",
     "Reinforcement Learning",
-    "Concepts & Knowledge",
-    "NVIDIA Isaac Sim"
+    "Concepts & Knowledge"
   ]
 }
