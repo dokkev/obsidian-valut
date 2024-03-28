@@ -1,5 +1,5 @@
 ## Problem Definition
-The need for benchmark arises from the current limitations of robotics and AI in performing long-horizon tasks for human-centered tasks involving complex manipulations tasks. Despite existing benchmarks in simulation, there is a lack of a comprehensive benchmark that addresses the real world diversity of human needs and the physical realism necessary for training effective robots.
+The need for benchmark arises from the current limitations of robotics and AI in performing long-horizon tasks for human-centered tasks involving complex manipulations tasks. Despite existing benchmarks in simulation, there is a lack of a comprehensive benchmark that addresses the real world diversity of human needs such as do not cover the broad range of activities that humans perform daily, from basic cleaning tasks to more complex interactions with a variety of objects and environments.and the physical realism necessary for training effective robots.
 
 ## Why the state-of-the-art is not enough for this? Why does it fail?
 
