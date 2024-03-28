@@ -6,6 +6,6 @@ The need for benchmark arises from the current limitations of robotics and AI in
 ## What is the clever idea of this paper?
 
 ## How the idea is implemented
-BEHAVIOR-1K comprises a diverse set of activities, scenes, and objects from physical and semantic properties.  OMNIGIBSON supports the simulation of these activities with realistic physics
+BEHAVIOR-1K comprises a diverse set of activities, scenes, and objects from physical and semantic properties.  OMNIGIBSON supports the simulation of these activities with realistic physics with various materials
 
 ##  How is success proved and measured?
