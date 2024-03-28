@@ -4,9 +4,9 @@ The need for benchmark arises from the current limitations of robotics and AI in
 ## Why the state-of-the-art is not enough for this? Why does it fail?
 
 ## What is the clever idea of this paper?
-
+They cannot accurately simulate the physical properties of real-world scenarios, such as the interaction between rigid and deformable objects or the manipulation of liquids, which are crucial for performing everyday tasks.
 ## How the idea is implemented
 BEHAVIOR-1K comprises a diverse set of activities, scenes, and objects from physical and semantic properties of 1,000 every day activities defined over 50 different scenes over 5,000 objects.  OMNIGIBSON is built upon Nvidia's Omniverse PhysX to support the simulation of these activities with realistic physics with various materials to enable complex interactions with environments.
 
 ##  How is success proved and measured?
-Success is measured through experiments that evaluate reinforcement learning algorithms on several activities within BEHAVIOR-1K by evaluating success rates, efficiency, and sim-to-real gap analysis. Success rates are evaluated by task completion rate compared to baseline methods over long-horizon activities. Efficiency is evaluated by the use of memory and unnecessary movement of objects, and sim-to-real
+Success is measured through experiments that evaluate reinforcement learning algorithms on several activities within BEHAVIOR-1K by evaluating success rates, efficiency, and sim-to-real gap analysis. Success rates are evaluated by task completion rate compared to baseline methods over long-horizon activities. Efficiency is measured by the use of memory and unnecessary movement of objects, and sim-to-real gap is investigated into the discrepancies between simulation results and real-world application. 
