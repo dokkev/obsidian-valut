@@ -9,4 +9,4 @@ The need for benchmark arises from the current limitations of robotics and AI in
 BEHAVIOR-1K comprises a diverse set of activities, scenes, and objects from physical and semantic properties of 1,000 every day activities defined over 50 different scenes over 5,000 objects.  OMNIGIBSON is built upon Nvidia's Omniverse PhysX to support the simulation of these activities with realistic physics with various materials to enable complex interactions with environments.
 
 ##  How is success proved and measured?
-Success is measured through experiments that evaluate reinforcement learning algorithms on several activities within BEHAVIOR-1K by evaluating success rates, efficiency, and sim-to-real gap analysis. Success rates are evaluated by task completion 
+Success is measured through experiments that evaluate reinforcement learning algorithms on several activities within BEHAVIOR-1K by evaluating success rates, efficiency, and sim-to-real gap analysis. Success rates are evaluated by task completion rate comparted to baseline methods over long-horizon activities
