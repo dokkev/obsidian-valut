@@ -5,7 +5,7 @@ The need for benchmark arises from the current limitations of robotics and AI in
 They cannot accurately simulate the physical properties of real-world scenarios, such as the interaction between rigid and deformable objects or the manipulation of liquids, which are crucial for performing everyday tasks. 
 
 ## What is the clever idea of this paper?
-The benchmark is built upon an survey identifying activities humans wants robots could perform, ensuring relevance and diversity, and it addre highly realistic physics simulation and rendering, including the handling of rigid bodies,
+The benchmark is built upon a survey identifying activities humans wants robots could perform, ensuring relevance and diversity, and it addresses highly realistic physics simulation and rendering which is crucial for vision-based manipulation tasks.
 
 ## How the idea is implemented
 BEHAVIOR-1K comprises a diverse set of activities, scenes, and objects from physical and semantic properties of 1,000 every day activities defined over 50 different scenes over 5,000 objects.  OMNIGIBSON is built upon Nvidia's Omniverse PhysX to support the simulation of these activities with realistic physics with various materials to enable complex interactions with environments.
