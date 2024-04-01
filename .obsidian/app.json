@@ -32,7 +32,6 @@
     "underactuated",
     "quaternion",
     "computer",
-    "MuJoCo",
-    "environmen"
+    "MuJoCo"
   ]
 }
