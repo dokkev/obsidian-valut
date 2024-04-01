@@ -7,3 +7,4 @@ RNNs, GRUs, and LSTMs are applied to NLP tasks such as text generation, sentimen
 These methods have significantly advanced the field of NLP by enabling more effective handling of sequential data, capturing long-range dependencies within the text, and improving the accuracy of predictive models in tasks such as machine translation and question-answering systems. They can be used in text generation, sentiment analysis, language translation, speech recognition, and more.
 
 ## Assumptions and limitations
+The assumption that sequential data can be adequately modeled using these networks may not always hold, especially for highly complex or non-sequential data patterns. The document highlights issues such as the vanishing and exploding gradient problems that can affect the training of deep RNNs. Although GRUs and LSTMs mitigate some of these issues through their gating mechanisms, challenges in training efficiency and computational resources remain.
