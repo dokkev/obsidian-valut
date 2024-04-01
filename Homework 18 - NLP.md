@@ -1,6 +1,6 @@
 ## CS224n: Natural Language Processing with Deep Learning
 ## Problem Definition
-This tutorial includes comprehensive lectures of natural language processing (NLP) using RNN, GRUs, and LSTM networks. NLP models aim to compute the probability of occurrence of a sequence of words
+This tutorial includes comprehensive lectures of natural language processing (NLP) using RNN, GRUs, and LSTM networks. NLP models aim to compute the probability of occurrence of a sequence of words to perform tasks such as speech recognition. The author introduces how languages models predict the likelihood
 ## Summary of the methodology presented: algorithm, input-output
 
 ## Applicability / Problems solved
