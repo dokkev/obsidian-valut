@@ -2,7 +2,7 @@
 ## Problem Definition
 This tutorial includes comprehensive lectures of natural language processing (NLP) using RNN, GRUs, and LSTM networks. NLP models aim to compute the probability of occurrence of a sequence of words to perform tasks such as speech recognition. The author introduces how languages models predict the likelihood of word sequences from utilizing historical data to inform future predictions.
 ## Summary of the methodology presented: algorithm, input-output
-RNNs, GRUs, and LSTMs are applied to NLP tasks such as text generation, sentiment analysis, language translation, and speech recognition. These models capture long-range dependencies within the text. RNN can handle sequences of any length by maintaining a hidden state that captures information from previous inputs. GRUs improve upon RNN 
+RNNs, GRUs, and LSTMs are applied to NLP tasks such as text generation, sentiment analysis, language translation, and speech recognition. These models capture long-range dependencies within the text. RNN can handle sequences of any length by maintaining a hidden state that captures information from previous inputs. GRUs improve upon RNN by introducing gating mechanisms to control the flow of information. LSTMs are designed to overcome RNN's 
 ## Applicability / Problems solved
 
 ## Assumptions and limitations
