@@ -107,9 +107,11 @@
             "id": "f37189d3529ef2b1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Spring 2024 Robotic Manipulation/Homework 18 -.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -180,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework 18 - NLP.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 18 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework 18 - NLP.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 18 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework 18 - NLP.md"
+                "file": "Spring 2024 Robotic Manipulation/Homework 18 -.md"
               }
             }
           }
@@ -241,15 +243,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f37189d3529ef2b1",
+  "active": "5444ba93733c14bf",
   "lastOpenFiles": [
+    "Spring 2024 Robotic Manipulation/Homework 17 - Benchmark.md",
+    "Spring 2024 Robotic Manipulation/Homework 18 -.md",
+    "Spring 2024 Robotic Manipulation/Homework - Variable Impedance Control in End-Effector Space- An Action Space for Reinforcement Learning in Contact-Rich Tasks.md",
+    "Spring 2024 Robotic Manipulation/Homework 16 - Sim2Real.md",
     "Spring 2024 Robotic Manipulation/Homework 14 - RL (Model-based).md",
     "Homework 18 - NLP.md",
     "Spring 2024 Robotic Manipulation/Homework 13 - RL (Learning).md",
     "Spring 2024 Robotic Manipulation/Homework 15 - Simulators for Robotic Manipulation.md",
-    "Spring 2024 Robotic Manipulation/Homework 17 - Benchmark.md",
     "Spring 2024 Robotic Manipulation/Lecture 17 - Benchmark.md",
-    "Spring 2024 Robotic Manipulation/Homework 16 - Sim2Real.md",
     "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
     "Spring 2024 Robotic Manipulation/Lecture 16 - Sim2Real.md",
     "Spring 2024 Robotic Manipulation/Debate 3 - Fast Sim vs Accurate Sim.md",
@@ -278,8 +282,6 @@
     "Concepts & Knowledge/img_source/Pasted image 20240304142909.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304132749.png",
     "Tedrake Underactuated/img_source",
-    "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
-    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
     "Untitled.canvas",
     "Tedrake Underactuated",
     "Physics Informed Machine Learning",
