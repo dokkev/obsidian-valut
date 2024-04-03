@@ -8,8 +8,6 @@ Humans use different modalities such as speech, text, images, videos, etc. to ef
 ## What is the clever idea of this paper?
 
 ## How the idea is implemented
-The idea is implemented through a two-stage training procedure that includes Mask Modeling and Cross-Modal Matching, combined with a behavior cloning objective for policy learning to foster cross-modal interactions.
-
-
+The idea is implemented through a two-stage training procedure that includes Mask Modeling and Cross-Modal Matching, combined with a behavior cloning objective for policy learning to foster cross-modal interactions. This improves each modality with information from the information-denser one to ensure the learned representation contains relevant information for the agent to perform the manipulation task.
 ##  How is success proved and measured?
-
+The expecomprehensive evaluations on a newly constructed dataset of multimodal task specifications, with a split of 80%/20% tasks for training and testing. The model's performance is compared to modality-specific models and evaluated across different modalities to demonstrate the improved performance over methods trained specifically for any single modality. This includes evaluating the task specification representations learned by M UTEX and its ability to execute tasks with a single specification in any of the learned modalities or with multiple specifications in several of the modalities
