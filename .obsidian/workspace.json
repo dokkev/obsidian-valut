@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework 18 - NLP.md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 18 - NLP.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 18 - Language in Robot Manipulation (Learning).md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 19 - Language in Robot Manipulation (Learning).md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 18 - Language in Robot Manipulation (Learning).md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 19 - Language in Robot Manipulation (Learning).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 18 - Language in Robot Manipulation (Learning).md",
+                "file": "Spring 2024 Robotic Manipulation/Homework 19 - Language in Robot Manipulation (Learning).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Homework 18 - Language in Robot Manipulation (Learning).md"
+                "file": "Spring 2024 Robotic Manipulation/Homework 19 - Language in Robot Manipulation (Learning).md"
               }
             }
           }
@@ -245,13 +245,13 @@
   },
   "active": "f37189d3529ef2b1",
   "lastOpenFiles": [
+    "Spring 2024 Robotic Manipulation/Homework 18 - NLP.md",
+    "Spring 2024 Robotic Manipulation/Homework 19 - Language in Robot Manipulation (Learning).md",
+    "Spring 2024 Robotic Manipulation/Homework 17 - Benchmark.md",
     "Spring 2024 Robotic Manipulation/Homework - Variable Impedance Control in End-Effector Space- An Action Space for Reinforcement Learning in Contact-Rich Tasks.md",
     "Spring 2024 Robotic Manipulation/Homework 1.md",
-    "Spring 2024 Robotic Manipulation/Homework 18 - Language in Robot Manipulation (Learning).md",
-    "Spring 2024 Robotic Manipulation/Homework 17 - Benchmark.md",
     "Spring 2024 Robotic Manipulation/Homework 16 - Sim2Real.md",
     "Spring 2024 Robotic Manipulation/Homework 14 - RL (Model-based).md",
-    "Homework 18 - NLP.md",
     "Spring 2024 Robotic Manipulation/Homework 13 - RL (Learning).md",
     "Spring 2024 Robotic Manipulation/Homework 15 - Simulators for Robotic Manipulation.md",
     "Spring 2024 Robotic Manipulation/Lecture 17 - Benchmark.md",
