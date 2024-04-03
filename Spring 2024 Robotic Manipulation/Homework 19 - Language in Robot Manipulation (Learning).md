@@ -8,7 +8,7 @@ Humans use different modalities such as speech, text, images, videos, etc. to ef
 ## What is the clever idea of this paper?
 
 ## How the idea is implemented
-The idea is implemented through a two-stage training procedure that includes Mask Modeling and Cross-Modal Matching, combined with a behavior cloning objective for policy learning.
+The idea is implemented through a two-stage training procedure that includes Mask Modeling and Cross-Modal Matching, combined with a behavior cloning objective for policy learning to foster cross-modal interactions.
 
 
 ##  How is success proved and measured?
