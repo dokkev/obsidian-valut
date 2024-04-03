@@ -4,7 +4,7 @@
 Humans use different modalities such as speech, text, images, videos, etc. to effectively communicate, and the author addresses the challenge of developing policies that can reason about multimodal task specifications for diverse manipulation tasks. Each task is defined in a single modality that changes from task to task, leveraging the strengths of different modalities like goal descriptions and step-by-step video demonstrations to improve the model’s ability to execute tasks specified in different modalities
 
 ## Why the state-of-the-art is not enough for this? Why does it fail?
-This method assumes that paired access to all the task specification modalities, which may be challenging to obtain in a scalable manner, since collecting synchronized and equivalent task specifications across all modalities may be expensive or not feasible. In addition, usage of synthesized voice 
+This method assumes that paired access to all the task specification modalities, which may be challenging to obtain in a scalable manner, since collecting synchronized and equivalent task specifications across all modalities may be expensive or not feasible. In addition, usage of synthesized voice may not accurately represent real-world's noisy and unclear voice. 
 
 ## What is the clever idea of this paper?
 This method can provide unified policies capable of reasoning about multimodal task specifications for diverse manipulation tasks. This involves leveraging the complementary strengths of different modalities and improving the robustness of task execution for every single modality.
