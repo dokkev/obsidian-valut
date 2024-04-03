@@ -102,9 +102,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f37189d3529ef2b1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -231,7 +241,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "049351065c29183c",
+  "active": "f37189d3529ef2b1",
   "lastOpenFiles": [
     "Spring 2024 Robotic Manipulation/Homework 14 - RL (Model-based).md",
     "Homework 18 - NLP.md",
