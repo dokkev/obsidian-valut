@@ -6,6 +6,7 @@ Humans use different modalities such as speech, text, images, videos, etc. to ef
 ## Why the state-of-the-art is not enough for this? Why does it fail?
 
 ## What is the clever idea of this paper?
+This method can provide unified policies capable of reasoning about multimodal task specifications for diverse manipulation tasks. This involves leveraging the complementary strengths of different modalities and improving the robustness of task execution for every single modality.
 
 ## How the idea is implemented
 The idea is implemented through a two-stage training procedure that includes Mask Modeling and Cross-Modal Matching, combined with a behavior cloning objective for policy learning to foster cross-modal interactions. This improves each modality with information from the information-denser one to ensure the learned representation contains relevant information for the agent to perform the manipulation task.
