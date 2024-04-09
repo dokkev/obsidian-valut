@@ -1,3 +1,6 @@
 ### Abstract
-- Data driven MPC has advantages that it could improve sample efficiency and better performance with increased computational budget
-- 
+- Data driven MPC has advantages:
+	- could improve sample efficiency 
+	- better performance with increased computational budget
+- We combine the strengths of model and model-free
+	- learmed task
