@@ -12,4 +12,4 @@ Generality vs. Assumptions: Discusses the need for general solutions while ackno
 ## Applicability / Problems solved
 It addresses the problem of autonomously picking and placing diverse objects from a cluttered warehouse shelf, under varying and challenging conditions such as lighting and object placement.
 ## Assumptions and limitations
-This method assumes the value of tightly integrated systems and the importance of embodying computation into hardware where feasible. It acknowledges limitations, including the challenge of dealing with unexpected object orientations and the need for further exploration in planning for in-bin object reorientation. The methodology suggests that while certain general principles can guide system building, specific assumptions about the task and environment are crucial for success.
+This method assumes the value of tightly integrated systems and the importance of embodying computation into hardware where feasible. Limitations involves dealing with unexpected object orientations and the need for further exploration in planning for in-bin object reorientation. 
