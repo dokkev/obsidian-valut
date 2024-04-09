@@ -10,5 +10,6 @@ Planning vs. Feedback: Highlights the trade-off between planning (searching in a
 Generality vs. Assumptions: Discusses the need for general solutions while acknowledging the importance of making reasonable assumptions to tackle manipulation challenges in unstructured environments effectively.
 
 ## Applicability / Problems solved
-
+It addresses the problem of autonomously picking and placing diverse objects from a cluttered warehouse shelf, under varying and challenging conditions such as lighting and object placement.
 ## Assumptions and limitations
+This method assumes the value of tightly integrated systems and the importance of embodying computation into hardware where feasible. It acknowledges limitations, including the challenge of dealing with unexpected object orientations and the need for further exploration in planning for in-bin object reorientation. The methodology suggests that while certain general principles can guide system building, specific assumptions about the task and environment are crucial for success.
