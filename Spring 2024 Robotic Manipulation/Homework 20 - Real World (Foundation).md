@@ -8,7 +8,7 @@ The methodology is characterized by its approach to system building along four k
 - Computation vs. Embodiment: 
 - Planning vs. Feedback: 
 - Generality vs. Assumptions: 
-Using a holonomic mobile 7-dof manipulator with suction-cup gripper, FT sensor, RGBD camera, laser range finder, two motion generations which are top-down and side picking are used depends on likelihood of success. The robot's motion is governed by sensor feedback and planning. From RGB-D camera, object features are extracted and bounding boxes are created  
+Using a holonomic mobile 7-dof manipulator with suction-cup gripper, FT sensor, RGBD camera, laser range finder, two motion generations which are top-down and side picking are used depends on likelihood of success. The robot's motion is governed by sensor feedback and planning. From RGB-D camera, object features are extracted and bounding boxes are created.   
 ## Applicability / Problems solved
 It addresses the problem of autonomously picking and placing diverse objects from a cluttered warehouse shelf, under varying and challenging conditions such as lighting and object placement. This method can be applied to light objects warehouse automation without cumbersome parameters tuning. 
 ## Assumptions and limitations
