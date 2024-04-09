@@ -5,3 +5,4 @@
 - We combine the strengths of model and model-free
 	- learned task-oriented latent dynamics model for local trajectory optimization over short horizon
 	- learned terminal value function to estimate long-term return
+- As a result, TD-MPC achieves superior sample efficiency and asymptotic performance on both sate and image-based continous control tasks
