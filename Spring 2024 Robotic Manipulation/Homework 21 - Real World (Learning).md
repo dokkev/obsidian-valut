@@ -6,7 +6,7 @@ It is challenging to deploy autonomous learning robotic systems in real-world wi
 ## Why the state-of-the-art is not enough for this? Why does it fail?
 
 ## What is the clever idea of this paper?
-
+The paper proposes a system that learns directly from visual inputs without manual resets or engineered reward functions. Reset-free reinforcement learning uses a perturbation controller and unsupervised representation learning. This approach enables the learning of complex behaviors in robots directly from raw sensory data, reducing the human interventions
 ## How the idea is implemented
 The idea is implemented through a combination of vision-based reinforcement learning (RL) using actor-critic algorithms, a vision-based goal classifier for rewards, and reset-free learning. The system employs variational inverse control with events (VICE) for reward specification and a variational autoencoder (VAE) for handling visual observations. This allows the robot to learn and adapt its behavior based on its sensory inputs and the outcomes of its actions, effectively navigating the complexities of real-world tasks without pre-programmed resets .
 ##  How is success proved and measured?
