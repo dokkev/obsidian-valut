@@ -6,4 +6,4 @@
 
 
 ## Scalability of the system
-- 
+- This is also addressed in the paper today. 
