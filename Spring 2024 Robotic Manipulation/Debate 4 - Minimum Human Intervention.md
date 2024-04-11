@@ -6,7 +6,7 @@
 
 
 ## Scalability of the system
-- This is also addressed in the paper today. Using reinforcement learning without human intervention can continuously improve the policy. It assigns rewards to their own trials and autonomously collects large amount of real-world data.
+- Using reinforcement learning without human intervention can continuously improve the policy. It assigns rewards to their own trials and autonomously collects large amount of real-world data.
 - unsupervised learning, can continuously adapt to new data or environments without the need for constant human oversight.
 - Autonomous systems can be designed to continuously learn and improve from new data, leading to progressively better performance over time. This is in contrast to systems requiring human intervention, where updates or improvements may be implemented more slowly due to the need for human analysis and decision-making
 
