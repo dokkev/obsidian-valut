@@ -6,4 +6,4 @@
 
 
 ## Scalability of the system
-- This is also addressed in the paper today. 
+- This is also addressed in the paper today. Using reinforcement learning can continously improve the policy. 
