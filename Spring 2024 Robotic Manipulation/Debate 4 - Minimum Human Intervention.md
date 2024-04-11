@@ -11,4 +11,6 @@
 - One famous example is from Nature journal, called Mastering the game of Go without human knowledge. AlphaGo Zero is trained solely on reinforcement learning without human data. As a result, AlphaGo Zero achieved super human performance defeating AlphaGo.
 
 ## Eliminating Human Bias
-- Human intervention introduces  human bias during data handling and decision making processes. 
+- Human intervention introduces  human bias during data handling and decision making processes..
+- autonomous learning systems can make decisions based on data and predefined algorithms, leading to more objective and consistent outcomes.
+- autonomous systems are not limited by human preconceptions or existing knowledge and can therefore explore a broader range of solutions to a given problem
