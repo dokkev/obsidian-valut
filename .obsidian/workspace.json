@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8720c173c7eee3d6",
+        "id": "39e1d8043d25025f",
         "type": "tabs",
         "children": [
           {
-            "id": "6c27d23ef28ec93a",
+            "id": "8765e6c4d80dbb8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Debate 4 - Minimum Human Intervention.md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 19 - Multimodal Task.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "c15f7e551bb8ae20",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Debate 4 - Minimum Human Intervention.md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 19 - Multimodal Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Debate 4 - Minimum Human Intervention.md",
+                "file": "Spring 2024 Robotic Manipulation/Lecture 19 - Multimodal Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Debate 4 - Minimum Human Intervention.md"
+                "file": "Spring 2024 Robotic Manipulation/Lecture 19 - Multimodal Task.md"
               }
             }
           }
@@ -146,55 +146,54 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6c27d23ef28ec93a",
+  "active": "8765e6c4d80dbb8a",
   "lastOpenFiles": [
     "Spring 2024 Robotic Manipulation/Homework 21 - Real World (Learning).md",
     "Spring 2024 Robotic Manipulation/Debate 4 - Minimum Human Intervention.md",
-    "Spring 2024 Robotic Manipulation/Homework 19 - Language in Robot Manipulation (Learning).md",
-    "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
-    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
     "SIm2Real/TDMPC.md",
-    "Spring 2024 Robotic Manipulation/Homework 20 - Real World (Foundation).md",
     "SIm2Real",
-    "Spring 2024 Robotic Manipulation/Homework 12 - RL (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Homework 18 - NLP.md",
-    "Spring 2024 Robotic Manipulation/Homework 14 - RL (Model-based).md",
-    "Spring 2024 Robotic Manipulation/Homework 15 - Simulators for Robotic Manipulation.md",
-    "Spring 2024 Robotic Manipulation/Homework 11 - Imitation Learning (Learning 2).md",
-    "Spring 2024 Robotic Manipulation/Debate 2 - Scaling imitation learning is all we need for general-purpose robotics..md",
-    "Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Lecture 19 - Multimodal Task.md",
-    "Spring 2024 Robotic Manipulation/Homework 17 - Benchmark.md",
-    "Spring 2024 Robotic Manipulation/Homework - Variable Impedance Control in End-Effector Space- An Action Space for Reinforcement Learning in Contact-Rich Tasks.md",
-    "Spring 2024 Robotic Manipulation/Homework 1.md",
-    "Spring 2024 Robotic Manipulation/Homework 16 - Sim2Real.md",
-    "Spring 2024 Robotic Manipulation/Homework 13 - RL (Learning).md",
+    "Spring 2024 Robotic Manipulation/Homework 20 - Real World (Foundation).md",
     "Spring 2024 Robotic Manipulation/Lecture 17 - Benchmark.md",
-    "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
+    "Spring 2024 Robotic Manipulation/Lecture 19 - Multimodal Task.md",
+    "Spring 2024 Robotic Manipulation/Homework 19 - Language in Robot Manipulation (Learning).md",
+    "Spring 2024 Robotic Manipulation/Homework 18 - NLP.md",
+    "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
+    "C++ Learning",
+    "PLATO/PLATO Hand/ROS2 SocketCAN.md",
+    "PLATO/PLATO Hand/Robotic Fingernail.md",
+    "PLATO/Canvas.canvas",
+    "PLATO/Account Info.md",
     "Spring 2024 Robotic Manipulation/Lecture 16 - Sim2Real.md",
+    "Spring 2024 Robotic Manipulation/Homework 17 - Benchmark.md",
+    "Spring 2024 Robotic Manipulation/Lecture 13 - RT.md",
+    "Spring 2024 Robotic Manipulation/Lecture 15 - RL (Model-free).md",
     "Spring 2024 Robotic Manipulation/Debate 3 - Fast Sim vs Accurate Sim.md",
-    "Physics Informed Machine Learning/Physical Models from Data Via Optimization.md",
-    "Spring 2024 Robotic Manipulation/Home12 - Imitation Learning (Learning).md",
+    "Spring 2024 Robotic Manipulation/Homework 16 - Sim2Real.md",
+    "Spring 2024 Robotic Manipulation/Homework 15 - Simulators for Robotic Manipulation.md",
+    "Spring 2024 Robotic Manipulation/Lecture 15 - RL (Model-free Learning).md",
+    "Spring 2024 Robotic Manipulation/Homework 14 - RL (Model-based).md",
+    "Spring 2024 Robotic Manipulation/Lecture 14 - Intro to RL (Decision Making).md",
     "Tedrake Underactuated/img_source/Pasted image 20240304165853.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304161304.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304160851.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304143356.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304142949.png",
-    "Tedrake Underactuated/img_source/Pasted image 20240304133822.png",
-    "Tedrake Underactuated/img_source/Pasted image 20240304134016.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304134815.png",
-    "Concepts & Knowledge/img_source/Pasted image 20240304142909.png",
-    "Tedrake Underactuated/img_source/Pasted image 20240304132749.png",
+    "Tedrake Underactuated/img_source/Pasted image 20240304134016.png",
+    "Tedrake Underactuated/img_source/Pasted image 20240304133822.png",
+    "Tedrake Underactuated/img_source/Pasted image 20240304133729.png",
+    "Tedrake Underactuated/img_source/Pasted image 20240304133637.png",
     "Tedrake Underactuated/img_source",
-    "Untitled.canvas",
+    "Tedrake Underactuated/Lecture 1.md",
     "Tedrake Underactuated",
+    "Spring 2024 Robotic Manipulation/Homework 13 - RL (Learning).md",
+    "Concepts & Knowledge/Nullspace Control.md",
+    "Concepts & Knowledge/Operational Space Control.md",
     "Physics Informed Machine Learning",
     "Concepts & Knowledge/img_source",
     "Spring 2024 Robotic Manipulation",
     "Tedrake Robotic Manipulation",
     "Reinforcement Learning/img_source",
-    "Reinforcement Learning",
-    "Concepts & Knowledge",
-    "PLATO/Canvas.canvas"
+    "Reinforcement Learning"
   ]
 }
