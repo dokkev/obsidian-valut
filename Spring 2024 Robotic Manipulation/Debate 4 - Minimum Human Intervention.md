@@ -7,4 +7,4 @@
 
 ## Scalability of the system
 - This is also addressed in the paper today. Using reinforcement learning without human intervention can continuously improve the policy. It assigns rewards to their own trials and autonomously collects large amount of real-world data.
-- It's more efficient fito handle high-dimensional and large amount of data
+- It's more efficient to handle high-dimensional and large amount of data without human intervention 
