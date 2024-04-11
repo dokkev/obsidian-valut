@@ -2,4 +2,4 @@
 
 - In terms of autonomous system that runs policies trained from machine learning,
 - I would like to argue that policies with minimum human intervention tend to be more optimal and generalizable. 
-- The reasons are sca
+- The reasons are s
