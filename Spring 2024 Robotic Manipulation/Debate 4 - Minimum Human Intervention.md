@@ -6,4 +6,4 @@
 
 
 ## Scalability of the system
-- This is also addressed in the paper today. Using reinforcement learning can continuously improve the policy. 
+- This is also addressed in the paper today. Using reinforcement learning without human intervention can continuously improve the policy. It assign rewards to their own trials and autonomously 
