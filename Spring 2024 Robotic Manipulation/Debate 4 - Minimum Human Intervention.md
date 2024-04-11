@@ -8,7 +8,7 @@
 ## Scalability of the system
 - This is also addressed in the paper today. Using reinforcement learning without human intervention can continuously improve the policy. It assigns rewards to their own trials and autonomously collects large amount of real-world data.
 - unsupervised learning, can continuously adapt to new data or environments without the need for constant human oversight.
-- One example is from mas
+- One famous example is from Nature journal, called Mastering the game of Go without human knowledge. The
 
 ## Eliminating Human Bias
 - Human intervention introduces  human bias during data handling and decision making processes. 
