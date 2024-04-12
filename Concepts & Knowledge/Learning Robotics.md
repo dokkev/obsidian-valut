@@ -7,7 +7,7 @@ Collection of useful resources for learning robotics.
 - [Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra) by Grant Sanderson ([3Blue1Brown](https://www.youtube.com/@3blue1brown))
 - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) by Khan Academy
 
-- [Differential Equation](https://www.khanacademy.org/math/differential-equations)by Khan Academy
+- [Differential Equation by Khan Academy
 
 - [Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) by Joe Blitzstein at Harvard University
 
