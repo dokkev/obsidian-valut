@@ -10,7 +10,8 @@ Collection of useful resources for learning robotics.
 - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) by Khan Academy
 ### Differential Equation
 
-- [Differen]
+- [Differential Equation](https://www.khanacademy.org/math/differential-equations)by Khan Academy
+- 
 
 
 
