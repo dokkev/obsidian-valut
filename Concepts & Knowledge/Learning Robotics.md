@@ -29,7 +29,8 @@ Collection of useful resources for learning robotics.
 -  [Robotic Manipulation](https://manipulation.csail.mit.edu/index.html) by Russ Tedrake at MIT
 
 ### Optimal Control
-- Underactu
+- 
+- [Underacutated Robotics](https://underactuated.mit.edu/index.html) by Russ Tedrake at MIT
 
 
 
