@@ -8,3 +8,4 @@
 - As a result, TD-MPC achieves superior sample efficiency and asymptotic performance on both state and image-based continuous control tasks
 
 *Latent Dynamics Model*
+- Latent space is
