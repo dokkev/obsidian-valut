@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts & Knowledge/How to give a Good Talk.md",
+                "file": "Concepts & Knowledge/Learning Robotics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts & Knowledge/How to give a Good Talk.md",
+                "file": "Concepts & Knowledge/Learning Robotics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts & Knowledge/How to give a Good Talk.md",
+                "file": "Concepts & Knowledge/Learning Robotics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts & Knowledge/How to give a Good Talk.md"
+                "file": "Concepts & Knowledge/Learning Robotics.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "718847f6c45dea70",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Concepts & Knowledge/How to give a Good Talk.md",
+    "conflict-files-obsidian-git.md",
     "Concepts & Knowledge/Learning Robotics.md",
     "Concepts & Knowledge/Karnopp Friction Compensation.md",
     "Concepts & Knowledge/Nullspace Control.md",
