@@ -40,7 +40,7 @@ Collection of useful resources for learning robotics.
 ### Inverse Dynamics 
 
 ### Optimization
-
+- [Convex Optimization]()
 
 # ROS
 
@@ -70,6 +70,8 @@ ROS 2 Documentation](https://docs.ros.org/en/iron/index.html)
 
 ### Computer Vision
 - [Modern Computer Vision](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)at UC Berkeley
+
+### Embede
 
 
 
