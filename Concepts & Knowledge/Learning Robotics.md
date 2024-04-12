@@ -31,7 +31,8 @@ Collection of useful resources for learning robotics.
 - [ROS 2 Tutorials](https://articulatedrobotics.xyz/page4/) by Articulated Robotics
 
 ### ROS Navigation
-- Na
+- [Nav2 ROS 2 Package](https://navigation.ros.org/)
+- []
 
 # Robot Mechanics and Control
 ### Robotic Manipulation
