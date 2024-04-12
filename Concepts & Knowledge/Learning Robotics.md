@@ -23,7 +23,7 @@ Collection of useful resources for learning robotics.
 - [2D Coordinate Transformation](https://www.youtube.com/watch?v=H_94DTWd8ck)
 - [3D Coordinate Transformation](https://www.youtube.com/watch?v=rHLEWRxRGiM)
 
-# Robot Mechanics
+# Robot Mechanics and Control
 ### Robotic Manipulation
 -  [Modern Robotics](https://modernrobotics.northwestern.edu/nu-gm-book-resource/foundations-of-robot-motion/) by Kevin Lynch at Northwestern University
 -  [Robotic Manipulation](https://manipulation.csail.mit.edu/index.html) by Russ Tedrake at MIT
@@ -35,7 +35,7 @@ Collection of useful resources for learning robotics.
 # Robot Perception
 
 ### Computer Vision
-- 
+- [Modern Computer Vision](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)ny
 
 
 
