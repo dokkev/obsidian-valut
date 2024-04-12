@@ -22,8 +22,10 @@ Collection of useful resources for learning robotics.
 - [Robotics 1 U1 (Kinematics) S3 (Rotation Matrices) P1 (Rotation Matrices)](https://www.youtube.com/watch?v=lVjFhNv2N8o)
 - [2D Coordinate Transformation](https://www.youtube.com/watch?v=H_94DTWd8ck)
 - [3D Coordinate Transformation](https://www.youtube.com/watch?v=rHLEWRxRGiM)
-### Robot Mechanics
-- [Modern Robotics](https://modernrobotics.northwestern.edu/nu-gm-book-resource/foundations-of-robot-motion/) by Kevin Lynch at Northwestern University
+
+# Robot Mechanics
+###  [Modern Robotics](https://modernrobotics.northwestern.edu/nu-gm-book-resource/foundations-of-robot-motion/) by Kevin Lynch at Northwestern University
+- 
 
 
 
