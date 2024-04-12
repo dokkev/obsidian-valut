@@ -1,8 +1,8 @@
 
 Collection of useful resources for learning robotics. 
 
-###  Mathematics
-
+##  Mathematics
+### 
 - [Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) by Gilbert Strang at MIT
 - [Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra) by Grant Sanderson ([3Blue1Brown](https://www.youtube.com/@3blue1brown))
 - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) by Khan Academy
@@ -11,7 +11,7 @@ Collection of useful resources for learning robotics.
 
 - [Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) by Joe Blitzstein at Harvard University
 
-### Fundamental Robotics Concepts
+## Fundamental Robotics Concepts
 
 - [Quaternions and 3d rotation, explained interactively](https://www.youtube.com/watch?v=zjMuIxRvygQ&t=33s)
 - [Visualizing quaternions (4d numbers) with stereographic projection](https://www.youtube.com/watch?v=d4EgbgTm0Bg&t=469s)
@@ -21,10 +21,12 @@ Collection of useful resources for learning robotics.
 - [2D Coordinate Transformation](https://www.youtube.com/watch?v=H_94DTWd8ck)
 - [3D Coordinate Transformation](https://www.youtube.com/watch?v=rHLEWRxRGiM)
 
-### Robot Mechanics
+## Robot Mechanics
 
 -  [Modern Robotics](https://modernrobotics.northwestern.edu/nu-gm-book-resource/foundations-of-robot-motion/) by Kevin Lynch at Northwestern University
 - 
+
+### Optimal Control
 
 
 
