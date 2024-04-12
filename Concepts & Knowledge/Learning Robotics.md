@@ -26,7 +26,7 @@ Collection of useful resources for learning robotics.
 -  [Modern Robotics](https://modernrobotics.northwestern.edu/nu-gm-book-resource/foundations-of-robot-motion/) by Kevin Lynch at Northwestern University
 - 
 
-### Optimal Control
+## Optimal Control
 
 
 
