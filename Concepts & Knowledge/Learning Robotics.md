@@ -14,17 +14,17 @@ Collection of useful resources for learning robotics.
 - [Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) by Joe Blitzstein at Harvard University
 
 # Fundamental Robotics Concepts
-### Qua
+### Quaternions
 - [Quaternions and 3d rotation, explained interactively](https://www.youtube.com/watch?v=zjMuIxRvygQ&t=33s)
 - [Visualizing quaternions (4d numbers) with stereographic projection](https://www.youtube.com/watch?v=d4EgbgTm0Bg&t=469s)
 - [Explaining Gibmal Lock](https://www.youtube.com/watch?v=zc8b2Jo7mno)
-
+### Coordinate Transformation
 - [Robotics 1 U1 (Kinematics) S3 (Rotation Matrices) P1 (Rotation Matrices)](https://www.youtube.com/watch?v=lVjFhNv2N8o)
 - [2D Coordinate Transformation](https://www.youtube.com/watch?v=H_94DTWd8ck)
 - [3D Coordinate Transformation](https://www.youtube.com/watch?v=rHLEWRxRGiM)
 
-## Robot Mechanics
-
+# Robot Mechanics
+### Robotic Manipulation
 -  [Modern Robotics](https://modernrobotics.northwestern.edu/nu-gm-book-resource/foundations-of-robot-motion/) by Kevin Lynch at Northwestern University
 - 
 
