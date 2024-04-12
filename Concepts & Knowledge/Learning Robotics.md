@@ -26,7 +26,7 @@ Collection of useful resources for learning robotics.
 - [Jacobian Matrix](https://www.youtube.com/watch?v=bohL918kXQk)
 - [Change of Variables and the Jacobian](https://www.youtube.com/watch?v=hhFzJvaY__U&t=510s)
 - [Robot Singularities](https://www.youtube.com/watch?v=vCEWORZbD3Y&t=55s)
-- 
+- [Singularities](https://www.youtube.com/watch?v=vjJgTvnQpBs&t=93s)
 
 ### Euler-Lagrangian Mechanics
 - [Simple Pendulum via Lagrangian Mechanics](http://www.aoengr.com/Dynamics/LagrangianMechanicsPendulum.pdf)
