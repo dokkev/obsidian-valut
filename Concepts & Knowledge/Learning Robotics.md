@@ -26,7 +26,8 @@ Collection of useful resources for learning robotics.
 # Robot Mechanics
 
 ### Modern Robotics
-- [Modern Robotics ]
+- [Modern Robotics](https://modernrobotics.northwestern.edu/nu-gm-book-resource/foundations-of-robot-motion/) by Kevin Lynch at Northwestern University
+- 
 
 
 
