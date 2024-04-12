@@ -39,6 +39,9 @@ Collection of useful resources for learning robotics.
 
 ### Inverse Dynamics 
 
+### Optimization
+
+
 # ROS
 
 ### Basics of ROS 2
