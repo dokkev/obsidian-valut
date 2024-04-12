@@ -16,7 +16,8 @@ Collection of useful resources for learning robotics.
 
 ### Quaternion
 - [Quaternions and 3d rotation, explained interactively](https://www.youtube.com/watch?v=zjMuIxRvygQ&t=33s)
-- [](https://www.youtube.com/watch?v=zjMuIxRvygQ)
+- [Quaternions and 3d rotation, explained interactively](https://www.youtube.com/watch?v=d4EgbgTm0Bg&t=469s)
+- 
 
 
 
