@@ -23,6 +23,8 @@ Collection of useful resources for learning robotics.
 - [2D Coordinate Transformation](https://www.youtube.com/watch?v=H_94DTWd8ck)
 - [3D Coordinate Transformation](https://www.youtube.com/watch?v=rHLEWRxRGiM)
 
+### Lagrangian Mechanics
+- [Simple ]
 
 # ROS
 
