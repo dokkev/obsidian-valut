@@ -43,7 +43,7 @@ ROS 2 Documentation](https://docs.ros.org/en/iron/index.html)
 ### Motion Planning
 - [Moveit 2](https://moveit.picknik.ai/main/index.html)
 
-# Robot Mechanics and Control
+# Robot Mechanics and Control Courses
 
 ### Robotic Manipulation
 -  [Modern Robotics](https://modernrobotics.northwestern.edu/nu-gm-book-resource/foundations-of-robot-motion/) by Kevin Lynch at Northwestern University
@@ -52,7 +52,7 @@ ROS 2 Documentation](https://docs.ros.org/en/iron/index.html)
 ### Optimal Control
 - [Underacutated Robotics](https://underactuated.mit.edu/index.html) by Russ Tedrake at MIT
 
-# Robot Perception
+# Robot Perception Courses
 
 ### Computer Vision
 - [Modern Computer Vision](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)at UC Berkeley
