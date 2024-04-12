@@ -15,7 +15,7 @@ Collection of useful resources for learning robotics.
 # Fundamental Robotics Concepts
 
 ### Quaternion
-- 
+- []
 
 
 
