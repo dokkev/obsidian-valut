@@ -71,8 +71,9 @@ ROS 2 Documentation](https://docs.ros.org/en/iron/index.html)
 ### Computer Vision
 - [Modern Computer Vision](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)at UC Berkeley
 
-# Embedded System
-- [Intro to Embedded Systems](https://users.ece.utexas.edu/~valvano/Volume1/)
+# Embedded System Courses
+- [Intro to Embedded Systems](https://users.ece.utexas.edu/~valvano/Volume1/
+	- [edX](https://www.edx.org/learn/embedded-systems/the-university-of-texas-at-austin-embedded-systems-shape-the-world-microcontroller-input-output)
 
 
 
