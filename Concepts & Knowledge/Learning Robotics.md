@@ -26,7 +26,7 @@ Collection of useful resources for learning robotics.
 # Robot Mechanics
 ### Robotic Manipulation
 -  [Modern Robotics](https://modernrobotics.northwestern.edu/nu-gm-book-resource/foundations-of-robot-motion/) by Kevin Lynch at Northwestern University
-- 
+-  [Robotic Manipulation](https://manipulation.csail.mit.edu/index.html) by Russ Tedrake at MIT
 
 ## Optimal Control
 
