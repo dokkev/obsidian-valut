@@ -29,13 +29,12 @@ Collection of useful resources for learning robotics.
 -  [Robotic Manipulation](https://manipulation.csail.mit.edu/index.html) by Russ Tedrake at MIT
 
 ### Optimal Control
-- 
 - [Underacutated Robotics](https://underactuated.mit.edu/index.html) by Russ Tedrake at MIT
 
 # Robot Perception
 
 ### Computer Vision
-- [Modern Computer Vision](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)ny
+- [Modern Computer Vision](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)at UC Berkeley
 
 
 
