@@ -25,6 +25,7 @@ Collection of useful resources for learning robotics.
 
 ### Jacobian
 - [Jacobian Matrix](https://www.youtube.com/watch?v=bohL918kXQk)
+- [Change of Variables and the Jacobian](https://www.youtube.com/watch?v=hhFzJvaY__U&t=510s)
 - 
 
 ### Euler-Lagrangian Mechanics
