@@ -36,7 +36,8 @@ Collection of useful resources for learning robotics.
 ### Euler-Lagrangian Mechanics
 - [Simple Pendulum via Lagrangian Mechanics](http://www.aoengr.com/Dynamics/LagrangianMechanicsPendulum.pdf)
 - [Lagrangian Formulation of Robot Dynamics](https://www.youtube.com/watch?v=1U6y_68CjeY)
-- 
+
+### Inverse Dynamics 
 
 # ROS
 
