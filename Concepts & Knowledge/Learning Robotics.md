@@ -27,8 +27,8 @@ Collection of useful resources for learning robotics.
 # ROS
 ### Basics of ROS
 - [ROS 2 Documentation](https://docs.ros.org/en/iron/index.html)
-- [ROS 2 Tutorials](https://docs.ros.org/en/iron/Tutorials.html)
-- 
+- [Official ROS 2 Tutorials](https://docs.ros.org/en/iron/Tutorials.html)
+- [ROS 2 Tutorials] by 
 
 
 # Robot Mechanics and Control
