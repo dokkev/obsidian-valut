@@ -24,6 +24,7 @@ Collection of useful resources for learning robotics.
 - [3D Coordinate Transformation](https://www.youtube.com/watch?v=rHLEWRxRGiM)
 
 ### Jacobian
+- [Jacobian Matrix](https://www.youtube.com/watch?v=bohL918kXQk)
 - 
 
 ### Euler-Lagrangian Mechanics
