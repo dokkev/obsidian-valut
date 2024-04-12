@@ -28,7 +28,10 @@ Collection of useful resources for learning robotics.
 - [Robot Singularities](https://www.youtube.com/watch?v=vCEWORZbD3Y&t=55s)
 - [Singularities](https://www.youtube.com/watch?v=vjJgTvnQpBs&t=93s)
 
-#
+### Inverse Kinematics
+- [Inverse Kinematics with Graphic Visualization](https://www.youtube.com/watch?v=wgpgNLEEpeY)
+- 
+- 
 ### Euler-Lagrangian Mechanics
 - [Simple Pendulum via Lagrangian Mechanics](http://www.aoengr.com/Dynamics/LagrangianMechanicsPendulum.pdf)
 - [Lagrangian Formulation of Robot Dynamics](https://www.youtube.com/watch?v=1U6y_68CjeY)
