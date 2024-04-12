@@ -25,7 +25,9 @@ Collection of useful resources for learning robotics.
 
 
 # ROS
-### Basics of ROS 2 Documentation](https://docs.ros.org/en/iron/index.html)
+
+### Basics of ROS 2
+ROS 2 Documentation](https://docs.ros.org/en/iron/index.html)
 - [Official ROS 2 Tutorials](https://docs.ros.org/en/iron/Tutorials.html)
 - [ROS 2 Tutorials](https://articulatedrobotics.xyz/page4/) by [Articulated Robotics](https://www.youtube.com/@ArticulatedRobotics)
 
@@ -37,6 +39,7 @@ Collection of useful resources for learning robotics.
 - [Moveit 2](https://moveit.picknik.ai/main/index.html)
 
 # Robot Mechanics and Control
+
 ### Robotic Manipulation
 -  [Modern Robotics](https://modernrobotics.northwestern.edu/nu-gm-book-resource/foundations-of-robot-motion/) by Kevin Lynch at Northwestern University
 -  [Robotic Manipulation](https://manipulation.csail.mit.edu/index.html) by Russ Tedrake at MIT
