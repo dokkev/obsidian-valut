@@ -14,9 +14,9 @@ Collection of useful resources for learning robotics.
 
 # Fundamental Robotics Concepts
 
-### Quaternion
+### Quaternions
 - [Quaternions and 3d rotation, explained interactively](https://www.youtube.com/watch?v=zjMuIxRvygQ&t=33s)
-- [Quaternions and 3d rotation, explained interactively](https://www.youtube.com/watch?v=d4EgbgTm0Bg&t=469s)
+- [Visualizing quaternions (4d numbers) with stereographic projection](https://www.youtube.com/watch?v=d4EgbgTm0Bg&t=469s)
 - 
 
 
