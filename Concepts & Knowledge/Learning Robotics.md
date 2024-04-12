@@ -23,6 +23,9 @@ Collection of useful resources for learning robotics.
 - [2D Coordinate Transformation](https://www.youtube.com/watch?v=H_94DTWd8ck)
 - [3D Coordinate Transformation](https://www.youtube.com/watch?v=rHLEWRxRGiM)
 
+### Jacobian
+- 
+
 ### Euler-Lagrangian Mechanics
 - [Simple Pendulum via Lagrangian Mechanics](http://www.aoengr.com/Dynamics/LagrangianMechanicsPendulum.pdf)
 - [Lagrangian Formulation of Robot Dynamics](https://www.youtube.com/watch?v=1U6y_68CjeY)
