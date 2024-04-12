@@ -11,5 +11,5 @@ Linear Algebra is fundamental in robotics, as it provides a mathematical framewo
 - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) by Khan Academy
 ### Differential Equation
 
-
+Differential Equation 
 
