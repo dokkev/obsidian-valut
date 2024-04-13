@@ -51,14 +51,17 @@ Collection of useful resources for learning robotics.
 - [Quaternions and 3d rotation, explained interactively](https://www.youtube.com/watch?v=zjMuIxRvygQ&t=33s)
 - [Visualizing quaternions (4d numbers) with stereographic projection](https://www.youtube.com/watch?v=d4EgbgTm0Bg&t=469s)
 - [Explaining Gibmal Lock](https://www.youtube.com/watch?v=zc8b2Jo7mno)
+
 ### Coordinate Transformation
 - [Robotics 1 U1 (Kinematics) S3 (Rotation Matrices) P1 (Rotation Matrices)](https://www.youtube.com/watch?v=lVjFhNv2N8o)
 - [2D Coordinate Transformation](https://www.youtube.com/watch?v=H_94DTWd8ck)
 - [3D Coordinate Transformation](https://www.youtube.com/watch?v=rHLEWRxRGiM)
 
 ### Robot Motion and Topology
-- [Configuratiuon Space (C-space)](https://www.youtube.com/watch?v=FyLNR3edOds&list=PLggLP4f-rq01z8VLqhDC94W2nWpWpZoMj&index=4)
-- Configuraion of Constraints
+- [Configuration Space (C-space)](https://www.youtube.com/watch?v=FyLNR3edOds&list=PLggLP4f-rq01z8VLqhDC94W2nWpWpZoMj&index=4)
+- [Configuration of Constraints](https://www.youtube.com/watch?v=FyLNR3edOds&list=PLggLP4f-rq01z8VLqhDC94W2nWpWpZoMj&index=4)
+- [Task Space and Workspace](https://www.youtube.com/watch?v=hTuW51CpUg4&list=PLggLP4f-rq01z8VLqhDC94W2nWpWpZoMj&index=7)
+
 
 ### Jacobian and Kinematics
 - [Jacobian Matrix](https://www.youtube.com/watch?v=bohL918kXQk)
