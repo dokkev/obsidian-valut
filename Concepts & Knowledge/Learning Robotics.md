@@ -90,7 +90,7 @@ Collection of useful resources for learning robotics.
 ### Basics of ROS 2
 [ROS 2 Documentation](https://docs.ros.org/en/iron/index.html)
 - [Official ROS 2 Tutorials](https://docs.ros.org/en/iron/Tutorials.html)
-[ROS 2 Tutorials](https://articulatedrobotics.xyz/page4/) by [Articulated Robotics](https://www.youtube.com/@ArticulatedRobotics)
+[ROS 2 Diff Drive Robot Navigation from Scratch Tutorial](https://articulatedrobotics.xyz/page4/) by [Articulated Robotics](https://www.youtube.com/@ArticulatedRobotics) 
 - [Basic Concepts of ROS](https://www.youtube.com/watch?v=KAASuA3_4eg)
 - [How to create URDF](https://www.youtube.com/watch?v=CwdbsvcpOHM)
 - [Simulating Robot with Gazebo](https://www.youtube.com/watch?v=laWn7_cj434)
