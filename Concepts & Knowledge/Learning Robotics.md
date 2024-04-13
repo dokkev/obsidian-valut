@@ -55,6 +55,9 @@ Collection of useful resources for learning robotics.
 - [Robotics 1 U1 (Kinematics) S3 (Rotation Matrices) P1 (Rotation Matrices)](https://www.youtube.com/watch?v=lVjFhNv2N8o)
 - [2D Coordinate Transformation](https://www.youtube.com/watch?v=H_94DTWd8ck)
 - [3D Coordinate Transformation](https://www.youtube.com/watch?v=rHLEWRxRGiM)
+
+### T
+
 ### Jacobian and Kinematics
 - [Jacobian Matrix](https://www.youtube.com/watch?v=bohL918kXQk)
 - [Change of Variables and the Jacobian](https://www.youtube.com/watch?v=hhFzJvaY__U&t=510s)
