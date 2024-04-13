@@ -40,7 +40,8 @@ Collection of useful resources for learning robotics.
 ### Inverse Dynamics 
 
 ### Optimization
-- [Convex Optimization]()
+- [Convex Optimization](https://web.stanford.edu/class/ee364a/)
+- 
 
 # ROS
 
