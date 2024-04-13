@@ -31,7 +31,7 @@ Collection of useful resources for learning robotics.
 - [Numerical Inverse Kinematics (1)](https://www.youtube.com/watch?v=VhUA0jf7tI8)
 - [Numerical Inverse Kinematics (2)](https://www.youtube.com/watch?v=24cXvgQl-nk)
 
-### SLAM
+### Odomet
 - [Odometery](https://www.youtube.com/watch?v=eQ9E0Zvp9jw&t=198s)
 
 ### Euler-Lagrangian Dynamics
@@ -70,7 +70,7 @@ ROS 2 Documentation](https://docs.ros.org/en/iron/index.html)
 ### Computer Vision
 - [Modern Computer Vision](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)at UC Berkeley
 ### SLAM
-- []
+- [Robot Mapping](https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_&index=1)by Cyrill Stachniss at University of Bonn
 
 # Embedded System Courses
 - [Intro to Embedded Systems](https://users.ece.utexas.edu/~valvano/Volume1/
