@@ -66,6 +66,7 @@ ROS 2 Documentation](https://docs.ros.org/en/iron/index.html)
 
 ### Optimal Control
 - [Underacutated Robotics](https://underactuated.mit.edu/index.html) by Russ Tedrake at MIT
+- [Convex Optimization](https://web.stanford.edu/class/ee364a/) by
 
 # Robot Perception Courses
 
