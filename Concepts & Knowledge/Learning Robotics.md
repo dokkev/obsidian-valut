@@ -58,10 +58,10 @@ Collection of useful resources for learning robotics.
 - [3D Linear Transformation](https://www.youtube.com/watch?v=rHLEWRxRGiM&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=5)
 - [Homogenous Transformation Matrices](https://www.youtube.com/watch?v=vlb3P7arbkU)
 
-### Screw Theory: Twist and Wrench
+### Screw Theory: Twist and Wrenches
 - [Twists (1)](https://www.youtube.com/watch?v=mvGZtO_ruj0)
 - [Twists (2)](https://www.youtube.com/watch?v=VTv0qmLNvjg)
-- 
+- [Wrenches](https://www.youtube.com/watch?v=0wsYPJPGtKE&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx&index=20)
 
 ### Robot Configuration and Topology
 - [Configuration Space (C-space)](https://www.youtube.com/watch?v=FyLNR3edOds&list=PLggLP4f-rq01z8VLqhDC94W2nWpWpZoMj&index=4)
@@ -69,7 +69,7 @@ Collection of useful resources for learning robotics.
 - [Task Space and Workspace](https://www.youtube.com/watch?v=hTuW51CpUg4&list=PLggLP4f-rq01z8VLqhDC94W2nWpWpZoMj&index=7)
 - [DH Parameters with Visualization](https://www.youtube.com/watch?v=rA9tm0gTln8&list=PLSxvPyE1vQkzGmRNmgN0kNJTPyixCEQco)
 
-### Jacobian and Kinematics
+### Kinematics
 - [Jacobian Matrix](https://www.youtube.com/watch?v=bohL918kXQk)
 - [Change of Variables and the Jacobian](https://www.youtube.com/watch?v=hhFzJvaY__U&t=510s)
 - [Robot Singularities](https://www.youtube.com/watch?v=vCEWORZbD3Y&t=55s)
