@@ -25,6 +25,7 @@ Collection of useful resources for learning robotics.
 - [Underacutated Robotics](https://underactuated.mit.edu/index.html) by Russ Tedrake at MIT
 - [Convex Optimization](https://web.stanford.edu/class/ee364a/) by Stephen Boyd at Stanford University
 
+
 # Robot Perception and Navigation Courses
 
 ### Computer Vision
