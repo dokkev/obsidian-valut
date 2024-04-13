@@ -64,6 +64,8 @@ Collection of useful resources for learning robotics.
 - [Task Space and Workspace](https://www.youtube.com/watch?v=hTuW51CpUg4&list=PLggLP4f-rq01z8VLqhDC94W2nWpWpZoMj&index=7)
 - [DH Parameters with Visualization](https://www.youtube.com/watch?v=rA9tm0gTln8&list=PLSxvPyE1vQkzGmRNmgN0kNJTPyixCEQco)
 
+### Rigid Body Motion
+- 
 ### Jacobian and Kinematics
 - [Jacobian Matrix](https://www.youtube.com/watch?v=bohL918kXQk)
 - [Change of Variables and the Jacobian](https://www.youtube.com/watch?v=hhFzJvaY__U&t=510s)
