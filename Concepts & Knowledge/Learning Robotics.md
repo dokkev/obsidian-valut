@@ -18,8 +18,8 @@ Collection of useful resources for learning robotics.
 # Robot Mechanics and Control Courses
 
 ### Robotic Manipulation
--  [Modern Robotics](https://modernrobotics.northwestern.edu/nu-gm-book-resource/foundations-of-robot-motion/) by Kevin Lynch at Northwestern University
-	- [Lectur]
+-  [Modern Robotics](https://hades.mech.northwestern.edu/index.php/Modern_Robotics) by Kevin Lynch at Northwestern University
+	- [Lecture Videos](https://modernrobotics.northwestern.edu/nu-gm-book-resource/foundations-of-robot-motion/)
 -  [Robotic Manipulation](https://manipulation.csail.mit.edu/index.html) by Russ Tedrake at MIT
 	- [Lecture Videos](https://www.youtube.com/@underactuated5171/videos?view=0&sort=dd&shelf_id=1) on YouTube
 
