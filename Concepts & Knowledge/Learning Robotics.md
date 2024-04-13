@@ -52,26 +52,7 @@ Collection of useful resources for learning robotics.
 ### Motion Planning
 - [Moveit 2](https://moveit.picknik.ai/main/index.html)
 
-# Robot Mechanics and Control Courses
 
-### Robotic Manipulation
--  [Modern Robotics](https://modernrobotics.northwestern.edu/nu-gm-book-resource/foundations-of-robot-motion/) by Kevin Lynch at Northwestern University
--  [Robotic Manipulation](https://manipulation.csail.mit.edu/index.html) by Russ Tedrake at MIT
-
-### Optimal Control
-- [Underacutated Robotics](https://underactuated.mit.edu/index.html) by Russ Tedrake at MIT
-- [Convex Optimization](https://web.stanford.edu/class/ee364a/) by Stephen Boyd at Stanford University
-
-# Robot Perception and Navigation Courses
-
-### Computer Vision
-- [Modern Computer Vision](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)at UC Berkeley
-### SLAM
-- [Robot Mapping](https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_&index=1)by Cyrill Stachniss at University of Bonn
-
-# Embedded System Courses
-- [Intro to Embedded Systems](https://users.ece.utexas.edu/~valvano/Volume1/)
-	- [edX](https://www.edx.org/learn/embedded-systems/the-university-of-texas-at-austin-embedded-systems-shape-the-world-microcontroller-input-output)
 
 
 
