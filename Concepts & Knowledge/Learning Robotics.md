@@ -39,9 +39,6 @@ Collection of useful resources for learning robotics.
 
 ### Inverse Dynamics 
 
-### Optimization
-- [Convex Optimization](https://web.stanford.edu/class/ee364a/)
-- 
 
 # ROS
 
@@ -66,7 +63,7 @@ ROS 2 Documentation](https://docs.ros.org/en/iron/index.html)
 
 ### Optimal Control
 - [Underacutated Robotics](https://underactuated.mit.edu/index.html) by Russ Tedrake at MIT
-- [Convex Optimization](https://web.stanford.edu/class/ee364a/) by
+- [Convex Optimization](https://web.stanford.edu/class/ee364a/) by Stephen Boyd at Stanford University
 
 # Robot Perception Courses
 
