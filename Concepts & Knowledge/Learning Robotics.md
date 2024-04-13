@@ -27,6 +27,7 @@ Collection of useful resources for learning robotics.
 -  [Robotic Manipulation](https://manipulation.csail.mit.edu/index.html) by Russ Tedrake at MIT
 	- [Lecture Videos](https://www.youtube.com/@underactuated5171/videos?view=0&sort=dd&shelf_id=1) on YouTube
 
+
 ### Optimal Control
 - [Underacutated Robotics](https://underactuated.mit.edu/index.html) by Russ Tedrake at MIT
 	-  [Lecture Videos](https://www.youtube.com/@underactuated5171/videos?view=0&sort=dd&shelf_id=1) on YouTube
@@ -67,6 +68,8 @@ Collection of useful resources for learning robotics.
 - [Simple Pendulum via Lagrangian Mechanics](http://www.aoengr.com/Dynamics/LagrangianMechanicsPendulum.pdf)
 - [Lagrangian Formulation of Robot Dynamics](https://www.youtube.com/watch?v=1U6y_68CjeY)
 - [Inverse Dynamics](https://www.youtube.com/watch?v=ZASVKAlegfQ)
+
+### Control Theory
 
 
 # ROS
