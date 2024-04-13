@@ -20,6 +20,7 @@ Collection of useful resources for learning robotics.
 ### Robotic Manipulation
 -  [Modern Robotics](https://modernrobotics.northwestern.edu/nu-gm-book-resource/foundations-of-robot-motion/) by Kevin Lynch at Northwestern University
 -  [Robotic Manipulation](https://manipulation.csail.mit.edu/index.html) by Russ Tedrake at MIT
+	- [Youtub]
 
 ### Optimal Control
 - [Underacutated Robotics](https://underactuated.mit.edu/index.html) by Russ Tedrake at MIT
@@ -35,7 +36,7 @@ Collection of useful resources for learning robotics.
 
 # Embedded System Courses
 - [Intro to Embedded Systems](https://users.ece.utexas.edu/~valvano/Volume1/)
-	- [edX](https://www.edx.org/learn/embedded-systems/the-university-of-texas-at-austin-embedded-systems-shape-the-world-microcontroller-input-output)
+	- [edX Course](https://www.edx.org/learn/embedded-systems/the-university-of-texas-at-austin-embedded-systems-shape-the-world-microcontroller-input-output)
 
 
 # Fundamental Robotics Concepts
