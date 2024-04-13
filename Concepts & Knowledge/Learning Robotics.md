@@ -94,7 +94,6 @@ Collection of useful resources for learning robotics.
 - [Basic Concepts of ROS](https://www.youtube.com/watch?v=KAASuA3_4eg)
 - [How to create URDF](https://www.youtube.com/watch?v=CwdbsvcpOHM)
 - [Simulating Robot with Gazebo](https://www.youtube.com/watch?v=laWn7_cj434)
-- 
 
 ### Navigation
 - [Nav2 ROS 2 Package](https://navigation.ros.org/)
@@ -104,7 +103,7 @@ Collection of useful resources for learning robotics.
 - [Moveit 2](https://moveit.picknik.ai/main/index.html)
 
 ### ROS Hardware
-- [ros2_control](https://control.ros.org/iron/index.html)
+- [ros2_control](https://control.ros.org/iron/index.html)  Documentation
 - 
 
 # Robotic Actuator Design
