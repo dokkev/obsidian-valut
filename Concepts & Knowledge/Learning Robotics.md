@@ -58,7 +58,9 @@ Collection of useful resources for learning robotics.
 - [3D Linear Transformation](https://www.youtube.com/watch?v=rHLEWRxRGiM&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=5)
 - [Homogenous Transformation Matrices](https://www.youtube.com/watch?v=vlb3P7arbkU)
 
-### Twist and Wrench
+### Screw Theory: Twist and Wrench
+- [Twists (1)](https://www.youtube.com/watch?v=mvGZtO_ruj0)
+- [Twists (2)](https://www.youtube.com/watch?v=VTv0qmLNvjg)
 - 
 
 ### Robot Configuration and Topology
