@@ -14,6 +14,10 @@ Collection of useful resources for learning robotics.
 ### Probability
 - [Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) by Joe Blitzstein at Harvard University
 
+### Optimization
+- [Convex Optimization](https://web.stanford.edu/class/ee364a/) by Stephen Boyd at Stanford University
+	- [Lecture Videos](https://www.youtube.com/watch?v=kV1ru-Inzl4&list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h&index=1) on YouTube
+
 
 # Robot Mechanics and Control Courses
 
@@ -26,8 +30,7 @@ Collection of useful resources for learning robotics.
 ### Optimal Control
 - [Underacutated Robotics](https://underactuated.mit.edu/index.html) by Russ Tedrake at MIT
 	-  [Lecture Videos](https://www.youtube.com/@underactuated5171/videos?view=0&sort=dd&shelf_id=1) on YouTube
-- [Convex Optimization](https://web.stanford.edu/class/ee364a/) by Stephen Boyd at Stanford University
-	- [Lecture Videos](https://www.youtube.com/watch?v=kV1ru-Inzl4&list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h&index=1) on YouTube
+
 
 
 # Robot Perception and Navigation Courses
