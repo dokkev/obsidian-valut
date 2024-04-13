@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts & Knowledge/Learning Robotics.md",
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts & Knowledge/Learning Robotics.md",
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts & Knowledge/Learning Robotics.md",
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts & Knowledge/Learning Robotics.md"
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md"
               }
             }
           }
@@ -183,8 +183,9 @@
   },
   "active": "45fd1280d874061c",
   "lastOpenFiles": [
-    "[].md",
+    "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
     "Concepts & Knowledge/Learning Robotics.md",
+    "[].md",
     "conflict-files-obsidian-git.md",
     "Spring 2024 Robotic Manipulation/Lecture 19 - Multimodal Task.md",
     "Spring 2024 Robotic Manipulation/Homework 21 - Real World (Learning).md",
@@ -210,7 +211,6 @@
     "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
     "Spring 2024 Robotic Manipulation/Homework 3 - Robotic Grasping of Novel Objects.md",
     "Spring 2024 Robotic Manipulation/Homework 14 - RL (Model-based).md",
-    "Spring 2024 Robotic Manipulation/Homework 13 - RL (Learning).md",
     "Tedrake Underactuated/img_source/Pasted image 20240304165853.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304161304.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304160851.png",
