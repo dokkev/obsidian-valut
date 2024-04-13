@@ -32,7 +32,7 @@ Collection of useful resources for learning robotics.
 - [Numerical Inverse Kinematics (2)](https://www.youtube.com/watch?v=24cXvgQl-nk)
 
 ### Odometery
-- [
+- [Odometery](https://www.youtube.com/watch?v=eQ9E0Zvp9jw&t=198s)
 
 ### Euler-Lagrangian Dynamics
 - [Simple Pendulum via Lagrangian Mechanics](http://www.aoengr.com/Dynamics/LagrangianMechanicsPendulum.pdf)
