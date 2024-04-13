@@ -93,6 +93,7 @@ Collection of useful resources for learning robotics.
 [ROS 2 Tutorials](https://articulatedrobotics.xyz/page4/) by [Articulated Robotics](https://www.youtube.com/@ArticulatedRobotics)
 - [Basic Concepts of ROS](https://www.youtube.com/watch?v=KAASuA3_4eg)
 - [How to create URDF](https://www.youtube.com/watch?v=CwdbsvcpOHM)
+- [Simulating Robot with Gazebo](https://www.youtube.com/watch?v=laWn7_cj434)
 - 
 
 ### Navigation
