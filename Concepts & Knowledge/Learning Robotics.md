@@ -73,12 +73,12 @@ Collection of useful resources for learning robotics.
 - [Numerical Inverse Kinematics (2)](https://www.youtube.com/watch?v=24cXvgQl-nk)
 - [Odometery](https://www.youtube.com/watch?v=eQ9E0Zvp9jw&t=198s )
 
-### Lagrangian and Hamitonian Dynamics
+### Euler-Lagrangian Dynamics
 - [Simple Pendulum via Lagrangian Mechanics](http://www.aoengr.com/Dynamics/LagrangianMechanicsPendulum.pdf)
 - [Lagrangian Formulation of Robot Dynamics](https://www.youtube.com/watch?v=1U6y_68CjeY)
 - [Inverse Dynamics](https://www.youtube.com/watch?v=ZASVKAlegfQ)
 - [Constraints and Generalized Coordinates](https://www.youtube.com/watch?v=rA9tm0gTln8&list=PLSxvPyE1vQkzGmRNmgN0kNJTPyixCEQco)
-- 
+
 
 ### Control Theory
 - [Control Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m) by Steven Brunton at University of Washington
