@@ -22,23 +22,21 @@ Collection of useful resources for learning robotics.
 - [Robotics 1 U1 (Kinematics) S3 (Rotation Matrices) P1 (Rotation Matrices)](https://www.youtube.com/watch?v=lVjFhNv2N8o)
 - [2D Coordinate Transformation](https://www.youtube.com/watch?v=H_94DTWd8ck)
 - [3D Coordinate Transformation](https://www.youtube.com/watch?v=rHLEWRxRGiM)
-### Jacobian
+### Jacobian Kinematics
 - [Jacobian Matrix](https://www.youtube.com/watch?v=bohL918kXQk)
 - [Change of Variables and the Jacobian](https://www.youtube.com/watch?v=hhFzJvaY__U&t=510s)
 - [Robot Singularities](https://www.youtube.com/watch?v=vCEWORZbD3Y&t=55s)
 - [Singularities](https://www.youtube.com/watch?v=vjJgTvnQpBs&t=93s)
-
-### Inverse Kinematics
 - [2D Inverse Kinematics with Graphic Visualization](https://www.youtube.com/watch?v=wgpgNLEEpeY)
 - [Numerical Inverse Kinematics (1)](https://www.youtube.com/watch?v=VhUA0jf7tI8)
 - [Numerical Inverse Kinematics (2)](https://www.youtube.com/watch?v=24cXvgQl-nk)
 
-### Euler-Lagrangian Mechanics
+### Euler-Lagrangian Dynamics
 - [Simple Pendulum via Lagrangian Mechanics](http://www.aoengr.com/Dynamics/LagrangianMechanicsPendulum.pdf)
 - [Lagrangian Formulation of Robot Dynamics](https://www.youtube.com/watch?v=1U6y_68CjeY)
+- [Inverse Dynamics](https://www.youtube.com/watch?v=ZASVKAlegfQ)
 
-### Inverse Dynamics 
-- []
+
 # ROS
 
 ### Basics of ROS 2
