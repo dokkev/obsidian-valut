@@ -27,7 +27,6 @@ Collection of useful resources for learning robotics.
 -  [Robotic Manipulation](https://manipulation.csail.mit.edu/index.html) by Russ Tedrake at MIT
 	- [Lecture Videos](https://www.youtube.com/@underactuated5171/videos?view=0&sort=dd&shelf_id=1) on YouTube
 
-
 ### Optimal Control
 - [Underacutated Robotics](https://underactuated.mit.edu/index.html) by Russ Tedrake at MIT
 	-  [Lecture Videos](https://www.youtube.com/@underactuated5171/videos?view=0&sort=dd&shelf_id=1) on YouTube
@@ -58,7 +57,7 @@ Collection of useful resources for learning robotics.
 - [3D Linear Transformation](https://www.youtube.com/watch?v=rHLEWRxRGiM&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=5)
 - [Homogenous Transformation Matrices](https://www.youtube.com/watch?v=vlb3P7arbkU)
 
-### Screw Theory: Twist and Wrenches
+### Twist and Wrenches
 - [Twists (1)](https://www.youtube.com/watch?v=mvGZtO_ruj0)
 - [Twists (2)](https://www.youtube.com/watch?v=VTv0qmLNvjg)
 - [Wrenches](https://www.youtube.com/watch?v=0wsYPJPGtKE&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx&index=20)
