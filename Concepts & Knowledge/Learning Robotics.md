@@ -65,10 +65,12 @@ ROS 2 Documentation](https://docs.ros.org/en/iron/index.html)
 - [Underacutated Robotics](https://underactuated.mit.edu/index.html) by Russ Tedrake at MIT
 - [Convex Optimization](https://web.stanford.edu/class/ee364a/) by Stephen Boyd at Stanford University
 
-# Robot Perception Courses
+# Robot Perception and Navigation Courses
 
 ### Computer Vision
 - [Modern Computer Vision](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)at UC Berkeley
+### SLAM
+- []
 
 # Embedded System Courses
 - [Intro to Embedded Systems](https://users.ece.utexas.edu/~valvano/Volume1/
