@@ -70,6 +70,7 @@ Collection of useful resources for learning robotics.
 - [DH Parameters with Visualization](https://www.youtube.com/watch?v=rA9tm0gTln8&list=PLSxvPyE1vQkzGmRNmgN0kNJTPyixCEQco)
 
 ### Kinematics
+- [Forward Kinematics](https://www.youtube.com/watch?v=EzNAs2w1cS0)
 - [Jacobian Matrix](https://www.youtube.com/watch?v=bohL918kXQk)
 - [Change of Variables and the Jacobian](https://www.youtube.com/watch?v=hhFzJvaY__U&t=510s)
 - [Robot Singularities](https://www.youtube.com/watch?v=vCEWORZbD3Y&t=55s)
