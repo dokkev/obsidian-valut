@@ -38,8 +38,7 @@ Collection of useful resources for learning robotics.
 - [Lagrangian Formulation of Robot Dynamics](https://www.youtube.com/watch?v=1U6y_68CjeY)
 
 ### Inverse Dynamics 
-
-
+- []
 # ROS
 
 ### Basics of ROS 2
