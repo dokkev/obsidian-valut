@@ -115,7 +115,7 @@ Mostly short videos
 - [ROS 2 Hardware Interface Tutorial](https://www.youtube.com/watch?v=J02jEKawE5U)
 
 
-# Robotic Actuator Design
+# Robot Design
 
 
 
