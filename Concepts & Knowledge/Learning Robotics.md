@@ -45,7 +45,9 @@ Collection of useful resources for learning robotics.
 	- [edX Course](https://www.edx.org/learn/embedded-systems/the-university-of-texas-at-austin-embedded-systems-shape-the-world-microcontroller-input-output)
 - [Intro to RTOS](https://www.youtube.com/watch?v=F321087yYy4&list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz) by Digikey
 
-# Fundamental Robotics Concepts
+# Fundamental Robotics Concepts 
+
+Mostly short videos
 ### Quaternions
 - [Quaternions and 3d rotation, explained interactively](https://www.youtube.com/watch?v=zjMuIxRvygQ&t=33s)
 - [Visualizing quaternions (4d numbers) with stereographic projection](https://www.youtube.com/watch?v=d4EgbgTm0Bg&t=469s)
