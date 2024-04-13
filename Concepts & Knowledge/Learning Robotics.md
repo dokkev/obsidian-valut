@@ -70,7 +70,8 @@ Collection of useful resources for learning robotics.
 - [Inverse Dynamics](https://www.youtube.com/watch?v=ZASVKAlegfQ)
 
 ### Control Theory
-
+- [Control Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m) by Steven Brunton at University of Washington
+- 
 
 # ROS
 
