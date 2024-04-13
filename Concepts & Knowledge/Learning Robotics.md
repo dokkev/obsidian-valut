@@ -44,7 +44,7 @@ Collection of useful resources for learning robotics.
 # Embedded System Courses
 - [Intro to Embedded Systems](https://users.ece.utexas.edu/~valvano/Volume1/)
 	- [edX Course](https://www.edx.org/learn/embedded-systems/the-university-of-texas-at-austin-embedded-systems-shape-the-world-microcontroller-input-output)
-
+- [Intro to RTOS](https://www.youtube.com/watch?v=F321087yYy4&list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz) by Digikey
 
 # Fundamental Robotics Concepts
 ### Quaternions
