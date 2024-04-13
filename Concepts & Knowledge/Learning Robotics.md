@@ -58,7 +58,7 @@ Collection of useful resources for learning robotics.
 
 ### Robot Motion and Topology
 - [Configuratiuon Space (C-space)](https://www.youtube.com/watch?v=FyLNR3edOds&list=PLggLP4f-rq01z8VLqhDC94W2nWpWpZoMj&index=4)
-- 
+- Configuraion of Constraints
 
 ### Jacobian and Kinematics
 - [Jacobian Matrix](https://www.youtube.com/watch?v=bohL918kXQk)
