@@ -101,10 +101,12 @@ Collection of useful resources for learning robotics.
 
 ### Motion Planning
 - [Moveit 2](https://moveit.picknik.ai/main/index.html)
+	- [Moveit 2 Setup Assistant Tutorial](https://www.youtube.com/watch?v=QdzmMRXAks4)
 
 ### ROS Hardware
 - [ros2_control](https://control.ros.org/iron/index.html) Documentation
 - [ROS 2 Hardware Interface Tutorial](https://www.youtube.com/watch?v=J02jEKawE5U)
+
 
 # Robotic Actuator Design
 
