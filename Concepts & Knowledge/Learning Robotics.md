@@ -54,8 +54,9 @@ Collection of useful resources for learning robotics.
 
 ### Coordinate Transformation
 - [Robotics 1 U1 (Kinematics) S3 (Rotation Matrices) P1 (Rotation Matrices)](https://www.youtube.com/watch?v=lVjFhNv2N8o)
-- 
-- [Homogenous Transformation Matrices])(https://www.youtube.com/watch?v=vlb3P7arbkU)
+- [2D Linear Transformation](https://www.youtube.com/watch?v=vlb3P7arbkU)
+- [3D Linear Transformation](https://www.youtube.com/watch?v=rHLEWRxRGiM&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=5)
+- [Homogenous Transformation Matrices](https://www.youtube.com/watch?v=vlb3P7arbkU)
 
 ### Robot Configuration and Topology
 - [Configuration Space (C-space)](https://www.youtube.com/watch?v=FyLNR3edOds&list=PLggLP4f-rq01z8VLqhDC94W2nWpWpZoMj&index=4)
