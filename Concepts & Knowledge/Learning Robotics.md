@@ -22,7 +22,7 @@ Collection of useful resources for learning robotics.
 - [Robotics 1 U1 (Kinematics) S3 (Rotation Matrices) P1 (Rotation Matrices)](https://www.youtube.com/watch?v=lVjFhNv2N8o)
 - [2D Coordinate Transformation](https://www.youtube.com/watch?v=H_94DTWd8ck)
 - [3D Coordinate Transformation](https://www.youtube.com/watch?v=rHLEWRxRGiM)
-### Jacobian Kinematics
+### Jacobian and Kinematics
 - [Jacobian Matrix](https://www.youtube.com/watch?v=bohL918kXQk)
 - [Change of Variables and the Jacobian](https://www.youtube.com/watch?v=hhFzJvaY__U&t=510s)
 - [Robot Singularities](https://www.youtube.com/watch?v=vCEWORZbD3Y&t=55s)
@@ -30,8 +30,9 @@ Collection of useful resources for learning robotics.
 - [2D Inverse Kinematics with Graphic Visualization](https://www.youtube.com/watch?v=wgpgNLEEpeY)
 - [Numerical Inverse Kinematics (1)](https://www.youtube.com/watch?v=VhUA0jf7tI8)
 - [Numerical Inverse Kinematics (2)](https://www.youtube.com/watch?v=24cXvgQl-nk)
+- - [Odometery](https://www.youtube.com/watch?v=eQ9E0Zvp9jw&t=198s)
 
-### Odomet
+### Odometery
 - [Odometery](https://www.youtube.com/watch?v=eQ9E0Zvp9jw&t=198s)
 
 ### Euler-Lagrangian Dynamics
