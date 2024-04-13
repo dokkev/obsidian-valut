@@ -61,7 +61,7 @@ Collection of useful resources for learning robotics.
 - [Configuration Space (C-space)](https://www.youtube.com/watch?v=FyLNR3edOds&list=PLggLP4f-rq01z8VLqhDC94W2nWpWpZoMj&index=4)
 - [Configuration of Constraints](https://www.youtube.com/watch?v=FyLNR3edOds&list=PLggLP4f-rq01z8VLqhDC94W2nWpWpZoMj&index=4)
 - [Task Space and Workspace](https://www.youtube.com/watch?v=hTuW51CpUg4&list=PLggLP4f-rq01z8VLqhDC94W2nWpWpZoMj&index=7)
-
+- [DH Parameters with Visualization](https://www.youtube.com/watch?v=rA9tm0gTln8&list=PLSxvPyE1vQkzGmRNmgN0kNJTPyixCEQco)
 
 ### Jacobian and Kinematics
 - [Jacobian Matrix](https://www.youtube.com/watch?v=bohL918kXQk)
@@ -72,6 +72,7 @@ Collection of useful resources for learning robotics.
 - [Numerical Inverse Kinematics (1)](https://www.youtube.com/watch?v=VhUA0jf7tI8)
 - [Numerical Inverse Kinematics (2)](https://www.youtube.com/watch?v=24cXvgQl-nk)
 - [Odometery](https://www.youtube.com/watch?v=eQ9E0Zvp9jw&t=198s )
+
 ### Euler-Lagrangian Dynamics
 - [Simple Pendulum via Lagrangian Mechanics](http://www.aoengr.com/Dynamics/LagrangianMechanicsPendulum.pdf)
 - [Lagrangian Formulation of Robot Dynamics](https://www.youtube.com/watch?v=1U6y_68CjeY)
