@@ -15,9 +15,11 @@
 - Model-based methods have historically struggled to outperform simpler model free methods in continuous control tasks.
 - MPC optimizes a trajectory over a short, finite horizon due to immense cost of long-horizon planning.
 - MPC can be extended to approximate globally optimal solutions by using a terminal value function that estimates discounted return beyond the planning horizon
+- However, obtaining an accurate model and value function can be challenging
+
+- TD-MPC is data-driven MPC using a task-oriented latent dynamics model and terminal value function learned jointly by temporal difference learning.
+- At each decision step,m 
+
 
 *Terminal Value Function*
-- estimate long-term return from a future stte at the end of ho
-- However, obtaining an accurate model and value function can be challenging
-- TD-MPC is data-driven MPC using a task-oriented latent dynamics model and terminal value function learned jointly by temporal difference learning.
-- 
+- estimate long-term return from a future stte at the end of horizon
