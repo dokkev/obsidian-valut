@@ -9,4 +9,6 @@
 
 *Latent Dynamics Model*
 - Latent space is a lower dimensional space where the essential features of the original high-dimensional data are preserved.
-- 
+
+### Intro
+Model-based learning
