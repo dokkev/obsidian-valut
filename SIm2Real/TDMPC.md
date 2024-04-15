@@ -22,6 +22,7 @@
 - For example, Humanoid locomotion task panning with a model may be beneficial for accurate joint movement, whereas the higher-level object such as direction can be guided by long-term value estimates
 
 - The key technical contribution is how the model is learned. 
+- Prior works learns a model through state or video prediction, but this is inefficient
 
 
 *Terminal Value Function*
