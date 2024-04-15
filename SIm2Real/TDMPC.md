@@ -8,4 +8,4 @@
 - As a result, TD-MPC achieves superior sample efficiency and asymptotic performance on both state and image-based continuous control tasks
 
 *Latent Dynamics Model*
-- Latent space is
+- Latent space is a lower dimensional space where the essential features of the original high-dimensional a
