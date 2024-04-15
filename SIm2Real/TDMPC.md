@@ -23,6 +23,8 @@
 
 - The key technical contribution is how the model is learned. 
 - Prior works learns a model through state or video prediction, but this is inefficient
+- To overcome challenges, we make 3 key changes
+	- learn the latent representation of the dynamics model purely from reward 
 
 
 *Terminal Value Function*
