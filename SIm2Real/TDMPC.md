@@ -33,4 +33,4 @@
 - estimate long-term return from a future state at the end of horizon
 
 *Rollouts*
-- Rollouts 
+- Rollouts in RL refer to sequences of actions, states, and rewards that an agent experiences from starting state to a termination state within an environment
