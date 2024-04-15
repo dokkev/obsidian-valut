@@ -25,6 +25,7 @@
 - Prior works learns a model through state or video prediction, but this is inefficient
 - To overcome challenges, we make 3 key changes
 	- learn the latent representation of the dynamics model purely from reward to make learning 
+	- back-propagate gradients from the reward and TD-objective through multiple rollout s
 
 
 *Terminal Value Function*
