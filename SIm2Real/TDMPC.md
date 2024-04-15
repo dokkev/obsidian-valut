@@ -12,4 +12,5 @@
 
 ### Intro
 - Model-based learning Is expensive to plan over long horizons
-- Model-based methods have historically struggled to outperform simpler model free methods in continous control tasks
+- Model-based methods have historically struggled to outperform simpler model free methods in continuous control tasks.
+- 
