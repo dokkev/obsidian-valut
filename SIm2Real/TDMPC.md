@@ -31,3 +31,6 @@
 
 *Terminal Value Function*
 - estimate long-term return from a future state at the end of horizon
+
+*Rollouts*
+- Rollouts 
