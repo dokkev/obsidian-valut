@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "783bb838c421e6db",
+        "id": "328fd0c8bf4cdbd7",
         "type": "tabs",
         "children": [
           {
-            "id": "4ba6de4ac55f0fcc",
+            "id": "6ca4778dc9627029",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts & Knowledge/Learning Robotics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts & Knowledge/Learning Robotics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts & Knowledge/Learning Robotics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Concepts & Knowledge/Learning Robotics.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4ba6de4ac55f0fcc",
+  "active": "6ca4778dc9627029",
   "lastOpenFiles": [
-    "[].md",
     "Concepts & Knowledge/Learning Robotics.md",
+    "[].md",
     "SIm2Real/TDMPC.md",
     "Spring 2024 Robotic Manipulation/Debate 4 - Minimum Human Intervention.md",
     "Spring 2024 Robotic Manipulation/Homework 21 - Real World (Learning).md",
