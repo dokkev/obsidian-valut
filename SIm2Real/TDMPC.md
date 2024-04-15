@@ -26,8 +26,8 @@
 - To overcome challenges, we make 3 key changes
 	- learn the latent representation of the dynamics model purely from reward to make learning 
 	- back-propagate gradients from the reward and TD-objective through multiple rollout steps of the model to improve reward and value predictions over long horizons.
-	- Modality-agnostic prediction lass in latent space that enforces temporal consistency in the leared
+	- Modality-agnostic prediction lass in latent space that enforces temporal consistency in the learned representation.
 
 
 *Terminal Value Function*
-- estimate long-term return from a future stte at the end of horizon
+- estimate long-term return from a future state at the end of horizon
