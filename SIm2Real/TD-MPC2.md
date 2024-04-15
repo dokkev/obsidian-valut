@@ -1,4 +1,5 @@
 
 ### Introduction
-- Rather than explici
+- Rather than explicitly modeling dynamics using reconstruction
+- It 
 
