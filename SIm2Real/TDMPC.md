@@ -11,4 +11,5 @@
 - Latent space is a lower dimensional space where the essential features of the original high-dimensional data are preserved.
 
 ### Intro
-Model-based learning
+- Model-based learning Is expensive to plan over long horizons
+- 
