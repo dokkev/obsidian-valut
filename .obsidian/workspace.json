@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIm2Real/Untitled.md",
+                "file": "SIm2Real/TD-MPC2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIm2Real/Untitled.md",
+                "file": "SIm2Real/TD-MPC2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIm2Real/Untitled.md",
+                "file": "SIm2Real/TD-MPC2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIm2Real/Untitled.md"
+                "file": "SIm2Real/TD-MPC2.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "6ca4778dc9627029",
   "lastOpenFiles": [
     "SIm2Real/TDMPC.md",
-    "SIm2Real/Untitled.md",
+    "SIm2Real/TD-MPC2.md",
     "Concepts & Knowledge/Learning Robotics.md",
     "[].md",
     "Spring 2024 Robotic Manipulation/Debate 4 - Minimum Human Intervention.md",
