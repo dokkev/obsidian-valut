@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIm2Real/TDMPC.md",
+                "file": "SIm2Real/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIm2Real/TDMPC.md",
+                "file": "SIm2Real/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIm2Real/TDMPC.md",
+                "file": "SIm2Real/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIm2Real/TDMPC.md"
+                "file": "SIm2Real/Untitled.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "6ca4778dc9627029",
   "lastOpenFiles": [
+    "SIm2Real/TDMPC.md",
+    "SIm2Real/Untitled.md",
     "Concepts & Knowledge/Learning Robotics.md",
     "[].md",
-    "SIm2Real/TDMPC.md",
     "Spring 2024 Robotic Manipulation/Debate 4 - Minimum Human Intervention.md",
     "Spring 2024 Robotic Manipulation/Homework 21 - Real World (Learning).md",
     "Spring 2024 Robotic Manipulation/Homework 19 - Language in Robot Manipulation (Learning).md",
@@ -174,7 +175,6 @@
     "Spring 2024 Robotic Manipulation/Lecture 17 - Benchmark.md",
     "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
     "Spring 2024 Robotic Manipulation/Lecture 16 - Sim2Real.md",
-    "Spring 2024 Robotic Manipulation/Debate 3 - Fast Sim vs Accurate Sim.md",
     "Tedrake Underactuated/img_source/Pasted image 20240304165853.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304161304.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304160851.png",
