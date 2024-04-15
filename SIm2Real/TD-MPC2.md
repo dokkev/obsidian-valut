@@ -5,3 +5,4 @@
 - TD-MPC learns an implicit control-centric world model from environment interaction using a combination of joint-embedding prediction, reward prediction, and TD-learning without decoding observations.
 
 ![[Pasted image 20240415171320.png]]
+![[Pasted image 20240415171734.png]]
