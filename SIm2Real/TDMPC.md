@@ -13,4 +13,5 @@
 ### Intro
 - Model-based learning Is expensive to plan over long horizons
 - Model-based methods have historically struggled to outperform simpler model free methods in continuous control tasks.
-- MPC optimizes a trajectory over a finite horizon
+- MPC optimizes a trajectory over a short finite horizon due to immense cost of long-horizon planning.
+- 
