@@ -67,7 +67,7 @@ $$
 $$$$
 while $u = J^T(q)M_X\ddot{X}_d$  
 $$
-
+\ddot{X} =  \dot{J}(q)\dot{q} + J(q) * M_{q}^{-1}[J^T(q)M_X\ddot{X}_d - C(q,\dot{q}) - g(q)]
 $$
 
 
