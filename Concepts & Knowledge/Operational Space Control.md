@@ -84,3 +84,4 @@ $$
 $$
 u = J^T(q)[J(q)M_{q}^{-1}J^{T}(q)]^{-1}\ddot{X_d}
 $$
+![[Pasted image 20240418183200.png]]
