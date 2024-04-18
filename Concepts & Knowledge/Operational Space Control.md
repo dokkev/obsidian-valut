@@ -48,5 +48,5 @@ Let's look at the robot dynamics model in joint space using spring-damper model
 $$
 M_{q\ddot{q}}= u - C(q,\dot{q}) - g(q)
 $$
-Where C is Coriolis effect and Centrifugal force. There are often ignored in the controller. 
+Where $C$ term is Coriolis effect and Centrifugal force. There are often ignored in the controller while $g$ represents gravity term
 
