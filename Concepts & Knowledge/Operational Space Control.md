@@ -36,7 +36,7 @@ Let's say that control input (joint torque), $u \equiv F_q$
 $$
 u = J^T(q)M_X\ddot{X}
 $$
-
+Where $M_X$ is inertia matrix in task space (6 x 6)
 
 
 
