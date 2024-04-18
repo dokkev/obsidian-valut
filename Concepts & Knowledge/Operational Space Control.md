@@ -10,3 +10,4 @@ $$
 W = \int{F^{T}v *dt} = F^{T} d
 $$
 $$ P = \frac{W}{t} = \frac{F^Td}{t}= F^{T}v$$
+$$ W$$
