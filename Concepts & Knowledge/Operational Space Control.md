@@ -82,5 +82,5 @@ $$
 u = J^{T}M_{X}\ddot{X_d}
 $$
 $$
-u = J^T(q)[J(q)M_q]
+u = J^T(q)[J(q)M_{q}^{-1}J^{T}(q)]^{-1}\ddot{X_d}
 $$
