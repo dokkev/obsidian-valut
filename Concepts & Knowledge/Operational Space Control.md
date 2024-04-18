@@ -10,9 +10,9 @@ $$
 W = \int{F^{T}v *dt} = F^{T} d
 $$
 $$ P = \frac{W}{t} = \frac{F^Td}{t}= F^{T}v$$
-In joint space
+In joint space, $q$
 $$P_q = F^T_q*\dot{q}$$
-In task space:
+In task space, $X$:
 $$P_{X}= F^T_X*\dot{X}$$
 By conservation of energy,
 $$
