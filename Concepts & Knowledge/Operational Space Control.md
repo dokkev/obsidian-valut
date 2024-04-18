@@ -71,7 +71,7 @@ $$
 $$
 We can simplify this:
 $$
-
+\ddot{X} = J(q)Mq
 $$
 
 $$$$
