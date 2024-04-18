@@ -77,5 +77,8 @@ We have acceleration of the system $\ddot{X}$ and the left-hand side and desired
 $$
 M_{X}= [J(q)M_{q}^{-1}J^{T}(q)]^{-1}
 $$
-$$$$
+Where 
+$$
+u = J^TM
+$$
 
