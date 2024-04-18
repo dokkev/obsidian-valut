@@ -16,7 +16,7 @@ In task space:
 $$P_{X}= F^T_X*\dot{X}$$
 By conservation of energy,
 $$
-P_{q}= P_X
+P_{q}= P_{X,}
 $$
 By Jacobian,
-$$$$
+$$\dot{X} = J(q)\dot{q} $$
