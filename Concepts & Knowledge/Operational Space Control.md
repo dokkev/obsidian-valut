@@ -31,7 +31,11 @@ By Newton's 2nd Law:
 $$
 F_{X}= M_X*\ddot{X}
 $$
-Let's say that control input (joint torque), $u \def F_q$
+Let's say that control input (joint torque), $u \equiv F_q$
+
+$$
+u = J^T(q)M_X\ddot{X}
+$$
 
 
 
