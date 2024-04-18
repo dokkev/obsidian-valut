@@ -50,8 +50,9 @@ M_{q}\ddot{q}= u - C(q,\dot{q}) - g(q)
 $$
 Where $C$ term is Coriolis effect and Centrifugal force while $g$ represents gravity term. $M_q$ is a mass matrix in joint space. In 7-dof robot manipulator with (7 x 7) dimension.
 
+Rewriting:
 $$
-\ddot{q} = M_
+\ddot{q} = M_{q}^{-1} (u - C(q,\dot{q} - g(q))
 $$
 
 
