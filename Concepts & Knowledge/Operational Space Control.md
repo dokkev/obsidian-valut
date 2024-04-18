@@ -10,4 +10,7 @@ $$
 W = \int{F^{T}v *dt} = F^{T} d
 $$
 $$ P = \frac{W}{t} = \frac{F^Td}{t}= F^{T}v$$
-In Joint Space
+In joint space
+$$P_q = F^T_q*\dot{q}$$
+In task space:
+$$P_{x}= $$
