@@ -20,6 +20,11 @@ P_{q}= P_{X} => F^{T}_{q} \dot{q} = F^{T}_{X} \dot{X}
 $$
 By Jacobian,
 $$\dot{X} = J(q)\dot{q} $$
+Substituting:
 $$
 F^{T}_{q} \dot{q} = F^{T}_{X} * J(q)\dot{q}
 $$
+$$
+F_{q}= J^T(q)F_X
+$$
+without considering any mass..
