@@ -43,6 +43,10 @@ Where $M_X$ is inertia matrix in task space (6 x 6) and $\ddot{X_d}$ is desired 
 
 This equation explains how much control input (joint torque) is needed to generate desired acceleration in the task space.
 
-Let's look at the robot dynamics model in joint space using spring-d
+Let's look at the robot dynamics model in joint space using spring-damper model
+
+$$
+M_{q\ddot{q}}= u - C(q,\dot{q}) - g(q)
+$$
 
 
