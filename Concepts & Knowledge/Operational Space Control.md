@@ -52,7 +52,7 @@ Where $C$ term is Coriolis effect and Centrifugal force while $g$ represents gra
 
 Rewriting:
 $$
-\ddot{q} = M_{q}^{-1} (u - C(q,\dot{q} - g(q))
+\ddot{q} = M_{q}^{-1} (u - C(q,\dot{q} - g(q)) 
 $$
 Let's go back to the Task space velocity representation.
 $$\dot{X} = J(q)\dot{q}$$
@@ -60,7 +60,8 @@ by taking derivative in terms of time,
 $$
 \ddot{X} = \dot{J}(q)\dot{q} + J(q)\ddot{q}
 $$
-
+Substituting $\ddot{q}$
+$$$$
 
 
 
