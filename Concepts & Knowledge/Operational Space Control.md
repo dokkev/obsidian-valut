@@ -71,7 +71,7 @@ $$
 $$
 We can simplify this:
 $$
-\ddot{X} = J(q)Mq
+\ddot{X} = J(q)M_{q^{-1}}J^{T}
 $$
 
 $$$$
