@@ -79,6 +79,8 @@ M_{X}= [J(q)M_{q}^{-1}J^{T}(q)]^{-1}
 $$
 Where 
 $$
-u = J^TM
+u = J^{T}M_{X}\ddot{X_d}
 $$
-
+$$
+u = J^T(q)[J(q)M_q]
+$$
