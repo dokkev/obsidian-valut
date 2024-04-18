@@ -18,3 +18,5 @@ By conservation of energy,
 $$
 P_{q}= P_X
 $$
+By Jacobian,
+$$$$
