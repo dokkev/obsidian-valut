@@ -75,7 +75,7 @@ $$
 $$
 We have acceleration of the system $\ddot{X}$ and the left-hand side and desired acceleration $X_d$ on the right-hand side.  To achieve the desired acceleration ($X = X_d$), $J(q)M_{q}^{-1}J^{T}(q)M_{X}$ must be 1 (identity matrix)
 $$
-M_{X}= J{q}M_{q}^{-1}J^
+M_{X}= [J(q)M_{q}^{-1}J^{T}(q)]^{-1}
 $$
 $$$$
 
