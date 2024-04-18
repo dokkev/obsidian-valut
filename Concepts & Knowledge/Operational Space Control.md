@@ -27,4 +27,10 @@ $$
 $$
 F_{q}= J^T(q)F_X
 $$
-without considering any mass..
+By Newton's 2nd Law:
+$$
+F_x
+$$
+
+without considering any mass…
+
