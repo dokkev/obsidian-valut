@@ -60,7 +60,10 @@ by taking derivative in terms of time,
 $$
 \ddot{X} = \dot{J}(q)\dot{q} + J(q)\ddot{q}
 $$
-Substituting $\ddot{q}$
+Substituting $\ddot{q}$ with joint space dynamics equation,
+$$
+\ddot{X} =  \dot{J}(q)\dot{q} + J(q) * M_{q}^{-1}
+$$
 $$$$
 
 
