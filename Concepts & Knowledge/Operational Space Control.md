@@ -73,6 +73,6 @@ We can simplify this by ignoring C, Jdot, and g:
 $$
 \ddot{X} = J(q)M_{q^{-1}}J^{T}(q)M_{X}\ddot{X_d}
 $$
-We have accleration of the system
+We have acceleration of the system $\ddot{X}$ and the left-hand side and desired acceleration $X_d$ on the right hand side. 
 $$$$
 
