@@ -21,5 +21,5 @@ $$
 By Jacobian,
 $$\dot{X} = J(q)\dot{q} $$
 $$
-
+F^{T}_{q} \dot{q} = F^{T}_{X} * J(q)\dot{q}
 $$
