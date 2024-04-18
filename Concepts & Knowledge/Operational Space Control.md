@@ -58,7 +58,7 @@ Let's go back to the Task space velocity representation.
 $$\dot{X} = J(q)\dot{q}$$
 by taking derivative in terms of time,
 $$
-\ddot{X} = \dot{J}{q}
+\ddot{X} = \dot{J}(q)\dot{q} + J(q)\ddot{q}
 $$
 
 
