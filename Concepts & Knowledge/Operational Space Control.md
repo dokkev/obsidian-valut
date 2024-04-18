@@ -34,9 +34,12 @@ $$
 Let's say that control input (joint torque), $u \equiv F_q$
 
 $$
-u = J^T(q)M_X\ddot{X}
+u = J^T(q)M_X\ddot{X}_d
 $$
-Where $M_X$ is inertia matrix in task space (6 x 6)
+Where $M_X$ is inertia matrix in task space (6 x 6) and $\ddot{X_d}$ is desired acceleration.
+
+Th
+
 
 
 
