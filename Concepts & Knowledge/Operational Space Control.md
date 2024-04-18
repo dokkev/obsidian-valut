@@ -18,6 +18,9 @@ By conservation of energy,
 $$
 P_{q}= P_{X} => F^{T}_{q} \dot{q} = F^{T}_{X} \dot{X} 
 $$
+
+### Dynamics Model
+
 By Jacobian,
 $$\dot{X} = J(q)\dot{q} $$
 Substituting:
@@ -40,6 +43,6 @@ Where $M_X$ is inertia matrix in task space (6 x 6) and $\ddot{X_d}$ is desired 
 
 This equation explains how much control input (joint torque) is needed to generate desired acceleration in the task space.
 
-
+Let's look at the robot dynamics model in joint space using spring-d
 
 
