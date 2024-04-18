@@ -31,9 +31,7 @@ By Newton's 2nd Law:
 $$
 F_{X}= M_X*\ddot{X}
 $$
-$$
+Let's say that control input (joint torque),
 
-$$
 
-without considering any mass…
 
