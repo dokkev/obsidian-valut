@@ -9,4 +9,4 @@ Object in Task Space is described using SE(3) and SO(3).
 $$
 W = \int{F^{T}v *dt} = F^{T} d
 $$
-$$ P = \frac$$
+$$ P = \frac{W}{t} = \frac{F^Td}{t}= F^{T}v$$
