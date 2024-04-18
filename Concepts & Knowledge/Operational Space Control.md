@@ -13,4 +13,5 @@ $$ P = \frac{W}{t} = \frac{F^Td}{t}= F^{T}v$$
 In joint space
 $$P_q = F^T_q*\dot{q}$$
 In task space:
-$$P_{x}= $$
+$$P_{X}= F^T_X*\dot{X}$$
+By Conservation of energy,
