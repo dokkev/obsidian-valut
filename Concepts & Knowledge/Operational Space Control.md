@@ -38,7 +38,7 @@ u = J^T(q)M_X\ddot{X}_d
 $$
 Where $M_X$ is inertia matrix in task space (6 x 6) and $\ddot{X_d}$ is desired acceleration.
 
-Th
+This equation explains how much control input (joint torque) is needed to generate desired acceleration in the task space.
 
 
 
