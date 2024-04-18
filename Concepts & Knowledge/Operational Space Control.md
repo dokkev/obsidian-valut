@@ -54,7 +54,8 @@ Rewriting:
 $$
 \ddot{q} = M_{q}^{-1} (u - C(q,\dot{q} - g(q))
 $$
-
+Let's go back to the Task space velocity representation.
+$$\dot{X} = J(q)\dot{q}$$
 
 
 
