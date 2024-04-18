@@ -73,6 +73,6 @@ We can simplify this by ignoring C, Jdot, and g:
 $$
 \ddot{X} = J(q)M_{q^{-1}}J^{T}(q)M_{X}\ddot{X_d}
 $$
-
+We have accleration of the system
 $$$$
 
