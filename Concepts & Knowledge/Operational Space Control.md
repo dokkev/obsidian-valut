@@ -14,4 +14,7 @@ In joint space
 $$P_q = F^T_q*\dot{q}$$
 In task space:
 $$P_{X}= F^T_X*\dot{X}$$
-By Conservation of energy,
+By conservation of energy,
+$$
+P_{q}= P_X
+$$
