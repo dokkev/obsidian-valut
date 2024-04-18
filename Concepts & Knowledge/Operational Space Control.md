@@ -62,7 +62,7 @@ $$
 $$
 Substituting $\ddot{q}$ with joint space dynamics equation,
 $$
-\ddot{X} =  \dot{J}(q)\dot{q} + J(q) * M_{q}^{-1}
+\ddot{X} =  \dot{J}(q)\dot{q} + J(q) * M_{q}^{-1}[u - C(q,\dot{q}) - g(q)]
 $$
 $$$$
 
