@@ -7,5 +7,6 @@ Object in Task Space is described using SE(3) and SO(3).
 ### Work and Power
 
 $$
-W = \int{F^{T}v dt} = F^{T} d
+W = \int{F^{T}v *dt} = F^{T} d
 $$
+$$ P = \frac$$
