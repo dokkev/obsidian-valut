@@ -29,7 +29,10 @@ F_{q}= J^T(q)F_X
 $$
 By Newton's 2nd Law:
 $$
-F_x
+F_{X}= M_X*\ddot{X}
+$$
+$$
+
 $$
 
 without considering any mass…
