@@ -46,7 +46,11 @@ This equation explains how much control input (joint torque) is needed to genera
 Let's look at the robot dynamics model in joint space using spring-damper model
 
 $$
-M_{q\ddot{q}}= u - C(q,\dot{q}) - g(q)
+M_{q}\ddot{q}= u - C(q,\dot{q}) - g(q)
 $$
-Where $C$ term is Coriolis effect and Centrifugal force. There are often ignored in the controller while $g$ represents gravity term
+Where $C$ term is Coriolis effect and Centrifugal force while $g$ represents gravity term.
+
+$M_q$ is a mass matrix in joint space. In 7-dof
+
+$$$$
 
