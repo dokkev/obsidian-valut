@@ -4,22 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "328fd0c8bf4cdbd7",
+        "id": "4e217b47a09de85f",
         "type": "tabs",
         "children": [
           {
-            "id": "6ca4778dc9627029",
+            "id": "da499bec9279ec0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts & Knowledge/Operational Space Control.md",
+                "file": "Tedrake Underactuated/Lecture 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d5a5b60c7f6e8f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tedrake Underactuated/Lecture 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d00ddd0f935c1421",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
+            "id": "45fd1280d874061c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 212.5
   },
   "right": {
     "id": "c15f7e551bb8ae20",
@@ -85,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts & Knowledge/Operational Space Control.md",
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts & Knowledge/Operational Space Control.md",
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts & Knowledge/Operational Space Control.md"
+                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md"
               }
             }
           }
@@ -146,55 +181,55 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6ca4778dc9627029",
+  "active": "45fd1280d874061c",
   "lastOpenFiles": [
-    "Pasted image 20240418183200.png",
-    "SIm2Real/TD-MPC2.md",
-    "Pasted image 20240415171734.png",
-    "SIm2Real/img",
     "SIm2Real/img/Pasted image 20240415171320.png",
-    "SIm2Real/TDMPC.md",
+    "SIm2Real/img",
+    "SIm2Real/TD-MPC2.md",
+    "Pasted image 20240418183200.png",
+    "Pasted image 20240415171734.png",
+    "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
     "Concepts & Knowledge/Learning Robotics.md",
     "[].md",
-    "Spring 2024 Robotic Manipulation/Debate 4 - Minimum Human Intervention.md",
-    "Spring 2024 Robotic Manipulation/Homework 21 - Real World (Learning).md",
-    "Spring 2024 Robotic Manipulation/Homework 19 - Language in Robot Manipulation (Learning).md",
-    "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
-    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
-    "Spring 2024 Robotic Manipulation/Homework 20 - Real World (Foundation).md",
-    "SIm2Real",
-    "Spring 2024 Robotic Manipulation/Homework 12 - RL (Fundamental).md",
-    "Spring 2024 Robotic Manipulation/Homework 18 - NLP.md",
-    "Spring 2024 Robotic Manipulation/Homework 14 - RL (Model-based).md",
-    "Spring 2024 Robotic Manipulation/Homework 15 - Simulators for Robotic Manipulation.md",
-    "Spring 2024 Robotic Manipulation/Homework 11 - Imitation Learning (Learning 2).md",
-    "Spring 2024 Robotic Manipulation/Debate 2 - Scaling imitation learning is all we need for general-purpose robotics..md",
-    "Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md",
+    "conflict-files-obsidian-git.md",
     "Spring 2024 Robotic Manipulation/Lecture 19 - Multimodal Task.md",
-    "Spring 2024 Robotic Manipulation/Homework 17 - Benchmark.md",
-    "Spring 2024 Robotic Manipulation/Homework - Variable Impedance Control in End-Effector Space- An Action Space for Reinforcement Learning in Contact-Rich Tasks.md",
-    "Spring 2024 Robotic Manipulation/Homework 1.md",
-    "Spring 2024 Robotic Manipulation/Homework 16 - Sim2Real.md",
-    "Spring 2024 Robotic Manipulation/Homework 13 - RL (Learning).md",
+    "Spring 2024 Robotic Manipulation/Homework 21 - Real World (Learning).md",
+    "Spring 2024 Robotic Manipulation/Homework 20 - Real World (Foundation).md",
+    "Spring 2024 Robotic Manipulation/Homework 19 - Language in Robot Manipulation (Learning).md",
+    "Spring 2024 Robotic Manipulation/Homework 18 - NLP.md",
+    "Spring 2024 Robotic Manipulation/Debate 4 - Minimum Human Intervention.md",
+    "SIm2Real/TDMPC.md",
+    "SIm2Real",
     "Spring 2024 Robotic Manipulation/Lecture 17 - Benchmark.md",
+    "Spring 2024 Robotic Manipulation/Lecture 16 - Sim2Real.md",
+    "Spring 2024 Robotic Manipulation/Lecture 15 - RL (Model-free).md",
+    "Spring 2024 Robotic Manipulation/Homework 17 - Benchmark.md",
+    "Spring 2024 Robotic Manipulation/Homework 16 - Sim2Real.md",
+    "Spring 2024 Robotic Manipulation/Homework 15 - Simulators for Robotic Manipulation.md",
+    "Spring 2024 Robotic Manipulation/Debate 3 - Fast Sim vs Accurate Sim.md",
+    "Homework 18 - NLP.md",
+    "2024-03-06.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Concepts & Knowledge/Nullspace Control.md",
+    "Tedrake Underactuated/Lecture 1.md",
     "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
     "Tedrake Underactuated/img_source/Pasted image 20240304165853.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304161304.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304160851.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304143356.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304142949.png",
-    "Tedrake Underactuated/img_source/Pasted image 20240304133822.png",
-    "Tedrake Underactuated/img_source/Pasted image 20240304134016.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304134815.png",
+    "Tedrake Underactuated/img_source/Pasted image 20240304134016.png",
+    "Tedrake Underactuated/img_source/Pasted image 20240304133822.png",
     "Tedrake Underactuated/img_source",
-    "Untitled.canvas",
     "Tedrake Underactuated",
     "Physics Informed Machine Learning",
+    "Tedrake Underactuated",
     "Concepts & Knowledge/img_source",
     "Spring 2024 Robotic Manipulation",
     "Tedrake Robotic Manipulation",
     "Reinforcement Learning/img_source",
-    "Reinforcement Learning",
     "PLATO/Canvas.canvas"
   ]
 }
