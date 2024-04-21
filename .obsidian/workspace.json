@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra/Untitled.md",
+                "file": "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algebra/Untitled.md",
+                "file": "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Algebra/Untitled.md",
+                "file": "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Algebra/Untitled.md"
+                "file": "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md"
               }
             }
           }
@@ -203,9 +203,9 @@
   },
   "active": "d1c8a169dafb0af8",
   "lastOpenFiles": [
+    "Linear Algebra/Untitled.md",
     "Linear Algebra/img_source",
     "Linear Algebra/img_source/Pasted image 20240421181642.png",
-    "Linear Algebra/Untitled.md",
     "Concepts & Knowledge/img_source/Pasted image 20240418183200.png",
     "Concepts & Knowledge/Pasted image 20240415171734.png",
     "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
@@ -249,7 +249,6 @@
     "Tedrake Underactuated",
     "Concepts & Knowledge/img_source",
     "Spring 2024 Robotic Manipulation",
-    "Tedrake Robotic Manipulation",
     "PLATO/Canvas.canvas"
   ]
 }
