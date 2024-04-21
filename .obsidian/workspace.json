@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
+                "file": "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
+                "file": "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md",
+                "file": "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning/Humanoid Locomotion Using RL.md"
+                "file": "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md"
               }
             }
           }
@@ -181,9 +181,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5444ba93733c14bf",
+  "active": "45fd1280d874061c",
   "lastOpenFiles": [
-    "Untitled",
+    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
+    "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
+    "Linear Algebra",
     "SIm2Real/img/Pasted image 20240415171320.png",
     "SIm2Real/img",
     "SIm2Real/TD-MPC2.md",
@@ -214,7 +216,6 @@
     "Untitled.canvas",
     "Concepts & Knowledge/Nullspace Control.md",
     "Tedrake Underactuated/Lecture 1.md",
-    "Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
     "Tedrake Underactuated/img_source/Pasted image 20240304165853.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304161304.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304160851.png",
@@ -229,7 +230,6 @@
     "Concepts & Knowledge/img_source",
     "Spring 2024 Robotic Manipulation",
     "Tedrake Robotic Manipulation",
-    "Reinforcement Learning/img_source",
     "PLATO/Canvas.canvas"
   ]
 }
