@@ -6,4 +6,5 @@
 - If the determinant is non-zero, there will be an inverse transformation, $A^-1$ 
 
 ![[Pasted image 20240421182059.png]]
-- When the determinant is zero, transformation associated with the system of the equation shrinks to 
+- When the determinant is zero, transformation associated with the system of the equation shrinks to a lower dimension, there is no inverse.
+	- You cannot squish a line to
