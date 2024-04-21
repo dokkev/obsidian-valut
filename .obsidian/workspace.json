@@ -65,9 +65,11 @@
             "id": "d1c8a169dafb0af8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240421182059.png"
+                "file": "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -138,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240421182059.png",
+                "file": "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240421182059.png",
+                "file": "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240421182059.png"
+                "file": "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md"
               }
             }
           }
@@ -201,8 +203,8 @@
   },
   "active": "d1c8a169dafb0af8",
   "lastOpenFiles": [
-    "Pasted image 20240421182045.png",
     "Pasted image 20240421182059.png",
+    "Pasted image 20240421182045.png",
     "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
     "Linear Algebra/img_source/Pasted image 20240421181856.png",
     "Linear Algebra/img_source/Pasted image 20240421181826.png",
