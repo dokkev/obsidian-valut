@@ -45,16 +45,36 @@
             "id": "45fd1280d874061c",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Concepts & Knowledge/Pasted image 20240415171734.png"
+              }
+            }
+          },
+          {
+            "id": "67d2c954d0e29c8e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Linear Algebra/img_source/Pasted image 20240421181642.png"
+              }
+            }
+          },
+          {
+            "id": "d1c8a169dafb0af8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
+                "file": "Linear Algebra/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -120,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
+                "file": "Linear Algebra/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
+                "file": "Linear Algebra/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md"
+                "file": "Linear Algebra/Untitled.md"
               }
             }
           }
@@ -181,16 +201,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "45fd1280d874061c",
+  "active": "d1c8a169dafb0af8",
   "lastOpenFiles": [
-    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
+    "Linear Algebra/img_source",
+    "Linear Algebra/img_source/Pasted image 20240421181642.png",
+    "Linear Algebra/Untitled.md",
+    "Concepts & Knowledge/img_source/Pasted image 20240418183200.png",
+    "Concepts & Knowledge/Pasted image 20240415171734.png",
     "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
+    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
     "Linear Algebra",
     "SIm2Real/img/Pasted image 20240415171320.png",
     "SIm2Real/img",
     "SIm2Real/TD-MPC2.md",
-    "Pasted image 20240418183200.png",
-    "Pasted image 20240415171734.png",
     "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
     "Concepts & Knowledge/Learning Robotics.md",
     "[].md",
@@ -214,15 +237,12 @@
     "2024-03-06.md",
     "Untitled.md",
     "Untitled.canvas",
-    "Concepts & Knowledge/Nullspace Control.md",
-    "Tedrake Underactuated/Lecture 1.md",
     "Tedrake Underactuated/img_source/Pasted image 20240304165853.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304161304.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304160851.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304143356.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304142949.png",
     "Tedrake Underactuated/img_source/Pasted image 20240304134815.png",
-    "Tedrake Underactuated/img_source/Pasted image 20240304134016.png",
     "Tedrake Underactuated/img_source",
     "Tedrake Underactuated",
     "Physics Informed Machine Learning",
