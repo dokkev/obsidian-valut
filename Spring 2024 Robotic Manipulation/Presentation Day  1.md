@@ -11,4 +11,5 @@
 - Instantaneous Screw Axis TF and Clustering as previous work
 - Goals
 	- utilize movement primitives to train a policy (execute predicted trajectories)
+- BC : input-> encoder decoder ->dense -> output
 - 
