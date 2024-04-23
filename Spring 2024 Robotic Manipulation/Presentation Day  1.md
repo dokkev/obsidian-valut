@@ -13,3 +13,6 @@
 	- utilize movement primitives to train a policy (execute predicted trajectories)
 - BC with LSTM : input-> encoder decoder ->dense -> output
 - EE position? -> is it doing IK?
+
+### Fernando
+- 
