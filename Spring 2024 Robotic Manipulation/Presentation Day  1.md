@@ -14,5 +14,5 @@
 - BC with LSTM : input-> encoder decoder ->dense -> output
 - EE position? -> is it doing IK?
 
-### Fernando
-- 
+### Fernando: Learning to compensate for friction
+- good for compl
