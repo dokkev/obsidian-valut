@@ -21,3 +21,7 @@
 - OSC
 - u_f = u - f_theta
 - desired ee -> osc -> tau -> sim1 (control + friction torque) -> known torque frictional torque
+- Assuming that simulation has good friction model
+### Abayomi and Evan: Goal conditioned RL
+- RL not scalable
+- 
