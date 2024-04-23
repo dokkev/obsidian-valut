@@ -10,4 +10,5 @@
 - reducing the action spaces to finite may improve
 - Instantaneous Screw Axis TF and Clustering as previous work
 - Goals
-	- utilize movement primitives to train a policy ()
+	- utilize movement primitives to train a policy (execute predicted trajectories)
+- 
