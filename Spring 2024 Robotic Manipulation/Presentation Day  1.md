@@ -20,4 +20,4 @@
 - It's hardware specific
 - OSC
 - u_f = u - f_theta
-- desired ee -> osc ->
+- desired ee -> osc -> tau -> sim1 (control + friction torque) -> known torque frictional torque
