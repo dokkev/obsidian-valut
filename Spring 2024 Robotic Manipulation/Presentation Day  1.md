@@ -15,4 +15,7 @@
 - EE position? -> is it doing IK?
 
 ### Fernando: Learning to compensate for friction
-- good for compl
+- good for compliant controller
+- dependant on temp, angle, velocity,....
+- It's hardware specific
+- 
