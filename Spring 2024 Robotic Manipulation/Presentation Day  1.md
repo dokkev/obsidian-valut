@@ -8,4 +8,6 @@
 ### Heath: Hierarchical RL
 - high-D action spaces and state spaces
 - reducing the action spaces to finite may improve
-- Instante
+- Instantaneous Screw Axis TF and Clustering as previous work
+- Goals
+	- utilize movement primitives to train a policy ()
