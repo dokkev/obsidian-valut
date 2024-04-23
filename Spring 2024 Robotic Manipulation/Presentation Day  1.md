@@ -26,4 +26,5 @@
 - RL not scalable
 - GCRL for grasping
 - GCRL: RL where the reward signal is also dependent on some goal states
-- 
+
+### 
