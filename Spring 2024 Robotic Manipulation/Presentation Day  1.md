@@ -20,4 +20,4 @@
 - It's hardware specific
 - OSC
 - u_f = u - f_theta
-- 
+- desired ee -> osc ->
