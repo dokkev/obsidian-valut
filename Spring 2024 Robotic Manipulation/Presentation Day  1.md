@@ -18,4 +18,6 @@
 - good for compliant controller
 - dependant on temp, angle, velocity,....
 - It's hardware specific
+- OSC
+- u_f = u - f_theta
 - 
