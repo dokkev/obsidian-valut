@@ -16,7 +16,7 @@
 
 ### Fernando: Learning to compensate for friction
 - good for compliant controller
-- dependent on temp, angle, velocity,....
+- dependent on temp, angle, velocity
 - It's hardware specific
 - OSC
 - u_f = u - f_theta
@@ -30,3 +30,4 @@
 ### Sharan and Shah: Fine-tuning VLM for Robotic Planning Task
 - Planning in LLM
 - Ai2Thor as simulator
+ 
