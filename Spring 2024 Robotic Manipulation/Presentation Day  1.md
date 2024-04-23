@@ -5,4 +5,7 @@
 	- different action -> depends on state transition
 - Fast LfD, updating and adapting learned models
 
-### Heath: Hierarchial 
+### Heath: Hierarchical RL
+- high-D action spaces and state spaces
+- reducing the action spaces to finite may improve
+- Instante
