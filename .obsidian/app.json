@@ -32,6 +32,7 @@
     "underactuated",
     "quaternion",
     "computer",
-    "MuJoCo"
+    "MuJoCo",
+    "Inte"
   ]
 }

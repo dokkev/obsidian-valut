@@ -28,4 +28,5 @@
 - GCRL: RL where the reward signal is also dependent on some goal states
 
 ### Sharan and Shah: Fine-tuning VLM for Robotic Planning Task
-- Inte
+- Planning in LLM
+- 
