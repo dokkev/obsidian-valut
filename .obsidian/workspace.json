@@ -4,23 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2361e25fa858a1de",
+        "id": "4e217b47a09de85f",
         "type": "tabs",
         "children": [
           {
-            "id": "718847f6c45dea70",
+            "id": "da499bec9279ec0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts & Knowledge/Learning Robotics.md",
+                "file": "Tedrake Underactuated/Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4705a7a886cf135d",
+            "id": "0d5a5b60c7f6e8f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tedrake Underactuated/Lecture 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d00ddd0f935c1421",
             "type": "leaf",
             "state": {
               "type": "release-notes",
@@ -30,7 +42,61 @@
             }
           },
           {
-            "id": "f04022df14220783",
+            "id": "45fd1280d874061c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Concepts & Knowledge/img_source/Pasted image 20240415171734.png"
+              }
+            }
+          },
+          {
+            "id": "67d2c954d0e29c8e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Linear Algebra/img_source/Pasted image 20240421181642.png"
+              }
+            }
+          },
+          {
+            "id": "d1c8a169dafb0af8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e767460d4434dc00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts & Knowledge/Graphs of Convex Sets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81f801d98ce76100",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Concepts & Knowledge/img_source/Pasted image 20240415171734 1.png"
+              }
+            }
+          },
+          {
+            "id": "c526a2356459d11a",
             "type": "leaf",
             "state": {
               "type": "image",
@@ -38,53 +104,9 @@
                 "file": "Concepts & Knowledge/Pasted image 20240421182459.png"
               }
             }
-          },
-          {
-            "id": "d22268831779f1f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2024 Robotic Manipulation/Presentation Day 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4761ef8e937d91a2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Linear Algebra/img_source/Pasted image 20240421182059 1.png"
-              }
-            }
-          },
-          {
-            "id": "a6564a1ec63b78ee",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Linear Algebra/img_source/Pasted image 20240421182459.png"
-              }
-            }
-          },
-          {
-            "id": "f02fda1436995775",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2024 Robotic Manipulation/Presentation Day  1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -134,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 212.5
   },
   "right": {
     "id": "c15f7e551bb8ae20",
@@ -150,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Presentation Day  1.md",
+                "file": "Concepts & Knowledge/Pasted image 20240421182459.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Presentation Day  1.md",
+                "file": "Concepts & Knowledge/Pasted image 20240421182459.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2024 Robotic Manipulation/Presentation Day  1.md"
+                "file": "Concepts & Knowledge/Pasted image 20240421182459.png"
               }
             }
           }
@@ -211,53 +233,54 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f02fda1436995775",
+  "active": "5444ba93733c14bf",
   "lastOpenFiles": [
-    "Linear Algebra/img_source/Pasted image 20240421182459.png",
-    "Spring 2024 Robotic Manipulation/Presentation Day  1.md",
-    "Linear Algebra/img_source/Pasted image 20240421182059 1.png",
-    "conflict-files-obsidian-git.md",
-    "Spring 2024 Robotic Manipulation/Presentation Day 1.md",
-    "Linear Algebra/img_source/Pasted image 20240421182059.png",
+    "Concepts & Knowledge/img_source/Pasted image 20240415171734 1.png",
     "Concepts & Knowledge/Pasted image 20240421182459.png",
-    "Linear Algebra/img_source/Pasted image 20240421181856.png",
-    "Linear Algebra/img_source/Pasted image 20240421181826.png",
-    "Linear Algebra/img_source/Pasted image 20240421181642.png",
-    "Linear Algebra/img_source",
-    "Linear Algebra/Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "Concepts & Knowledge/Graphs of Convex Sets.md",
+    "Concepts & Knowledge/Operational Space Control.md",
+    "Concepts & Knowledge/img_source/Pasted image 20240415171734.png",
+    "Linear Algebra/img_source/Pasted image 20240421182459 1.png",
     "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
+    "Spring 2024 Robotic Manipulation/Presentation Day 1.md",
+    "Spring 2024 Robotic Manipulation/Presentation Day  1.md",
+    "Linear Algebra/img_source/Pasted image 20240421182459.png",
+    "Linear Algebra/img_source/Pasted image 20240421182059.png",
+    "Linear Algebra/img_source/Pasted image 20240421182059 1.png",
+    "Pasted image 20240421182459.png",
+    "Pasted image 20240421182059.png",
+    "Pasted image 20240421182045.png",
+    "Linear Algebra/Untitled.md",
+    "Linear Algebra/img_source",
+    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
     "Linear Algebra",
-    "Concepts & Knowledge/img_source/Pasted image 20240418183200.png",
-    "Concepts & Knowledge/Pasted image 20240415171734.png",
-    "Pasted image 20240418183200.png",
     "SIm2Real/img",
     "SIm2Real/TD-MPC2.md",
-    "Concepts & Knowledge/How to give a Good Talk.md",
+    "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
     "Concepts & Knowledge/Learning Robotics.md",
-    "Concepts & Knowledge/Karnopp Friction Compensation.md",
-    "Concepts & Knowledge/Nullspace Control.md",
-    "Concepts & Knowledge/Operational Space Control.md",
-    "Spring 2024 Robotic Manipulation/Debate 4 - Minimum Human Intervention.md",
-    "Spring 2024 Robotic Manipulation/Homework 21 - Real World (Learning).md",
+    "[].md",
     "Spring 2024 Robotic Manipulation/Lecture 19 - Multimodal Task.md",
-    "Spring 2024 Robotic Manipulation/Lecture 17 - Benchmark.md",
-    "SIm2Real/TDMPC.md",
-    "SIm2Real",
+    "Spring 2024 Robotic Manipulation/Homework 21 - Real World (Learning).md",
     "Spring 2024 Robotic Manipulation/Homework 20 - Real World (Foundation).md",
     "Spring 2024 Robotic Manipulation/Homework 19 - Language in Robot Manipulation (Learning).md",
     "Spring 2024 Robotic Manipulation/Homework 18 - NLP.md",
-    "PLATO/PLATO Embedded System/CAN Protocol Overview.md",
-    "C++ Learning",
-    "PLATO/PLATO Hand/ROS2 SocketCAN.md",
-    "PLATO/PLATO Hand/Robotic Fingernail.md",
-    "PLATO/Canvas.canvas",
-    "PLATO/Account Info.md",
+    "Spring 2024 Robotic Manipulation/Debate 4 - Minimum Human Intervention.md",
+    "SIm2Real/TDMPC.md",
+    "SIm2Real",
+    "Spring 2024 Robotic Manipulation/Lecture 17 - Benchmark.md",
     "Spring 2024 Robotic Manipulation/Lecture 16 - Sim2Real.md",
+    "Spring 2024 Robotic Manipulation/Lecture 15 - RL (Model-free).md",
     "Spring 2024 Robotic Manipulation/Homework 17 - Benchmark.md",
+    "Spring 2024 Robotic Manipulation/Homework 16 - Sim2Real.md",
+    "Spring 2024 Robotic Manipulation/Homework 15 - Simulators for Robotic Manipulation.md",
+    "Untitled.canvas",
     "Tedrake Underactuated/img_source",
     "Tedrake Underactuated",
     "Physics Informed Machine Learning",
+    "Tedrake Underactuated",
     "Concepts & Knowledge/img_source",
-    "Spring 2024 Robotic Manipulation"
+    "Spring 2024 Robotic Manipulation",
+    "PLATO/Canvas.canvas"
   ]
 }
