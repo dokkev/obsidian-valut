@@ -99,9 +99,11 @@
             "id": "c526a2356459d11a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Concepts & Knowledge/Pasted image 20240421182459.png"
+                "file": "Concepts & Knowledge/Graphs of Convex Sets.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -172,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts & Knowledge/Pasted image 20240421182459.png",
+                "file": "Concepts & Knowledge/Graphs of Convex Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts & Knowledge/Pasted image 20240421182459.png",
+                "file": "Concepts & Knowledge/Graphs of Convex Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts & Knowledge/Pasted image 20240421182459.png"
+                "file": "Concepts & Knowledge/Graphs of Convex Sets.md"
               }
             }
           }
@@ -233,10 +235,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5444ba93733c14bf",
+  "active": "c526a2356459d11a",
   "lastOpenFiles": [
+    "Concepts & Knowledge/Untitled.md",
+    "Linear Algebra/img_source/Pasted image 20240421182459 2.png",
     "Concepts & Knowledge/img_source/Pasted image 20240415171734 1.png",
-    "Concepts & Knowledge/Pasted image 20240421182459.png",
     "conflict-files-obsidian-git.md",
     "Concepts & Knowledge/Graphs of Convex Sets.md",
     "Concepts & Knowledge/Operational Space Control.md",
@@ -273,7 +276,6 @@
     "Spring 2024 Robotic Manipulation/Lecture 15 - RL (Model-free).md",
     "Spring 2024 Robotic Manipulation/Homework 17 - Benchmark.md",
     "Spring 2024 Robotic Manipulation/Homework 16 - Sim2Real.md",
-    "Spring 2024 Robotic Manipulation/Homework 15 - Simulators for Robotic Manipulation.md",
     "Untitled.canvas",
     "Tedrake Underactuated/img_source",
     "Tedrake Underactuated",
