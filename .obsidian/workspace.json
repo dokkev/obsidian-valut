@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Online Courses/Boyd Convex Optimization/Lecture 1.md",
+                "file": "Concepts & Knowledge/Operational Space Control.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Online Courses/Boyd Convex Optimization/Lecture 1.md",
+                "file": "Concepts & Knowledge/Operational Space Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Online Courses/Boyd Convex Optimization/Lecture 1.md",
+                "file": "Concepts & Knowledge/Operational Space Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Online Courses/Boyd Convex Optimization/Lecture 1.md"
+                "file": "Concepts & Knowledge/Operational Space Control.md"
               }
             }
           }
@@ -237,8 +237,8 @@
   },
   "active": "c526a2356459d11a",
   "lastOpenFiles": [
-    "Concepts & Knowledge/Intro Robotics.md",
     "Online Courses/Boyd Convex Optimization/Lecture 1.md",
+    "Concepts & Knowledge/Intro Robotics.md",
     "UT Courses",
     "Concepts & Knowledge/Graphs of Convex Sets.md",
     "Online Courses",
