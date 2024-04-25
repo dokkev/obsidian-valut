@@ -57,7 +57,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Linear Algebra/img_source/Pasted image 20240421181642.png"
+                "file": "Learning Robotics/Linear Algebra/img_source/Pasted image 20240421181642.png"
               }
             }
           },
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
+                "file": "Learning Robotics/Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
                 "mode": "source",
                 "source": false
               }
@@ -237,28 +237,29 @@
   },
   "active": "5444ba93733c14bf",
   "lastOpenFiles": [
-    "Boyd Convex Optimization",
+    "Learning Robotics",
+    "Learning Robotics/Boyd Convex Optimization",
     "Concepts & Knowledge/Untitled.md",
-    "Linear Algebra/img_source/Pasted image 20240421182459 2.png",
+    "Learning Robotics/Linear Algebra/img_source/Pasted image 20240421182459 2.png",
     "Concepts & Knowledge/img_source/Pasted image 20240415171734 1.png",
     "conflict-files-obsidian-git.md",
     "Concepts & Knowledge/Graphs of Convex Sets.md",
     "Concepts & Knowledge/Operational Space Control.md",
     "Concepts & Knowledge/img_source/Pasted image 20240415171734.png",
-    "Linear Algebra/img_source/Pasted image 20240421182459 1.png",
-    "Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
+    "Learning Robotics/Linear Algebra/img_source/Pasted image 20240421182459 1.png",
+    "Learning Robotics/Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
     "Spring 2024 Robotic Manipulation/Presentation Day 1.md",
     "Spring 2024 Robotic Manipulation/Presentation Day  1.md",
-    "Linear Algebra/img_source/Pasted image 20240421182459.png",
-    "Linear Algebra/img_source/Pasted image 20240421182059.png",
-    "Linear Algebra/img_source/Pasted image 20240421182059 1.png",
+    "Learning Robotics/Linear Algebra/img_source/Pasted image 20240421182459.png",
+    "Learning Robotics/Linear Algebra/img_source/Pasted image 20240421182059.png",
+    "Learning Robotics/Linear Algebra/img_source/Pasted image 20240421182059 1.png",
     "Pasted image 20240421182459.png",
     "Pasted image 20240421182059.png",
     "Pasted image 20240421182045.png",
-    "Linear Algebra/Untitled.md",
-    "Linear Algebra/img_source",
+    "Learning Robotics/Linear Algebra/Untitled.md",
+    "Learning Robotics/Linear Algebra/img_source",
     "Reinforcement Learning/Humanoid Locomotion Using RL.md",
-    "Linear Algebra",
+    "Learning Robotics/Linear Algebra",
     "SIm2Real/img",
     "SIm2Real/TD-MPC2.md",
     "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
@@ -283,7 +284,6 @@
     "Physics Informed Machine Learning",
     "Tedrake Underactuated",
     "Concepts & Knowledge/img_source",
-    "Spring 2024 Robotic Manipulation",
     "PLATO/Canvas.canvas"
   ]
 }
