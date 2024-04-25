@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Robotics/Tedrake Underactuated/Lecture 1.md",
+                "file": "Online Courses/Tedrake Underactuated/Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Robotics/Tedrake Underactuated/Lecture 1.md",
+                "file": "Online Courses/Tedrake Underactuated/Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Learning Robotics/Linear Algebra/img_source/Pasted image 20240421181642.png"
+                "file": "Online Courses/3b1b Linear Algebra/img_source/Pasted image 20240421181642.png"
               }
             }
           },
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Robotics/Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
+                "file": "Online Courses/3b1b Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts & Knowledge/Intro Robotics.md",
+                "file": "Online Courses/Boyd Convex Optimization/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts & Knowledge/Intro Robotics.md",
+                "file": "Online Courses/Boyd Convex Optimization/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts & Knowledge/Intro Robotics.md",
+                "file": "Online Courses/Boyd Convex Optimization/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts & Knowledge/Intro Robotics.md"
+                "file": "Online Courses/Boyd Convex Optimization/Untitled.md"
               }
             }
           }
@@ -235,36 +235,37 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5444ba93733c14bf",
+  "active": "c526a2356459d11a",
   "lastOpenFiles": [
+    "Concepts & Knowledge/Intro Robotics.md",
+    "Online Courses/Boyd Convex Optimization/Untitled.md",
     "UT Courses",
     "Concepts & Knowledge/Graphs of Convex Sets.md",
-    "Learning Robotics",
-    "Learning Robotics/Boyd Convex Optimization",
+    "Online Courses",
+    "Online Courses/Boyd Convex Optimization",
     "Concepts & Knowledge/Untitled.md",
-    "Learning Robotics/Linear Algebra/img_source/Pasted image 20240421182459 2.png",
+    "Online Courses/3b1b Linear Algebra/img_source/Pasted image 20240421182459 2.png",
     "Concepts & Knowledge/img_source/Pasted image 20240415171734 1.png",
     "conflict-files-obsidian-git.md",
     "Concepts & Knowledge/Operational Space Control.md",
     "Concepts & Knowledge/img_source/Pasted image 20240415171734.png",
-    "Learning Robotics/Linear Algebra/img_source/Pasted image 20240421182459 1.png",
-    "Learning Robotics/Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
+    "Online Courses/3b1b Linear Algebra/img_source/Pasted image 20240421182459 1.png",
+    "Online Courses/3b1b Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
     "UT Courses/Spring 2024 Robotic Manipulation/Presentation Day 1.md",
     "UT Courses/Spring 2024 Robotic Manipulation/Presentation Day  1.md",
-    "Learning Robotics/Linear Algebra/img_source/Pasted image 20240421182459.png",
-    "Learning Robotics/Linear Algebra/img_source/Pasted image 20240421182059.png",
-    "Learning Robotics/Linear Algebra/img_source/Pasted image 20240421182059 1.png",
+    "Online Courses/3b1b Linear Algebra/img_source/Pasted image 20240421182459.png",
+    "Online Courses/3b1b Linear Algebra/img_source/Pasted image 20240421182059.png",
+    "Online Courses/3b1b Linear Algebra/img_source/Pasted image 20240421182059 1.png",
     "Pasted image 20240421182459.png",
     "Pasted image 20240421182059.png",
     "Pasted image 20240421182045.png",
-    "Learning Robotics/Linear Algebra/Untitled.md",
-    "Learning Robotics/Linear Algebra/img_source",
+    "Online Courses/3b1b Linear Algebra/Untitled.md",
+    "Online Courses/3b1b Linear Algebra/img_source",
     "Reinforcement Learning/Humanoid Locomotion Using RL.md",
-    "Learning Robotics/Linear Algebra",
+    "Online Courses/3b1b Linear Algebra",
     "SIm2Real/img",
     "SIm2Real/TD-MPC2.md",
     "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
-    "Concepts & Knowledge/Intro Robotics.md",
     "[].md",
     "UT Courses/Spring 2024 Robotic Manipulation/Lecture 19 - Multimodal Task.md",
     "UT Courses/Spring 2024 Robotic Manipulation/Homework 21 - Real World (Learning).md",
@@ -280,10 +281,9 @@
     "UT Courses/Spring 2024 Robotic Manipulation/Homework 17 - Benchmark.md",
     "UT Courses/Spring 2024 Robotic Manipulation/Homework 16 - Sim2Real.md",
     "Untitled.canvas",
-    "Learning Robotics/Tedrake Underactuated/img_source",
-    "Learning Robotics/Tedrake Underactuated",
+    "Online Courses/Tedrake Underactuated/img_source",
+    "Online Courses/Tedrake Underactuated",
     "Physics Informed Machine Learning",
-    "Learning Robotics/Tedrake Underactuated",
     "PLATO/Canvas.canvas"
   ]
 }
