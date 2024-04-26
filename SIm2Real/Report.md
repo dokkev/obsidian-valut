@@ -2,5 +2,6 @@
 - Matured computer vision technologies have enabled the rapid progression of robotic perception and the capability for sophisticated task and motion planning for a long horizon task combined with the new wave of using large language models for the robotic decision-making process. 
 - Meanwhile, contact-rich manipulation remains a challenging problem due to the nature of high-dimensional and non-linear contact mechanics when the robot interacts closely with the environment.  
 - This advancement in artifical intelligence struggles in the low level ineraction with the enviroment
-- A
+- Intelligence needs to be embodied into the system for robots to perform contact-rich manipulation tasks.
+- Modeling co
 - Despite those challenges, learning contact-rich manipulation skills is necessary for robots to interact with environments with stable contact safely for tasks such as pushing, wiping, and using tools.
