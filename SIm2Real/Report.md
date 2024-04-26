@@ -3,5 +3,6 @@
 - Meanwhile, contact-rich manipulation remains a challenging problem due to the nature of high-dimensional and non-linear contact mechanics when the robot interacts closely with the environment.  
 - This advancement in artifical intelligence struggles in the low level ineraction with the enviroment
 - Intelligence needs to be embodied into the system for robots to perform contact-rich manipulation tasks.
-- Modeling contact is hard like mentioned, and most simulation approximate contact due to limited computation resources and make the simulation faster. 
+- Modeling contact is hard like mentioned, and most simulation approximate contact due to limited computation resources and make the simulation faster.
+- This simulation to reality gap is aggravated in contact rich-manipulation tasks 
 - Despite those challenges, learning contact-rich manipulation skills is necessary for robots to interact with environments with stable contact safely for tasks such as pushing, wiping, and using tools.
