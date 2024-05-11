@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "2361e25fa858a1de",
+        "id": "4e217b47a09de85f",
         "type": "tabs",
         "children": [
           {
-            "id": "4705a7a886cf135d",
+            "id": "d00ddd0f935c1421",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
+            "id": "45fd1280d874061c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIm2Real/TODO.md",
+                "file": "Prorioceptive Actuation/What is proprioceptive actutation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 212.5
   },
   "right": {
     "id": "c15f7e551bb8ae20",
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIm2Real/TODO.md",
+                "file": "Prorioceptive Actuation/What is proprioceptive actutation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIm2Real/TODO.md",
+                "file": "Prorioceptive Actuation/What is proprioceptive actutation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIm2Real/TODO.md"
+                "file": "Prorioceptive Actuation/What is proprioceptive actutation.md"
               }
             }
           }
@@ -146,33 +157,31 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4705a7a886cf135d",
+  "active": "45fd1280d874061c",
   "lastOpenFiles": [
     "SIm2Real/TODO.md",
-    "Untitled",
+    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
     "Prorioceptive Actuation/What is proprioceptive actutation.md",
     "Prorioceptive Actuation",
+    "conflict-files-obsidian-git.md",
     "SIm2Real/Report.md",
-    "Spring 2024 Robotic Manipulation/Presentation Day 1.md",
-    "Linear Algebra/img_source/Pasted image 20240421182059.png",
-    "Spring 2024 Robotic Manipulation/Presentation Day  1.md",
     "Whole Body Control/Untitled.md",
     "Whole Body Control",
     "UT Courses/Spring 2024 Robotic Manipulation/Presentation Day 1.md",
-    "UT Courses/Spring 2024 Robotic Manipulation/Presentation Day  1.md",
     "UT Courses/Spring 2024 Robotic Manipulation/Lecture 9  - TAMP (Fundamental).md",
+    "UT Courses/Spring 2024 Robotic Manipulation/Presentation Day  1.md",
     "UT Courses/Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md",
     "UT Courses/Spring 2024 Robotic Manipulation/Lecture 5 - Control (Fundamental).md",
     "UT Courses/Spring 2024 Robotic Manipulation/Lecture 4 - Grasping (Learning).md",
-    "UT Courses/Spring 2024 Robotic Manipulation/Lecture 3 - Grasping (Fundamental).md",
     "UT Courses/Spring 2024 Robotic Manipulation/Lecture 2.md",
+    "UT Courses/Spring 2024 Robotic Manipulation/Lecture 3 - Grasping (Fundamental).md",
     "UT Courses/Spring 2024 Robotic Manipulation/Lecture 19 - Multimodal Task.md",
     "UT Courses/Spring 2024 Robotic Manipulation/Lecture 17 - Benchmark.md",
     "UT Courses/Spring 2024 Robotic Manipulation/Lecture 16 - Sim2Real.md",
     "UT Courses/Spring 2024 Robotic Manipulation/Lecture 15 - RL (Model-free).md",
     "UT Courses/Spring 2024 Robotic Manipulation/Lecture 15 - RL (Model-free Learning).md",
-    "UT Courses/Spring 2024 Robotic Manipulation/Lecture 14 - Intro to RL (Decision Making).md",
     "UT Courses/Spring 2024 Robotic Manipulation/Lecture 13 - RT.md",
+    "UT Courses/Spring 2024 Robotic Manipulation/Lecture 14 - Intro to RL (Decision Making).md",
     "UT Courses/Spring 2024 Robotic Manipulation/Lecture 11 - Imitation Learning (Fundamental).md",
     "UT Courses/Spring 2024 Robotic Manipulation/Lecture 10 - TAMP (Learning).md",
     "UT Courses/Spring 2024 Robotic Manipulation/Lecture 1.md",
@@ -189,11 +198,14 @@
     "Online Courses/Tedrake Underactuated/img_source/Pasted image 20240304134016.png",
     "Online Courses/Tedrake Underactuated/img_source/Pasted image 20240304133822.png",
     "Online Courses/Tedrake Underactuated/img_source/Pasted image 20240304133729.png",
+    "Online Courses/Tedrake Underactuated/img_source/Pasted image 20240304133637.png",
     "Online Courses/Tedrake Underactuated/img_source",
     "Online Courses/3b1b Linear Algebra/img_source",
-    "Online Courses/Tedrake Underactuated",
     "Online Courses/Tedrake Robotic Manipulation",
+    "Online Courses/Tedrake Underactuated",
     "Online Courses/Boyd Convex Optimization",
+    "Online Courses/3b1b Linear Algebra",
+    "Untitled.canvas",
     "PLATO/Canvas.canvas"
   ]
 }
