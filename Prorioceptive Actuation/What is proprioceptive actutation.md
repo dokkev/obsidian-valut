@@ -5,3 +5,4 @@ Typical manipulators approach objects in slow manner, unlike human moves in high
 Most simulation does not consider rotor inertia. 
 
 Backdrivability is not defined quantitatively. Instead, Impact Mitigation Factor (IMF) is a normalized inertia quantity representing "Force transparency". There is a concept of operation space mass matrix. 
+![[Pasted image 20240511172726.png]]
