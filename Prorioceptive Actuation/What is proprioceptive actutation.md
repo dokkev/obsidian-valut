@@ -4,4 +4,4 @@ Proprioceptive actuation has been used in haptic devices. (Kenneth Salisbury). I
 Typical manipulators approach objects in slow manner, unlike human moves in high acceleration. In that case, inertial force dominates in contact.  That inertia force is dominated by rotor inertia, gears, bearing, etc. Friction in gears are proportional to the force input (contact force input). 
 Most simulation does not consider rotor inertia. 
 
-Backdrivability is not defined quantitaveively. Insctread, Impact Mitigation Factor (IMF) is a normalized inertia quan
+Backdrivability is not defined quantitatively. Instead, Impact Mitigation Factor (IMF) is a normalized inertia quantity representing "Force transparency". There is a concept of operation space mass matr
