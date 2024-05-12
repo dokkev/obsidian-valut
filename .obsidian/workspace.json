@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prorioceptive Actuation/What is proprioceptive actutation.md",
+                "file": "Concepts & Knowledge/Nullspace Control.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prorioceptive Actuation/What is proprioceptive actutation.md",
+                "file": "Concepts & Knowledge/Nullspace Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prorioceptive Actuation/What is proprioceptive actutation.md",
+                "file": "Concepts & Knowledge/Nullspace Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prorioceptive Actuation/What is proprioceptive actutation.md"
+                "file": "Concepts & Knowledge/Nullspace Control.md"
               }
             }
           }
@@ -159,10 +159,17 @@
   },
   "active": "45fd1280d874061c",
   "lastOpenFiles": [
+    "Concepts & Knowledge/Operational Space Control.md",
+    "Concepts & Knowledge/Nullspace Control.md",
+    "Concepts & Knowledge/img_source/Dynamic System-based LfD.md",
+    "Concepts & Knowledge/Graphs of Convex Sets.md",
+    "Concepts & Knowledge/How to give a Good Talk.md",
+    "Concepts & Knowledge/Intro Robotics.md",
+    "Concepts & Knowledge/Karnopp Friction Compensation.md",
+    "Prorioceptive Actuation/What is proprioceptive actutation.md",
     "Pasted image 20240511172726.png",
     "SIm2Real/TODO.md",
     "Reinforcement Learning/Humanoid Locomotion Using RL.md",
-    "Prorioceptive Actuation/What is proprioceptive actutation.md",
     "Prorioceptive Actuation",
     "conflict-files-obsidian-git.md",
     "SIm2Real/Report.md",
@@ -181,12 +188,6 @@
     "UT Courses/Spring 2024 Robotic Manipulation/Lecture 16 - Sim2Real.md",
     "UT Courses/Spring 2024 Robotic Manipulation/Lecture 15 - RL (Model-free).md",
     "UT Courses/Spring 2024 Robotic Manipulation/Lecture 15 - RL (Model-free Learning).md",
-    "UT Courses/Spring 2024 Robotic Manipulation/Lecture 13 - RT.md",
-    "UT Courses/Spring 2024 Robotic Manipulation/Lecture 14 - Intro to RL (Decision Making).md",
-    "UT Courses/Spring 2024 Robotic Manipulation/Lecture 11 - Imitation Learning (Fundamental).md",
-    "UT Courses/Spring 2024 Robotic Manipulation/Lecture 10 - TAMP (Learning).md",
-    "UT Courses/Spring 2024 Robotic Manipulation/Lecture 1.md",
-    "UT Courses/Spring 2024 Robotic Manipulation/Homework 9 - Imitation Learning (Fundamental).md",
     "UT Courses/Spring 2024 Robotic Manipulation",
     "UT Courses",
     "Online Courses/Tedrake Underactuated/img_source/Pasted image 20240304165853.png",
@@ -198,7 +199,6 @@
     "Online Courses/Tedrake Underactuated/img_source/Pasted image 20240304134016.png",
     "Online Courses/Tedrake Underactuated/img_source/Pasted image 20240304133822.png",
     "Online Courses/Tedrake Underactuated/img_source/Pasted image 20240304133729.png",
-    "Online Courses/Tedrake Underactuated/img_source/Pasted image 20240304133637.png",
     "Online Courses/Tedrake Underactuated/img_source",
     "Online Courses/3b1b Linear Algebra/img_source",
     "Online Courses/Tedrake Robotic Manipulation",
