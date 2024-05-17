@@ -5,4 +5,4 @@ A rigid body can be considered as a collection of point masses that are rigidly 
 - ![[Pasted image 20240517171246.png]]$$\sum{m_{i}r_{i}} = 0$$
 - This point is known as COM. 
 
-Let's assume that the body is moving with a body twist $V_{b}$ , and let $p_{i}(t)$ be the time-vari
+Let's assume that the body is moving with a body twist $V_{b}$ , and let $p_{i}(t)$ be the time-varying position of $m_{i}$ 
