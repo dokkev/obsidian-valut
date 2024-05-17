@@ -9,4 +9,10 @@ There are two approaches to forward and inverse dynamics problems:
 - Newton-Euler formulation - $F=ma$ applied to each individual link of the robot
 
 ### The Lagrangian
-$L(\theta, \dot{theta}) = K(\theta, \dot{theta}) - P(\theta)$
+
+$$L(\theta, \dot{\theta}) = K(\theta, \dot{\theta}) - P(\theta)$$
+
+
+$$
+\tau = \frac{}
+$$
