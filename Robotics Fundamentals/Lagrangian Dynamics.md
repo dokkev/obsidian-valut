@@ -8,7 +8,7 @@ There are two approaches to forward and inverse dynamics problems:
 - Lagrangian formulation - variational approach based on kinetic and potential energy of the robot
 - Newton-Euler formulation - relies on $F=ma$ applied to each individual link of the robot
 
-### The Lagrangian
+## The Lagrangian
 
 $$L(\theta, \dot{\theta}) = K(\theta, \dot{\theta}) - P(\theta)$$
 $$
@@ -16,3 +16,4 @@ $$
 $$
 The equation of the motion becomes:
 $$ \tau = M(\theta)\ddot{\theta} + c(\theta, \dot{\theta}) + g(\theta)) + J^T(\theta)F_{tip}$$
+#### 
