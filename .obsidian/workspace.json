@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotics Fundamentals/Nullspace Control.md",
+                "file": "Robotics Fundamentals/Lagrangian Dynamics.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics Fundamentals/Nullspace Control.md",
+                "file": "Robotics Fundamentals/Lagrangian Dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Robotics Fundamentals/Nullspace Control.md",
+                "file": "Robotics Fundamentals/Lagrangian Dynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robotics Fundamentals/Nullspace Control.md"
+                "file": "Robotics Fundamentals/Lagrangian Dynamics.md"
               }
             }
           }
@@ -159,7 +159,9 @@
   },
   "active": "45fd1280d874061c",
   "lastOpenFiles": [
-    "Robotics Fundamentals/Intro Robotics.md",
+    "Robotics Fundamentals/Robotics Bibles.md",
+    "Robotics Fundamentals/Lagrangian Dynamics.md",
+    "Robotics Fundamentals/Nullspace Control.md",
     "Concepts & Knowledge/Graphs of Convex Sets.md",
     "Concepts & Knowledge/How to give a Good Talk.md",
     "Concepts & Knowledge/Karnopp Friction Compensation.md",
@@ -173,7 +175,6 @@
     "Online Courses/3b1b Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
     "Online Courses/3b1b Linear Algebra/Untitled.md",
     "Online Courses/Boyd Convex Optimization/Lecture 1.md",
-    "Robotics Fundamentals/Nullspace Control.md",
     "Concepts & Knowledge/img_source/Dynamic System-based LfD.md",
     "Prorioceptive Actuation/What is proprioceptive actutation.md",
     "Pasted image 20240511172726.png",
@@ -188,7 +189,6 @@
     "UT Courses/Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md",
     "UT Courses/Spring 2024 Robotic Manipulation/Lecture 5 - Control (Fundamental).md",
     "UT Courses/Spring 2024 Robotic Manipulation/Lecture 4 - Grasping (Learning).md",
-    "UT Courses/Spring 2024 Robotic Manipulation/Lecture 2.md",
     "UT Courses/Spring 2024 Robotic Manipulation",
     "UT Courses",
     "Online Courses/Tedrake Underactuated/img_source/Pasted image 20240304165853.png",

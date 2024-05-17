@@ -1,0 +1,2 @@
+### Forward Dynamics
+- Given $thet$
