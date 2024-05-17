@@ -1,0 +1,1 @@
+A rigid body can be considered as a collection of point masses that are rigidly attached. 
