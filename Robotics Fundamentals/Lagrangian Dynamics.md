@@ -16,6 +16,8 @@ $$
 $$
 The equation of the motion becomes:
 $$ \tau = [M(\theta)\ddot{\theta} + c(\theta, \dot{\theta}) + g(\theta)] + J^T(\theta)F_{tip}$$
+$$  = [M(\theta)\ddot{\theta} + C(\theta, \dot{\theta})\dot{\theta} + g(\theta)] + J^T(\theta)F_{tip}$$
+$$  = [M(\theta)\ddot{\theta} + C(\theta, \dot{\theta})\dot{\theta} + g(\theta)] + J^T(\theta)F_{tip}$$
 The velocity product term can be re-written as:
 $$ \tau = M(\theta)\ddot{\theta} + \dot{\theta}^T\Gamma(\theta)\dot{\theta} + g(\theta) $$
 
