@@ -19,7 +19,7 @@ $$ \tau = [M(\theta)\ddot{\theta} + c(\theta, \dot{\theta}) + g(\theta)] + J^T(\
 $$  = [M(\theta)\ddot{\theta} + C(\theta, \dot{\theta})\dot{\theta} + g(\theta)] + J^T(\theta)F_{tip}$$
 $$  = [M(\theta)\ddot{\theta} + h(\theta,\dot{\theta})] + J^T(\theta)F_{tip}$$
 - $c$ : velocity product term
-- $C$
+- $C$ : Coriolis matrix
 
 The velocity product term can be re-written as:
 $$ \tau = M(\theta)\ddot{\theta} + \dot{\theta}^T\Gamma(\theta)\dot{\theta} + g(\theta) $$
