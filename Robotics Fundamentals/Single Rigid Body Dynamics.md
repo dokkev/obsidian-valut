@@ -8,4 +8,5 @@ A rigid body can be considered as a collection of point masses that are rigidly 
 Let's assume that the body is moving with a body twist $V_{b}$ , and let $p_{i}(t)$ be the time-varying position of $m_{i}$ 
 - $V_{b} = (\omega_{b}, v_{b})$
 - ![[Pasted image 20240517171835.png]]
--
+- ![[Pasted image 20240517171855.png]]****
+- 
