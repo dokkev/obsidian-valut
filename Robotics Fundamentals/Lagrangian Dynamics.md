@@ -16,4 +16,4 @@ $$
 $$
 The equation of the motion becomes:
 $$ \tau = M(\theta)\ddot{\theta} + c(\theta, \dot{\theta}) + g(\theta))$$
-- $M$ : mass matrix ()
+- $M$ : mass matrix ($n  n$)
