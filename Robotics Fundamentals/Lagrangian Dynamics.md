@@ -14,5 +14,6 @@ $$L(\theta, \dot{\theta}) = K(\theta, \dot{\theta}) - P(\theta)$$
 
 
 $$
-\tau = \frac{d}{dt}
+\tau = \frac{d}{dt}\frac{\partial{L}}{\partial{\dot{\theta}}
+}
 $$
