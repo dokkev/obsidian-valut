@@ -11,3 +11,4 @@ Let's assume that the body is moving with a body twist $V_{b}$ , and let $p_{i}(
 - ![[Pasted image 20240517171855.png]]****
 - ![[Pasted image 20240517171955.png]]
 - ![[Pasted image 20240517172041.png]]
+- Where $$f_{b}= m(\dot{v_{b}} + [\o])$$
