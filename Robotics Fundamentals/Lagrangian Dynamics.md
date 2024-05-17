@@ -15,5 +15,4 @@ $$
 \tau = \frac{d}{dt}\frac{\partial{L}}{\partial{\dot{\theta}}} - \frac{\partial{L}}{\partial{\theta}}
 $$
 The equation of the motion becomes:
-$$ \tau = M(\theta)\ddot{\theta} + c(\theta, \dot{\theta}) + g(\theta))$$
-- $M$ : mass matrix ($n  n$)
+$$ \tau = M(\theta)\ddot{\theta} + c(\theta, \dot{\theta}) + g(\theta)) + J^T(\theta)$$
