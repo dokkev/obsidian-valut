@@ -4,6 +4,7 @@
 - Inverse Dynamics
 	-  Given $\theta, \dot{\theta}$, and, $\ddot{\theta}$, find  $\tau$
 
-There are two approaches forward and inverse dynamics problems:
+There are two approaches to forward and inverse dynamics problems:
 - Lagrangian formulation - variational approach based on kinetic and potential energy of the robot
-- 
+- Newton-Euler formulation - $F=ma$ applied to each individual link of the robot
+
