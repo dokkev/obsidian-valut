@@ -19,4 +19,5 @@ $$ \tau = [M(\theta)\ddot{\theta} + c(\theta, \dot{\theta}) + g(\theta)] + J^T(\
 The velocity product term can be re-written as:
 $$ \tau = M(\theta)\ddot{\theta} + \dot{\theta}^T\Gamma(\theta)\dot{\theta} + g(\theta) $$
 
-![[Pasted image 20240517003157.png]]![[Pasted image 20240517003302.png]]
+
+![[Pasted image 20240517003535.png]]
