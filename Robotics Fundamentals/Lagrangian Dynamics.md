@@ -15,5 +15,7 @@ $$
 \tau = \frac{d}{dt}\frac{\partial{L}}{\partial{\dot{\theta}}} - \frac{\partial{L}}{\partial{\theta}}
 $$
 The equation of the motion becomes:
-$$ \tau = M(\theta)\ddot{\theta} + c(\theta, \dot{\theta}) + g(\theta)) + J^T(\theta)F_{tip}$$
-The velocity 
+$$ \tau = [M(\theta)\ddot{\theta} + c(\theta, \dot{\theta}) + g(\theta)] + J^T(\theta)F_{tip}$$
+The velocity product term can be re-written as:
+
+$$ \tau = M(\theta)\ddot{\theta} +  + g(\theta) $$
