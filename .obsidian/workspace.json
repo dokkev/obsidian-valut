@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotics Fundamentals/Untitled.md",
+                "file": "Robotics Fundamentals/Single Rigid Body Dynamics.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics Fundamentals/Untitled.md",
+                "file": "Robotics Fundamentals/Single Rigid Body Dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Robotics Fundamentals/Untitled.md",
+                "file": "Robotics Fundamentals/Single Rigid Body Dynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robotics Fundamentals/Untitled.md"
+                "file": "Robotics Fundamentals/Single Rigid Body Dynamics.md"
               }
             }
           }
@@ -160,7 +160,7 @@
   "active": "45fd1280d874061c",
   "lastOpenFiles": [
     "Robotics Fundamentals/Lagrangian Dynamics.md",
-    "Robotics Fundamentals/Untitled.md",
+    "Robotics Fundamentals/Single Rigid Body Dynamics.md",
     "Pasted image 20240517003649.png",
     "Pasted image 20240517003630.png",
     "Pasted image 20240517003605.png",
