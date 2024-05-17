@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotics Fundamentals/Lagrangian Dynamics.md",
+                "file": "Robotics Fundamentals/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics Fundamentals/Lagrangian Dynamics.md",
+                "file": "Robotics Fundamentals/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Robotics Fundamentals/Lagrangian Dynamics.md",
+                "file": "Robotics Fundamentals/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robotics Fundamentals/Lagrangian Dynamics.md"
+                "file": "Robotics Fundamentals/Untitled.md"
               }
             }
           }
@@ -159,6 +159,8 @@
   },
   "active": "45fd1280d874061c",
   "lastOpenFiles": [
+    "Robotics Fundamentals/Lagrangian Dynamics.md",
+    "Robotics Fundamentals/Untitled.md",
     "Pasted image 20240517003649.png",
     "Pasted image 20240517003630.png",
     "Pasted image 20240517003605.png",
@@ -167,7 +169,6 @@
     "img_source",
     "img_source/Pasted image 20240517003157.png",
     "Robotics Fundamentals/Robotics Bibles.md",
-    "Robotics Fundamentals/Lagrangian Dynamics.md",
     "Robotics Fundamentals/Nullspace Control.md",
     "Concepts & Knowledge/Graphs of Convex Sets.md",
     "Concepts & Knowledge/How to give a Good Talk.md",
@@ -200,7 +201,6 @@
     "Online Courses/Tedrake Underactuated/img_source/Pasted image 20240304165853.png",
     "Online Courses/Tedrake Underactuated/img_source/Pasted image 20240304161304.png",
     "Online Courses/Tedrake Underactuated/img_source/Pasted image 20240304160851.png",
-    "Online Courses/Tedrake Underactuated/img_source/Pasted image 20240304143356.png",
     "Online Courses/Tedrake Underactuated/img_source",
     "Online Courses/3b1b Linear Algebra/img_source",
     "Online Courses/Tedrake Robotic Manipulation",
