@@ -18,3 +18,4 @@ The equation of the motion becomes:
 $$ \tau = [M(\theta)\ddot{\theta} + c(\theta, \dot{\theta}) + g(\theta)] + J^T(\theta)F_{tip}$$
 The velocity product term can be re-written as:
 $$ \tau = M(\theta)\ddot{\theta} + \dot{\theta}^T\Gamma(\theta)\dot{\theta} + g(\theta) $$
+- $\Gamma$ is an $n \times n \times n$ matrix of Christofee
