@@ -1,2 +1,2 @@
 ### Forward Dynamics
-- Given $thet$
+- Given $\theta, \dot{\theta}$, and, $\tau$, find $\ddot{\t}$
