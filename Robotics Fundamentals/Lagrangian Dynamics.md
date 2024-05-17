@@ -20,4 +20,6 @@ The velocity product term can be re-written as:
 $$ \tau = M(\theta)\ddot{\theta} + \dot{\theta}^T\Gamma(\theta)\dot{\theta} + g(\theta) $$
 
 
+![[Pasted image 20240517003630.png]]
 ![[Pasted image 20240517003535.png]]
+![[Pasted image 20240517003649.png]]
