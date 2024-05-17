@@ -9,4 +9,5 @@ Let's assume that the body is moving with a body twist $V_{b}$ , and let $p_{i}(
 - $V_{b} = (\omega_{b}, v_{b})$
 - ![[Pasted image 20240517171835.png]]
 - ![[Pasted image 20240517171855.png]]****
-- 
+- ![[Pasted image 20240517171955.png]]
+- ![[Pasted image 20240517172041.png]]

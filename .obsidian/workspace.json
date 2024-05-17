@@ -21,6 +21,16 @@
             "id": "45fd1280d874061c",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "img_source/Pasted image 20240517003535.png"
+              }
+            }
+          },
+          {
+            "id": "66d31a6c89c700ea",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Robotics Fundamentals/Single Rigid Body Dynamics.md",
@@ -30,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,18 +167,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "45fd1280d874061c",
+  "active": "66d31a6c89c700ea",
   "lastOpenFiles": [
-    "Pasted image 20240517171955.png",
-    "Pasted image 20240517171855.png",
-    "Pasted image 20240517171835.png",
-    "Pasted image 20240517171246.png",
+    "Pasted image 20240517172041.png",
     "Robotics Fundamentals/Lagrangian Dynamics.md",
+    "img_source/Pasted image 20240517003535.png",
+    "img_source/Pasted image 20240517171955.png",
     "Robotics Fundamentals/Single Rigid Body Dynamics.md",
-    "Pasted image 20240517003649.png",
-    "Pasted image 20240517003630.png",
-    "Pasted image 20240517003605.png",
-    "Pasted image 20240517003535.png",
+    "img_source/Pasted image 20240517171855.png",
+    "img_source/Pasted image 20240517171835.png",
+    "img_source/Pasted image 20240517171246.png",
+    "img_source/Pasted image 20240517003649.png",
+    "img_source/Pasted image 20240517003630.png",
+    "img_source/Pasted image 20240517003605.png",
     "img_source/Pasted image 20240517003302.png",
     "img_source",
     "img_source/Pasted image 20240517003157.png",
@@ -189,7 +200,6 @@
     "Online Courses/Boyd Convex Optimization/Lecture 1.md",
     "Concepts & Knowledge/img_source/Dynamic System-based LfD.md",
     "Prorioceptive Actuation/What is proprioceptive actutation.md",
-    "img_source/Pasted image 20240511172726.png",
     "SIm2Real/TODO.md",
     "Prorioceptive Actuation",
     "conflict-files-obsidian-git.md",
