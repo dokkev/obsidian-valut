@@ -4,5 +4,5 @@
 - Such things make designing EM actuators challenging. 
 - Design processes of EM were traditionally governed by performance metrics such as the motor constant, torque constant, peak torque, continuous torque, thermal capacity, etc.
 - Speed reducer is a critical component that affects the control bandwidth and ability to handle collisions with the environment. 
-- Therefore, proprioceptive actuator is proposed that allows  "proprioceptive" foot force control through internal torque control without exteroceptive sensory feedback that is known to cause non-collocated sensing problems upon collision which result in contact instability
+- Therefore, proprioceptive actuator is proposed that allows  "proprioceptive" foot force control through internal torque control without exteroceptive sensory feedback that is known to cause non-collocated sensing problems upon collision which result in contact instability.
 - 
