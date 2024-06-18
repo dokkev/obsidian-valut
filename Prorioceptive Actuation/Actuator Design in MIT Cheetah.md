@@ -8,4 +8,6 @@
 
 #### Torque Density
 - Achieving high torque with a minimum actuator mass is critical due to high ground reaction force (GRF) required to propel
-- Simply employing large motors is not viable since it contribute to GRF
+- Simply employing large motors is not viable since it contribute to GRF requirement
+- This highlights the importance of maximizing torque density.
+- 
