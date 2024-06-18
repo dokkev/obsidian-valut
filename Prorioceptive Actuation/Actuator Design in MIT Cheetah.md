@@ -12,4 +12,8 @@
 - This highlights the importance of maximizing torque density.
 
 #### Energy Efficiency
-- Locomotion 
+- Locomotion is a typically energy dissipative process and the loss mechanisms are categorized into three major modes:
+	- Joule heating
+	- Transmission
+	- Interaction losses
+- 
