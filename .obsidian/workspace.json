@@ -8,6 +8,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "da499bec9279ec0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Online Courses/Tedrake Underactuated/Lecture 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d5a5b60c7f6e8f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Online Courses/Tedrake Underactuated/Lecture 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d00ddd0f935c1421",
             "type": "leaf",
             "state": {
@@ -23,24 +47,70 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "img_source/Pasted image 20240517003535.png"
+                "file": "Concepts & Knowledge/img_source/Pasted image 20240415171734.png"
               }
             }
           },
           {
-            "id": "66d31a6c89c700ea",
+            "id": "67d2c954d0e29c8e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Online Courses/3b1b Linear Algebra/img_source/Pasted image 20240421181642.png"
+              }
+            }
+          },
+          {
+            "id": "d1c8a169dafb0af8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotics Fundamentals/Single Rigid Body Dynamics.md",
+                "file": "Online Courses/3b1b Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e767460d4434dc00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts & Knowledge/Graphs of Convex Sets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81f801d98ce76100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prorioceptive Actuation/Actuator Design in MIT Cheetah.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c526a2356459d11a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PLATO/Account Info.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -106,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics Fundamentals/Single Rigid Body Dynamics.md",
+                "file": "Prorioceptive Actuation/Actuator Design in MIT Cheetah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Robotics Fundamentals/Single Rigid Body Dynamics.md",
+                "file": "Prorioceptive Actuation/Actuator Design in MIT Cheetah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robotics Fundamentals/Single Rigid Body Dynamics.md"
+                "file": "Prorioceptive Actuation/Actuator Design in MIT Cheetah.md"
               }
             }
           }
@@ -167,54 +237,54 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "66d31a6c89c700ea",
+  "active": "81f801d98ce76100",
   "lastOpenFiles": [
-    "Pasted image 20240517172041.png",
-    "Robotics Fundamentals/Lagrangian Dynamics.md",
-    "img_source/Pasted image 20240517003535.png",
+    "Prorioceptive Actuation/What is proprioceptive actutation.md",
+    "Prorioceptive Actuation/Actuator Design in MIT Cheetah.md",
     "img_source/Pasted image 20240517171955.png",
-    "Robotics Fundamentals/Single Rigid Body Dynamics.md",
     "img_source/Pasted image 20240517171855.png",
     "img_source/Pasted image 20240517171835.png",
     "img_source/Pasted image 20240517171246.png",
     "img_source/Pasted image 20240517003649.png",
     "img_source/Pasted image 20240517003630.png",
     "img_source/Pasted image 20240517003605.png",
+    "img_source/Pasted image 20240517003535.png",
     "img_source/Pasted image 20240517003302.png",
-    "img_source",
     "img_source/Pasted image 20240517003157.png",
-    "Robotics Fundamentals/Robotics Bibles.md",
-    "Robotics Fundamentals/Nullspace Control.md",
-    "Concepts & Knowledge/Graphs of Convex Sets.md",
-    "Concepts & Knowledge/How to give a Good Talk.md",
-    "Concepts & Knowledge/Karnopp Friction Compensation.md",
-    "Robotics Fundamentals/Operational Space Control.md",
-    "Online Courses/Tedrake Underactuated/Lecture 1.md",
-    "Robotics Fundamentals",
-    "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
-    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
-    "Reinforcement Learning/Mujoco vs Issac Gym.md",
-    "Whole Body Control/Untitled.md",
-    "Online Courses/3b1b Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
-    "Online Courses/3b1b Linear Algebra/Untitled.md",
-    "Online Courses/Boyd Convex Optimization/Lecture 1.md",
-    "Concepts & Knowledge/img_source/Dynamic System-based LfD.md",
-    "Prorioceptive Actuation/What is proprioceptive actutation.md",
+    "img_source",
     "SIm2Real/TODO.md",
-    "Prorioceptive Actuation",
-    "conflict-files-obsidian-git.md",
+    "Robotics Fundamentals/Single Rigid Body Dynamics.md",
+    "Robotics Fundamentals/Robotics Bibles.md",
+    "Robotics Fundamentals/Operational Space Control.md",
+    "Robotics Fundamentals/Nullspace Control.md",
+    "Robotics Fundamentals/Lagrangian Dynamics.md",
+    "Robotics Fundamentals",
+    "PLATO/Account Info.md",
+    "Whole Body Control/Untitled.md",
     "SIm2Real/Report.md",
+    "Prorioceptive Actuation",
+    "SIm2Real/TD-MPC2.md",
+    "SIm2Real/TDMPC.md",
+    "Concepts & Knowledge/Operational Space Control.md",
     "Whole Body Control",
-    "UT Courses/Spring 2024 Robotic Manipulation/Presentation Day 1.md",
-    "UT Courses/Spring 2024 Robotic Manipulation/Lecture 9  - TAMP (Fundamental).md",
-    "UT Courses/Spring 2024 Robotic Manipulation/Presentation Day  1.md",
-    "UT Courses/Spring 2024 Robotic Manipulation/Lecture 7 - Motion Planning (Fundamental).md",
-    "UT Courses/Spring 2024 Robotic Manipulation",
+    "Online Courses/Boyd Convex Optimization/Lecture 1.md",
+    "Concepts & Knowledge/Intro Robotics.md",
     "UT Courses",
-    "Online Courses/Tedrake Underactuated/img_source",
+    "Concepts & Knowledge/Graphs of Convex Sets.md",
+    "Online Courses",
+    "Online Courses/Boyd Convex Optimization",
+    "Concepts & Knowledge/Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "Online Courses/3b1b Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
+    "UT Courses/Spring 2024 Robotic Manipulation/Presentation Day 1.md",
+    "UT Courses/Spring 2024 Robotic Manipulation/Presentation Day  1.md",
+    "Online Courses/3b1b Linear Algebra/Untitled.md",
     "Online Courses/3b1b Linear Algebra/img_source",
-    "Online Courses/Tedrake Robotic Manipulation",
-    "Online Courses/Tedrake Underactuated",
+    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
+    "Online Courses/3b1b Linear Algebra",
+    "SIm2Real/img",
+    "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
+    "[].md",
     "Untitled.canvas",
     "PLATO/Canvas.canvas"
   ]
