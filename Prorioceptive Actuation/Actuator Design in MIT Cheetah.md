@@ -17,4 +17,5 @@
 	- Transmission
 	- Interaction losses
 - Low gear ratios will reduced the reflected inertia but can cost higher energy in generating torque via Joule heating. 
-- High gear ratios may improve energetics in theory but can break a leg upon contact or enven could prevent a desired dynamic motion
+- High gear ratios may improve energetics in theory but can break a leg upon contact or even could prevent a desired dynamic motion due to excessive mechanical impedance. 
+- 
