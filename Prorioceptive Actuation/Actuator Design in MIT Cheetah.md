@@ -7,4 +7,4 @@
 - Therefore, proprioceptive actuator is proposed that allows  "proprioceptive" foot force control through internal torque control without exteroceptive sensory feedback that is known to cause non-collocated sensing problems upon collision which result in contact instability.
 
 #### Torque Density
-Achieving high torque with a minimum actuator mass is critical due to high ground reaction force
+Achieving high torque with a minimum actuator mass is critical due to high ground reaction force (GRF) required to propel
