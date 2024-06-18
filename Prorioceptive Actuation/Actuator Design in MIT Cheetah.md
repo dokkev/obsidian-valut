@@ -1,2 +1,2 @@
 ### Introduction
-- While past robotics have focused on rapid and accurate pick-and-place position control in controlled environments, 
+- While past robotics have focused on rapid and accurate pick-and-place position control in controlled environments, future mobile robots must be capable to manager broader dynamic and force-critical interactions in unstructured environments. 
