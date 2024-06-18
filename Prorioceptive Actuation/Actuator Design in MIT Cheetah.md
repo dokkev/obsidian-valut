@@ -16,4 +16,4 @@
 	- Joule heating
 	- Transmission
 	- Interaction losses
-- 
+- Low gear ratios will reduced the reflected inertia but can cost higher energy in generating torque via Joule heating. 
