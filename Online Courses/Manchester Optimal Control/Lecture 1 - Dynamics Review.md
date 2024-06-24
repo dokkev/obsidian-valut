@@ -17,4 +17,4 @@ $$
 
 
 ### Example: Pendulum
-![[Pasted image 20240624180236.png]]
+![[Pasted image 20240624180522.png]]
