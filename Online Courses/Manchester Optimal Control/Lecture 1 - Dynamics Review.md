@@ -8,4 +8,8 @@ $$
 - $u$ → State $\in \mathbb{R}^m$
 
 For a mechanical system:
-$$X = \begin{bmatrix}$$
+$$
+X = 
+\begin{bmatrix} q \\ v \end{bmatrix}
+$$
+- q -> conf
