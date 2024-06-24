@@ -7,4 +7,5 @@ $$
 - $x$ → State $\in \mathbb{R}^n$
 - $u$ → State $\in \mathbb{R}^m$
 
-For a mechani
+For a mechanical system:
+$$X = \begin{bmatrix}$$
