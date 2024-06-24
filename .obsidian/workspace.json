@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotics Fundamentals/Nullspace Control.md",
+                "file": "Online Courses/Manchester Optimal Control/Lecture 1 - Dynamics Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics Fundamentals/Nullspace Control.md",
+                "file": "Online Courses/Manchester Optimal Control/Lecture 1 - Dynamics Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Robotics Fundamentals/Nullspace Control.md",
+                "file": "Online Courses/Manchester Optimal Control/Lecture 1 - Dynamics Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robotics Fundamentals/Nullspace Control.md"
+                "file": "Online Courses/Manchester Optimal Control/Lecture 1 - Dynamics Review.md"
               }
             }
           }
@@ -249,11 +249,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5444ba93733c14bf",
+  "active": "d9d0299f2ba3e876",
   "lastOpenFiles": [
-    "Online Courses/Untitled",
-    "Robotics Fundamentals/Lagrangian Dynamics.md",
     "Robotics Fundamentals/Nullspace Control.md",
+    "Online Courses/Manchester Optimal Control/Lecture 1 - Dynamics Review.md",
+    "Online Courses/Manchester Optimal Control",
+    "Robotics Fundamentals/Lagrangian Dynamics.md",
     "Robotics Fundamentals/Single Rigid Body Dynamics.md",
     "img_source/Pasted image 20240517172041.png",
     "Whole Body Control/Untitled.md",
@@ -295,7 +296,6 @@
     "Online Courses/3b1b Linear Algebra/img_source",
     "Reinforcement Learning/Humanoid Locomotion Using RL.md",
     "Online Courses/3b1b Linear Algebra",
-    "SIm2Real/img",
     "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
     "Untitled.canvas",
     "PLATO/Canvas.canvas"
