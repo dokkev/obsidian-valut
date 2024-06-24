@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Online Courses/Tedrake Underactuated/Lecture 1.md",
+                "file": "Online Courses/Manchester Optimal Control/Lecture 1 - Dynamics Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Online Courses/Tedrake Underactuated/Lecture 1.md",
+                "file": "Online Courses/Manchester Optimal Control/Lecture 1 - Dynamics Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Online Courses/Tedrake Underactuated/Lecture 1.md",
+                "file": "Online Courses/Manchester Optimal Control/Lecture 1 - Dynamics Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Online Courses/Tedrake Underactuated/Lecture 1.md"
+                "file": "Online Courses/Manchester Optimal Control/Lecture 1 - Dynamics Review.md"
               }
             }
           }
@@ -251,9 +251,11 @@
   },
   "active": "d9d0299f2ba3e876",
   "lastOpenFiles": [
+    "Online Courses/Tedrake Underactuated/Lecture 1.md",
+    "Online Courses/Manchester Optimal Control/img_source",
     "Online Courses/Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
     "Online Courses/Manchester Optimal Control/Lecture 1 - Dynamics Review.md",
-    "Pasted image 20240624180236.png",
+    "Online Courses/Manchester Optimal Control/img_source/Pasted image 20240624180236.png",
     "Robotics Fundamentals/Nullspace Control.md",
     "Online Courses/Manchester Optimal Control",
     "Robotics Fundamentals/Lagrangian Dynamics.md",
@@ -295,8 +297,6 @@
     "UT Courses/Spring 2024 Robotic Manipulation/Presentation Day  1.md",
     "Online Courses/3b1b Linear Algebra/Untitled.md",
     "Online Courses/3b1b Linear Algebra/img_source",
-    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
-    "Online Courses/3b1b Linear Algebra",
     "Untitled.canvas",
     "PLATO/Canvas.canvas"
   ]
