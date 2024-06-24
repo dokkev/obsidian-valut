@@ -98,6 +98,18 @@
             }
           },
           {
+            "id": "d9d0299f2ba3e876",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Robotics Fundamentals/Nullspace Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c526a2356459d11a",
             "type": "leaf",
             "state": {
@@ -110,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -176,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prorioceptive Actuation/Actuator Design in MIT Cheetah.md",
+                "file": "Robotics Fundamentals/Nullspace Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prorioceptive Actuation/Actuator Design in MIT Cheetah.md",
+                "file": "Robotics Fundamentals/Nullspace Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prorioceptive Actuation/Actuator Design in MIT Cheetah.md"
+                "file": "Robotics Fundamentals/Nullspace Control.md"
               }
             }
           }
@@ -237,8 +249,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "81f801d98ce76100",
+  "active": "5444ba93733c14bf",
   "lastOpenFiles": [
+    "Online Courses/Untitled",
+    "Robotics Fundamentals/Lagrangian Dynamics.md",
+    "Robotics Fundamentals/Nullspace Control.md",
+    "Robotics Fundamentals/Single Rigid Body Dynamics.md",
+    "img_source/Pasted image 20240517172041.png",
+    "Whole Body Control/Untitled.md",
     "Prorioceptive Actuation/What is proprioceptive actutation.md",
     "Prorioceptive Actuation/Actuator Design in MIT Cheetah.md",
     "img_source/Pasted image 20240517171955.png",
@@ -250,17 +268,12 @@
     "img_source/Pasted image 20240517003605.png",
     "img_source/Pasted image 20240517003535.png",
     "img_source/Pasted image 20240517003302.png",
-    "img_source/Pasted image 20240517003157.png",
     "img_source",
     "SIm2Real/TODO.md",
-    "Robotics Fundamentals/Single Rigid Body Dynamics.md",
     "Robotics Fundamentals/Robotics Bibles.md",
     "Robotics Fundamentals/Operational Space Control.md",
-    "Robotics Fundamentals/Nullspace Control.md",
-    "Robotics Fundamentals/Lagrangian Dynamics.md",
     "Robotics Fundamentals",
     "PLATO/Account Info.md",
-    "Whole Body Control/Untitled.md",
     "SIm2Real/Report.md",
     "Prorioceptive Actuation",
     "SIm2Real/TD-MPC2.md",
@@ -284,7 +297,6 @@
     "Online Courses/3b1b Linear Algebra",
     "SIm2Real/img",
     "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
-    "[].md",
     "Untitled.canvas",
     "PLATO/Canvas.canvas"
   ]
