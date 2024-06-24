@@ -4,5 +4,5 @@ $$
 \dot{X} = f(x,u)
 $$
 - $f$-> Dynamics
-- $x$ -> State $\in \R^M$
+- $x$ -> State $\in \mathbb{R} M$
 - 
