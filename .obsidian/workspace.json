@@ -11,6 +11,26 @@
             "id": "d9d0299f2ba3e876",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Robotics Fundamentals/img_source/Pasted image 20240625113115.png"
+              }
+            }
+          },
+          {
+            "id": "738679ea3db9883a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Robotics Fundamentals/img_source/Pasted image 20240625113058.png"
+              }
+            }
+          },
+          {
+            "id": "a4ba51799ead22a2",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Robotics Fundamentals/Trajectory Optimization Tutorial.md",
@@ -19,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,34 +167,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d9d0299f2ba3e876",
+  "active": "a4ba51799ead22a2",
   "lastOpenFiles": [
-    "Pasted image 20240625113058.png",
-    "Pasted image 20240625112318.png",
-    "Pasted image 20240625112047.png",
-    "PLATO/Account Info.md",
+    "Robotics Fundamentals/img_source/Pasted image 20240625113115.png",
+    "Robotics Fundamentals/Nullspace Control.md",
+    "Robotics Fundamentals/img_source",
+    "Robotics Fundamentals/img_source/Pasted image 20240625111740.png",
+    "Robotics Fundamentals/img_source/Pasted image 20240625112318.png",
+    "Robotics Fundamentals/img_source/Pasted image 20240625113058.png",
     "Robotics Fundamentals/Trajectory Optimization Tutorial.md",
+    "Robotics Fundamentals/img_source/Pasted image 20240625112047.png",
+    "PLATO/Account Info.md",
     "Prorioceptive Actuation/Actuator Design in MIT Cheetah.md",
     "Concepts & Knowledge/Graphs of Convex Sets.md",
     "Online Courses/3b1b Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
     "Online Courses/3b1b Linear Algebra/img_source/Pasted image 20240421181642.png",
     "Concepts & Knowledge/img_source/Pasted image 20240415171734.png",
     "Online Courses/Tedrake Underactuated/Lecture 1.md",
-    "Pasted image 20240625111740.png",
     "Online Courses/Manchester Optimal Control/Lecture 1 - Dynamics Review.md",
     "Online Courses/Manchester Optimal Control/img_source/Pasted image 20240624180522.png",
     "Online Courses/Manchester Optimal Control/img_source",
     "Online Courses/Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
     "Online Courses/Manchester Optimal Control/img_source/Pasted image 20240624180236.png",
-    "Robotics Fundamentals/Nullspace Control.md",
     "Online Courses/Manchester Optimal Control",
     "Robotics Fundamentals/Lagrangian Dynamics.md",
     "Robotics Fundamentals/Single Rigid Body Dynamics.md",
     "img_source/Pasted image 20240517172041.png",
     "Whole Body Control/Untitled.md",
     "Prorioceptive Actuation/What is proprioceptive actutation.md",
-    "img_source/Pasted image 20240517171955.png",
-    "img_source/Pasted image 20240517171855.png",
     "img_source",
     "SIm2Real/TODO.md",
     "Robotics Fundamentals/Robotics Bibles.md",
@@ -193,7 +214,6 @@
     "Concepts & Knowledge/Untitled.md",
     "conflict-files-obsidian-git.md",
     "UT Courses/Spring 2024 Robotic Manipulation/Presentation Day 1.md",
-    "Online Courses/3b1b Linear Algebra/img_source",
     "Untitled.canvas",
     "PLATO/Canvas.canvas"
   ]
