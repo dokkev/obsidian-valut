@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotics Fundamentals/Trajectory Optimization.md",
+                "file": "Robotics Fundamentals/Trajectory Optimization Tutorial.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics Fundamentals/Trajectory Optimization.md",
+                "file": "Robotics Fundamentals/Trajectory Optimization Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Robotics Fundamentals/Trajectory Optimization.md",
+                "file": "Robotics Fundamentals/Trajectory Optimization Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robotics Fundamentals/Trajectory Optimization.md"
+                "file": "Robotics Fundamentals/Trajectory Optimization Tutorial.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "d9d0299f2ba3e876",
   "lastOpenFiles": [
     "PLATO/Account Info.md",
-    "Robotics Fundamentals/Trajectory Optimization.md",
+    "Robotics Fundamentals/Trajectory Optimization Tutorial.md",
     "Prorioceptive Actuation/Actuator Design in MIT Cheetah.md",
     "Concepts & Knowledge/Graphs of Convex Sets.md",
     "Online Courses/3b1b Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
