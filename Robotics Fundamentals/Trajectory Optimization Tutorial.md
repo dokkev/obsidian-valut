@@ -8,4 +8,4 @@ https://www.youtube.com/watch?v=j82Ia436DYY&t=2476s
 - Equality constraint needs to be affine constraint (can't be quadratic)
 - Where $f_{0} ... f_{m}$ are convex functions, feasible set is convex, and the objective function is convex as well
 - On the other hand, it may be not true
-- If tour feasible set and object function are convex, 
+- If tour feasible set and object function are convex, the problem may not be convex
