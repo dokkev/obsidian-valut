@@ -10,3 +10,5 @@ https://www.youtube.com/watch?v=j82Ia436DYY&t=2476s
 - On the other hand, it may be not true
 - If tour feasible set and object function are convex, the problem may not be convex
 ![[Pasted image 20240625113115.png]]
+![[Pasted image 20240625113309.png]]
+
