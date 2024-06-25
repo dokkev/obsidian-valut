@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Online Courses/Manchester Optimal Control/Lecture 1 - Dynamics Review.md",
+                "file": "Robotics Fundamentals/Trajectory Optimization.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Online Courses/Manchester Optimal Control/Lecture 1 - Dynamics Review.md",
+                "file": "Robotics Fundamentals/Trajectory Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Online Courses/Manchester Optimal Control/Lecture 1 - Dynamics Review.md",
+                "file": "Robotics Fundamentals/Trajectory Optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Online Courses/Manchester Optimal Control/Lecture 1 - Dynamics Review.md"
+                "file": "Robotics Fundamentals/Trajectory Optimization.md"
               }
             }
           }
@@ -251,11 +251,12 @@
   },
   "active": "d9d0299f2ba3e876",
   "lastOpenFiles": [
+    "Online Courses/Manchester Optimal Control/Lecture 1 - Dynamics Review.md",
+    "Robotics Fundamentals/Trajectory Optimization.md",
     "Online Courses/Manchester Optimal Control/img_source/Pasted image 20240624180522.png",
     "Online Courses/Tedrake Underactuated/Lecture 1.md",
     "Online Courses/Manchester Optimal Control/img_source",
     "Online Courses/Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
-    "Online Courses/Manchester Optimal Control/Lecture 1 - Dynamics Review.md",
     "Online Courses/Manchester Optimal Control/img_source/Pasted image 20240624180236.png",
     "Robotics Fundamentals/Nullspace Control.md",
     "Online Courses/Manchester Optimal Control",
@@ -272,7 +273,6 @@
     "img_source/Pasted image 20240517003649.png",
     "img_source/Pasted image 20240517003630.png",
     "img_source/Pasted image 20240517003605.png",
-    "img_source/Pasted image 20240517003535.png",
     "img_source",
     "SIm2Real/TODO.md",
     "Robotics Fundamentals/Robotics Bibles.md",
