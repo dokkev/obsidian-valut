@@ -38,9 +38,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8a731ac5a1b0e3e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,7 +177,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a4ba51799ead22a2",
+  "active": "f8a731ac5a1b0e3e",
   "lastOpenFiles": [
     "Pasted image 20240625113309.png",
     "Robotics Fundamentals/img_source/Pasted image 20240625113115.png",
