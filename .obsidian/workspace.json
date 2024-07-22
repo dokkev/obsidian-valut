@@ -8,46 +8,44 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d00ddd0f935c1421",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
-          },
-          {
-            "id": "45fd1280d874061c",
+            "id": "d9d0299f2ba3e876",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "img_source/Pasted image 20240517003535.png"
+                "file": "Robotics Fundamentals/img_source/Pasted image 20240625113115.png"
               }
             }
           },
           {
-            "id": "66d31a6c89c700ea",
+            "id": "738679ea3db9883a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Robotics Fundamentals/img_source/Pasted image 20240625113058.png"
+              }
+            }
+          },
+          {
+            "id": "a4ba51799ead22a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotics Fundamentals/Single Rigid Body Dynamics.md",
+                "file": "Robotics Fundamentals/Trajectory Optimization Tutorial.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2b3808a843bca0f8",
+            "id": "f8a731ac5a1b0e3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "SIm2Real/CORN.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.6.5"
               }
             }
           }
@@ -118,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIm2Real/CORN.md",
+                "file": "Robotics Fundamentals/Trajectory Optimization Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIm2Real/CORN.md",
+                "file": "Robotics Fundamentals/Trajectory Optimization Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIm2Real/CORN.md"
+                "file": "Robotics Fundamentals/Trajectory Optimization Tutorial.md"
               }
             }
           }
@@ -179,54 +177,54 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2b3808a843bca0f8",
+  "active": "f8a731ac5a1b0e3e",
   "lastOpenFiles": [
-    "SIm2Real/TDMPC.md",
-    "SIm2Real/TD-MPC2.md",
     "SIm2Real/CORN.md",
-    "SIm2Real/Report.md",
-    "NVIDIA Isaac Sim/Issac Gym Overview.md",
-    "NVIDIA Isaac Sim/Installation & Install Error Debugging.md",
-    "Physics Informed Machine Learning/Physical Models from Data Via Optimization.md",
     "Online Courses/Manchester Optimal Control/img_source/Pasted image 20240625113309.png",
-    "conflict-files-obsidian-git.md",
-    "img_source/Pasted image 20240517172041.png",
-    "Robotics Fundamentals/img_source/Pasted image 20240625113058.png",
+    "Pasted image 20240625113309.png",
     "Robotics Fundamentals/img_source/Pasted image 20240625113115.png",
-    "Robotics Fundamentals/img_source/Pasted image 20240625112318.png",
-    "Robotics Fundamentals/img_source/Pasted image 20240625112047.png",
-    "Robotics Fundamentals/img_source/Pasted image 20240625111740.png",
+    "Robotics Fundamentals/Nullspace Control.md",
     "Robotics Fundamentals/img_source",
+    "Robotics Fundamentals/img_source/Pasted image 20240625111740.png",
+    "Robotics Fundamentals/img_source/Pasted image 20240625112318.png",
+    "Robotics Fundamentals/img_source/Pasted image 20240625113058.png",
     "Robotics Fundamentals/Trajectory Optimization Tutorial.md",
+    "Robotics Fundamentals/img_source/Pasted image 20240625112047.png",
+    "PLATO/Account Info.md",
     "Prorioceptive Actuation/Actuator Design in MIT Cheetah.md",
-    "Online Courses/Manchester Optimal Control/img_source/Pasted image 20240624180522.png",
-    "Online Courses/Manchester Optimal Control/img_source/Pasted image 20240624180236.png",
+    "Concepts & Knowledge/Graphs of Convex Sets.md",
+    "Online Courses/3b1b Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
+    "Online Courses/3b1b Linear Algebra/img_source/Pasted image 20240421181642.png",
+    "Concepts & Knowledge/img_source/Pasted image 20240415171734.png",
+    "Online Courses/Tedrake Underactuated/Lecture 1.md",
     "Online Courses/Manchester Optimal Control/Lecture 1 - Dynamics Review.md",
+    "Online Courses/Manchester Optimal Control/img_source/Pasted image 20240624180522.png",
     "Online Courses/Manchester Optimal Control/img_source",
+    "Online Courses/Tedrake Robotic Manipulation/Fall 2023 Lecture 1 Note.md",
     "Online Courses/Manchester Optimal Control",
-    "Pasted image 20240517172041.png",
     "Robotics Fundamentals/Lagrangian Dynamics.md",
     "Robotics Fundamentals/Single Rigid Body Dynamics.md",
-    "img_source",
-    "Robotics Fundamentals/Robotics Bibles.md",
-    "Robotics Fundamentals/Nullspace Control.md",
-    "Concepts & Knowledge/Graphs of Convex Sets.md",
-    "Concepts & Knowledge/How to give a Good Talk.md",
-    "Concepts & Knowledge/Karnopp Friction Compensation.md",
-    "Robotics Fundamentals/Operational Space Control.md",
-    "Online Courses/Tedrake Underactuated/Lecture 1.md",
-    "Robotics Fundamentals",
-    "Reinforcement Learning/Torque-based Deep RL on Humanoid.md",
-    "Reinforcement Learning/Humanoid Locomotion Using RL.md",
-    "Reinforcement Learning/Mujoco vs Issac Gym.md",
     "Whole Body Control/Untitled.md",
-    "Online Courses/3b1b Linear Algebra/Inverse Matrices, Column Space, and Nullspace.md",
-    "Online Courses/3b1b Linear Algebra/Untitled.md",
+    "Prorioceptive Actuation/What is proprioceptive actutation.md",
+    "img_source",
+    "SIm2Real/TODO.md",
+    "Robotics Fundamentals/Robotics Bibles.md",
+    "Robotics Fundamentals/Operational Space Control.md",
+    "Robotics Fundamentals",
+    "SIm2Real/Report.md",
     "Prorioceptive Actuation",
+    "SIm2Real/TD-MPC2.md",
+    "SIm2Real/TDMPC.md",
+    "Concepts & Knowledge/Operational Space Control.md",
     "Whole Body Control",
-    "UT Courses/Spring 2024 Robotic Manipulation",
+    "Online Courses/Boyd Convex Optimization/Lecture 1.md",
+    "Concepts & Knowledge/Intro Robotics.md",
     "UT Courses",
-    "Online Courses/Tedrake Underactuated/img_source",
+    "Online Courses",
+    "Online Courses/Boyd Convex Optimization",
+    "Concepts & Knowledge/Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "UT Courses/Spring 2024 Robotic Manipulation/Presentation Day 1.md",
     "Untitled.canvas",
     "PLATO/Canvas.canvas"
   ]
